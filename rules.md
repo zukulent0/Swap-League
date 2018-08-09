@@ -42,6 +42,8 @@ title: Rules
 - Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
 - Based on the League you wish to join (S,A,B,C,...), you will fight the league gatekeeper to determine your placement
 - The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>)
+- Leagues will fill up on a first come / first serve basis. If a higher league is filled, then you will get put in the lower league. In the case of the lower league filling up first, The highest qualified in the league will get pushed up to the higher league.
+- D LEAGUE HAS NO LIMIT ON PLAYER COUNT!!!
 - This league is available for anyone in the world to join! But....
 - If you are determined by one of the gatekeepers to be unplayable due to lag, you will then play the other gatekeeper. If after that you are still deemed unplayable due to lag, then you may not enter the league.
 - If you do not know which league you should sign up for, please use the table below:
