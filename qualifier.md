@@ -97,12 +97,12 @@ title: Qualifier Results
     <tr>
       <td>garbo</td>
       <td> </td>
-      <td> </td>
+      <td>D</td>
     </tr>
     <tr>
-      <td>Pi</td>
+      <td>Nick</td>
       <td> </td>
-      <td> </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -136,6 +136,21 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>eggu</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Pi</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>MIKAMI</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Segault</td>
       <td> </td>
       <td>D</td>
     </tr>
