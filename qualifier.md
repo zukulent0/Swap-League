@@ -84,6 +84,12 @@ title: Qualifier Results
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Ethoe</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
   </tbody>
 </table>
 
@@ -111,6 +117,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Lerart</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>eggu</td>
       <td> </td>
       <td>D</td>
     </tr>
