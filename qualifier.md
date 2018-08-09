@@ -102,17 +102,17 @@ title: Qualifier Results
     <tr>
       <td>davdav123</td>
       <td> </td>
-      <td> </td>
+      <td>D</td>
     </tr>
     <tr>
       <td>Jelledot</td>
       <td> </td>
-      <td> </td>
+      <td>D</td>
     </tr>
     <tr>
       <td>Lerart</td>
       <td> </td>
-      <td> </td>
+      <td>D</td>
     </tr>
   </tbody>
 </table>
