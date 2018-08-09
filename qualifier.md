@@ -34,6 +34,11 @@ title: Qualifier Results
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Wumbo</td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -86,6 +91,16 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Ethoe</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>garbo</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Pi</td>
       <td> </td>
       <td> </td>
     </tr>
