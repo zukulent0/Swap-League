@@ -10,6 +10,7 @@ title: Rules
 - The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling. If you do not want to use Discord or can't, contact via Twitter is fine too!
 
 ## League Overview ##
+- THIS IS A TETRIS LEAGUE!
 - Game used is Puyo Puyo Tetris for the PC (Steam)
 - Players will be placed on leagues that will contain players who belong in the same skill level
 - The different leagues are given letters (S,A,B,C,D) with S league containing the strongest players
