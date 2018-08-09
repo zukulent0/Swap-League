@@ -59,6 +59,14 @@ title: League Matchups
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Player 6</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -73,6 +81,7 @@ title: League Matchups
       <th>Player 3</th>
       <th>Player 4</th>
       <th>Player 5</th>
+      <th>Player 6</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -80,6 +89,7 @@ title: League Matchups
   <tbody>
     <tr>
       <td>Player 1</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -97,9 +107,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 3</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -117,9 +129,22 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 5</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 6</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -159,6 +184,10 @@ title: League Matchups
     </tr>
     <tr>
       <td>Player 5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 6</td>
       <td> </td>
     </tr>
   </tbody>
@@ -253,6 +282,14 @@ title: League Matchups
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -271,6 +308,7 @@ title: League Matchups
       <th>Player 7</th>
       <th>Player 8</th>
       <th>Player 9</th>
+      <th>Player 10</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -278,6 +316,7 @@ title: League Matchups
   <tbody>
     <tr>
       <td>Player 1</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -303,9 +342,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 3</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -331,9 +372,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 5</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -359,9 +402,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 7</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -387,9 +432,26 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -449,6 +511,10 @@ title: League Matchups
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
       <td> </td>
     </tr>
   </tbody>
@@ -543,6 +609,14 @@ title: League Matchups
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -561,6 +635,7 @@ title: League Matchups
       <th>Player 7</th>
       <th>Player 8</th>
       <th>Player 9</th>
+      <th>Player 10</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -568,6 +643,7 @@ title: League Matchups
   <tbody>
     <tr>
       <td>Player 1</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -593,9 +669,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 3</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -621,9 +699,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 5</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -649,9 +729,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 7</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -677,9 +759,26 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -739,6 +838,10 @@ title: League Matchups
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
       <td> </td>
     </tr>
   </tbody>
@@ -833,6 +936,14 @@ title: League Matchups
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -851,6 +962,7 @@ title: League Matchups
       <th>Player 7</th>
       <th>Player 8</th>
       <th>Player 9</th>
+      <th>Player 10</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -858,6 +970,7 @@ title: League Matchups
   <tbody>
     <tr>
       <td>Player 1</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -883,9 +996,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 3</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -911,9 +1026,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 5</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -939,9 +1056,11 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 7</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -967,9 +1086,26 @@ title: League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -1029,6 +1165,10 @@ title: League Matchups
     </tr>
     <tr>
       <td>Player 9</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Player 10</td>
       <td> </td>
     </tr>
   </tbody>

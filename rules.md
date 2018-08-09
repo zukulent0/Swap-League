@@ -6,20 +6,20 @@ title: Rules
 
 ## Contact Information ##
 - Hello everyone! I am **saltedbread** and I will be organizing this Puyo Puyo Tetris League!
-- You may contact me via Twitter (@saltedbread) and on Discord (saltedbread#3722)
-- The HardDrop Discord channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling. If you do not want to use Discord or can't, contact via Twitter is fine too!
+- You may contact me via Twitter <a href="https://twitter.com/saltedbread">@saltedbread</a> and on Discord (saltedbread#3722)
+- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling. If you do not want to use Discord or can't, contact via Twitter is fine too!
 
 ## League Overview ##
 - Game used is Puyo Puyo Tetris for the PC (Steam)
 - Players will be placed on leagues that will contain players who belong in the same skill level
-- The different leagues are given letters (S,A,B,C,...) with S league containing the strongest players
-- Maximum player count for S League is 5 players
-- Maximum player count for A,B,C leagues is 9 players
+- The different leagues are given letters (S,A,B,C,D) with S league containing the strongest players
+- Maximum player count for S League is 6 players
+- Maximum player count for A,B,C leagues is 10 players
 - D League has NO PLAYER LIMIT!
 - League size may be increased based on demand
-- Leagues will run on a Round Robin bracket: S league will play every player in the league twice while the other leagues will play every player in the league only once
+- Leagues will run on a Round Robin bracket: S league will play every player in the league twice while the other leagues (A/B/C) will play every player in the league only once
 - Depending on size, D League will either run as Round Robin (9 or less) or Swiss format (10 or more)
-- The run time for this League season is 1 month
+- The run time for this League season is 10 Weeks
 
 
 ## Scheduling ##
@@ -27,9 +27,11 @@ title: Rules
 - A **FT15 set** is defined as 2 players having a 1v1 match where the first player to win 15 individual games is the winner
 - The overall schedule of the league should be determined by the time the league starts
 - This means that each person's weekly matchup for Weeks 1-4 will be on display and it is up to the players to contact their opponent to schedule a good time to match
+- Scheduling for D League will be different if it runs Swiss since the current round needs to finish before determining the schedule for the next round
 - Please message the Tournament Organizer (me) when you and your opponent have agreed on a match time. Ideally use the HD #pptleague channel, but Twitter is fine too
 - Since this league is an international one, we do not have a default match time because it may not be ideal for all players
 - **If you do not set up a time to play your opponent, you will forfeit that match! If you do not schedule your match a second time then you will be disqualified from the league!**
+- DO NOT BE LATE for your matches. If you are late for more than 15 minutes you forfeit the set. 
 
 ## Match Specifics ##
 - The recommended ruleset when making a Free Play room is: 1v1, Tetris Only, 3 game set
@@ -37,6 +39,7 @@ title: Rules
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
 - Ideally try to have your match recorded and uploaded on a video streaming service (Youtube, Twitch, Niconico, etc...)
 - Using cheats will forfeit your match and disqualify you from this league and any future leagues made by me.
+- Recorded video will be used to settle score disputes, cheat/lag accusations
 
 ## Joining the League ##
 - Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
