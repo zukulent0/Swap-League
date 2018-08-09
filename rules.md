@@ -14,9 +14,11 @@ title: Rules
 - Players will be placed on leagues that will contain players who belong in the same skill level
 - The different leagues are given letters (S,A,B,C,...) with S league containing the strongest players
 - Maximum player count for S League is 5 players
-- Maximum player count for A,B,C,... leagues is 9 players
+- Maximum player count for A,B,C leagues is 9 players
+- D League has NO PLAYER LIMIT!
 - League size may be increased based on demand
 - Leagues will run on a Round Robin bracket: S league will play every player in the league twice while the other leagues will play every player in the league only once
+- Depending on size, D League will either run as Round Robin (9 or less) or Swiss format (10 or more)
 - The run time for this League season is 1 month
 
 
@@ -37,9 +39,9 @@ title: Rules
 - Using cheats will forfeit your match and disqualify you from this league and any future leagues made by me.
 
 ## Joining the League ##
-- Please use this [FORM] to sign up for the league
+- Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
 - Based on the League you wish to join (S,A,B,C,...), you will fight the league gatekeeper to determine your placement
-- The S/A gatekeeper is (@someone) while the B/C gatekeeper is (@saltedbread)
+- The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>)
 - This league is available for anyone in the world to join! But....
 - If you are determined by one of the gatekeepers to be unplayable due to lag, you will then play the other gatekeeper. If after that you are still deemed unplayable due to lag, then you may not enter the league.
 - If you do not know which league you should sign up for, please use the table below:
@@ -56,7 +58,7 @@ title: Rules
   </thead>
   <tfoot>
     <tr>
-      <td>Newbie</td>
+      <td>D League</td>
       <td>N/A</td>
       <td>N/A</td>
       <td>N/A</td>
