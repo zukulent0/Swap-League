@@ -18,8 +18,8 @@ title: Rules
 - D League has NO PLAYER LIMIT!
 - League size may be increased based on demand
 - Leagues will run on a Round Robin bracket: S league will play every player in the league twice while the other leagues (A/B/C) will play every player in the league only once
-- Depending on size, D League will either run as Round Robin (9 or less) or Swiss format (10 or more)
-- The run time for this League season is 10 Weeks
+- Depending on size, D League will either run as Round Robin (10 or less) or Swiss format (11 or more)
+- The run time for this League season is 5 Weeks
 
 
 ## Scheduling ##
@@ -43,7 +43,7 @@ title: Rules
 
 ## Joining the League ##
 - Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
-- Based on the League you wish to join (S,A,B,C,...), you will fight the league gatekeeper to determine your placement
+- Based on the League you wish to join (S,A,B,C,D), you will fight the league gatekeeper to determine your placement
 - The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>)
 - S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
 - D League entrants will play a FT3 set with <a href="https://twitter.com/saltedbread">@saltedbread</a>
@@ -57,10 +57,10 @@ title: Rules
   <thead>
     <tr>
       <th>League</th>
-      <th>Aruni Leauge</th>
+      <th>Aruni League</th>
       <th>Vs Blink (21,000)</th>
       <th>Vs saltedbread (18,000)</th>
-	  <th>PPT PC Ranked Rating</th>
+	  <th>Online Rating</th>
     </tr>
   </thead>
   <tbody>
