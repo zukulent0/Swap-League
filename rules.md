@@ -42,6 +42,8 @@ title: Rules
 - Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
 - Based on the League you wish to join (S,A,B,C,...), you will fight the league gatekeeper to determine your placement
 - The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>)
+- S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
+- D League entrants will play a FT3 set with <a href="https://twitter.com/saltedbread">@saltedbread</a>
 - Leagues will fill up on a first come / first serve basis. If a higher league is filled, then you will get put in the lower league. In the case of the lower league filling up first, The highest qualified in the league will get pushed up to the higher league.
 - D LEAGUE HAS NO LIMIT ON PLAYER COUNT!!!
 - This league is available for anyone in the world to join! But....
@@ -58,15 +60,6 @@ title: Rules
 	  <th>PPT PC Ranked Rating</th>
     </tr>
   </thead>
-  <tfoot>
-    <tr>
-      <td>D League</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td><10,000</td>
-    </tr>
-  </tfoot>
   <tbody>
     <tr>
       <td>S League</td>
@@ -95,6 +88,15 @@ title: Rules
       <td>N/A</td>
       <td>11-15 or lower</td>
       <td>10,000-14,999</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>D League</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td><10,000</td>
     </tr>
   </tbody>
 </table>
