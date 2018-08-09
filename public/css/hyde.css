@@ -76,10 +76,10 @@ html {
 }
 
 /* About section */
+/*  font-family: "Abril Fatface", serif; */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
