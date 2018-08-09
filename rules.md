@@ -6,7 +6,7 @@ title: Rules
 
 ## Contact Information ##
 - Hello everyone! I am **saltedbread** and I will be organizing this Puyo Puyo Tetris League!
-- You may contact me via Twitter <a href="https://twitter.com/saltedbread">@saltedbread</a> and on Discord (saltedbread#3722)
+- You may contact me via Twitter <a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>, and on Discord (saltedbread#3722)
 - The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling. If you do not want to use Discord or can't, contact via Twitter is fine too!
 
 ## League Overview ##
@@ -44,7 +44,7 @@ title: Rules
 ## Joining the League ##
 - Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
 - Based on the League you wish to join (S,A,B,C,D), you will fight the league gatekeeper to determine your placement
-- The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>)
+- The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>, <a href="https://steamcommunity.com/id/Brinku/">Steam</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>)
 - S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
 - D League entrants will play a FT3 set with <a href="https://twitter.com/saltedbread">@saltedbread</a>
 - Leagues will fill up on a first come / first serve basis. If a higher league is filled, then you will get put in the lower league. In the case of the lower league filling up first, The highest qualified in the league will get pushed up to the higher league.
