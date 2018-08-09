@@ -90,7 +90,6 @@ title: Qualifier Results
       <td> </td>
     </tr>
   </tbody>
-  </tbody>
 </table>
 
 
