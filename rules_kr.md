@@ -103,10 +103,10 @@ title: 규칙
   </tbody>
   <tbody>
     <tr>
-      <td>D League</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td>D 리그</td>
+      <td>해당 없음</td>
+      <td>해당 없음</td>
+      <td>해당 없음</td>
       <td><10,000</td>
     </tr>
   </tbody>
