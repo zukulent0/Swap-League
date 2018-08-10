@@ -150,7 +150,7 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>Segault</td>
+      <td>SegFault</td>
       <td> </td>
       <td>D</td>
     </tr>
