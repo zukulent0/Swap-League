@@ -97,9 +97,9 @@ title: Reglas
   <tbody>
     <tr>
       <td>Liga de Clase D</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td>ninguno</td>
+      <td>ninguno</td>
+      <td>ninguno</td>
       <td><10,000</td>
     </tr>
   </tbody>
