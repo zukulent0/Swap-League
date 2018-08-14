@@ -48,7 +48,9 @@ title: Reglas
 - El guardián de las clases S y A es Blink (<a href="https://twitter.com/harddrop">@harddrop</a>, <a href="https://steamcommunity.com/id/Brinku/">Steam</a>) mientras que el guardián de las clases B y C es saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>)
 - Los participantes de las clases S, A, B, y C jugarán una partida calificadora de 15 puntos/victorias con su guardián especifico
 - Los participantes de la Clase D jugarán un set de 3 puntos/victorias con <a href="https://twitter.com/saltedbread">@saltedbread</a>
-- Las Clases se llenarán por orden de llegada o de las solicitudes, Si se llena una liga de clase más alta, entonces te pondrán en la clase inferior. En el caso de que la clase inferior se llene primero, los más calificados en la liga serán arrastrados a la liga de clase mas alta en ese caso.
+- ~~Las Clases se llenarán por orden de llegada o de las solicitudes, Si se llena una liga de clase más alta, entonces te pondrán en la clase inferior. En el caso de que la clase inferior se llene primero, los más calificados en la liga serán arrastrados a la liga de clase mas alta en ese caso.~~
+- **Para determinar la clase de la liga, todos serán clasificados en función de los resultados de los partidos de su guardián. Una vez finalizado el período de registro, los participantes se dividirán en sus respectivas ligas.**
+- **Por ejemplo, #1-6 irás a la Clase S. #7-16 Clase A, #17-26 Clase B, etc... se irán agregando ligas por clase hasta que todos hayan sido ubicados en uno.**
 - LA CLASE D NO TIENE LÍMITE EN EL CONTEO DE JUGADORES!!!
 - ¡Esta liga está disponible para que todos en el mundo se unan! Pero....
 - Si uno de los porteros determina que no se puede jugar debido a los lags, entonces jugará contra el otro guardián. Si después de eso todavía eres considerado injugable debido a los lags, entonces no puedes inscribirte a la liga. **asegurate de tener los requisitos de tener Internet estable y CPU de superior a Intel Core i3 y 4GB RAM**

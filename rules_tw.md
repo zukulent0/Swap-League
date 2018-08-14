@@ -44,7 +44,9 @@ title: 規則
 - S/A 級考官為Blink (a href="https://twitter.com/harddrop">@harddrop</a>, <a href="https://steamcommunity.com/id/Brinku/">Steam</a>) ，B/C 級考官為saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>)
 - S/A/B/C 的玩家會跟考官比一場搶15的賽事
 - D級玩家會跟@saltedbread搶3
-- 級別會以先報先佔位原則。若較高級別已經上限的話，您會被分配到在他下面的級別(例: S降到A)。在較低級別先被佔滿的情況下，該級最高等玩家會被升到下一級去(例: B升到A)。
+- ~~級別會以先報先佔位原則。若較高級別已經上限的話，您會被分配到在他下面的級別(例: S降到A)。在較低級別先被佔滿的情況下，該級最高等玩家會被升到下一級去(例: B升到A)。~~
+- **由於人數關係，分級將會依據跟考官的戰績來排。**
+- **1-6名為S級，7-16名為A績，17-26為B績等等一直加到每個人有個級別為止。**
 - D級沒有人數限制!!!!!!
 - 若A考官覺得您的網絡不穩定導致lag，您將會被分配到B考官比第二次。若兩位考官覺得您還是不穩定導致lag，那您就不能參賽。
 - 如果您不知道要參加什麼級別，可以參考以下列表:
