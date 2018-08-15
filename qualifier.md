@@ -39,6 +39,36 @@ title: Qualifier Results
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>aruni084</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>OnePunMan</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>CrazyHIKO</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>ZeroT</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>soulmiracle1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>popte</td>
+      <td> </td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
