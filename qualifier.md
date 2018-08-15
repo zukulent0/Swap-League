@@ -3,7 +3,7 @@ layout: page
 title: Qualifier Results
 ---
 
-## Vs Blink (S/A)##
+## Vs Blink (S/A) ##
 
 <table>
   <thead>
