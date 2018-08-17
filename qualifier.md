@@ -338,7 +338,7 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>zephel_sei_lan</td>
+      <td>gomidesu</td>
       <td> </td>
       <td>D</td>
     </tr>
