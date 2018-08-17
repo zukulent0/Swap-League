@@ -273,6 +273,11 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>Ham★</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>davdav1233</td>
       <td> </td>
       <td>D</td>
@@ -309,11 +314,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Oblivion</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Ham★</td>
       <td> </td>
       <td>D</td>
     </tr>
