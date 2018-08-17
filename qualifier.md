@@ -103,6 +103,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>zukulent0</td>
+      <td>5-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>EpicYoshi</td>
       <td>1-15</td>
       <td></td>
@@ -244,11 +249,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Qlextender</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>zukulent0</td>
       <td> </td>
       <td></td>
     </tr>
