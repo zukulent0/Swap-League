@@ -88,6 +88,11 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>ろーれん</td>
+      <td>11-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>EpicYoshi</td>
       <td>1-15</td>
       <td></td>
