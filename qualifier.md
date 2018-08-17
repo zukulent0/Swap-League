@@ -93,6 +93,11 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>SiaMeS2E</td>
+      <td>15-11</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>ろーれん</td>
       <td>11-15</td>
       <td></td>
@@ -249,11 +254,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>DHK007</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>SiaMeS2E</td>
       <td> </td>
       <td></td>
     </tr>
