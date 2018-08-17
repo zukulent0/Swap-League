@@ -242,6 +242,11 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>SiaMeS2E</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -294,6 +299,46 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Oblivion</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Ham★</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>alenico8</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Tetri</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Scamper</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Fyzzl</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>koumyouguren</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>ImSorryJulia</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>zephel_sei_lan</td>
       <td> </td>
       <td>D</td>
     </tr>
