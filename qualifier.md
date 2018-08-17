@@ -71,6 +71,11 @@ title: Qualifier Results
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Doremy</td>
+      <td> </td>
+      <td> </td>
+    </tr>
     
   </tbody>
 </table>
