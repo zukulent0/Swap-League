@@ -98,6 +98,16 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Reddyeen/Sharko</td>
+      <td>15-13</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>garbo</td>
+      <td>15-14</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>ろーれん</td>
       <td>11-15</td>
       <td></td>
@@ -106,6 +116,11 @@ title: Qualifier Results
       <td>zukulent0</td>
       <td>5-15</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>MIKAMI</td>
+      <td>3-15</td>
+      <td>C</td>
     </tr>
     <tr>
       <td>EpicYoshi</td>
@@ -138,11 +153,6 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>Reddyeen/Sharko</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>Gallean</td>
       <td> </td>
       <td> </td>
@@ -151,11 +161,6 @@ title: Qualifier Results
       <td>Ethoe</td>
       <td> </td>
       <td> </td>
-    </tr>
-    <tr>
-      <td>garbo</td>
-      <td> </td>
-      <td>D</td>
     </tr>
     <tr>
       <td>Nick</td>
@@ -299,11 +304,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Pi</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>MIKAMI</td>
       <td> </td>
       <td>D</td>
     </tr>
