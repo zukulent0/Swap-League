@@ -120,7 +120,7 @@ title: Qualifier Results
     <tr>
       <td>MIKAMI</td>
       <td>3-15</td>
-      <td>C</td>
+      <td></td>
     </tr>
     <tr>
       <td>EpicYoshi</td>
