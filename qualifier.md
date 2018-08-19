@@ -329,7 +329,7 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Zerolightz</td>
-      <td>0-3</td>
+      <td>1-3</td>
       <td>D</td>
     </tr>
     <tr>
