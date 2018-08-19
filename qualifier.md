@@ -108,6 +108,16 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Dazer</td>
+      <td>14-15</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>CooJ</td>
+      <td>13-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>ろーれん</td>
       <td>11-15</td>
       <td></td>
@@ -126,11 +136,6 @@ title: Qualifier Results
       <td>EpicYoshi</td>
       <td>1-15</td>
       <td></td>
-    </tr>
-    <tr>
-      <td>Dazer</td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
       <td>Neo7</td>
@@ -189,11 +194,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Theycallmesachi</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>CooJ</td>
       <td> </td>
       <td></td>
     </tr>
@@ -262,6 +262,46 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>OkeyDokey</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PantsForHire</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>fatedistro</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Haxel59</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>wizard944</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>kress</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MyNameOG</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -280,6 +320,21 @@ title: Qualifier Results
     <tr>
       <td>Ham★</td>
       <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>gomidesu</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Zerolightz</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Gameraid453</td>
+      <td>0-3</td>
       <td>D</td>
     </tr>
     <tr>
@@ -348,7 +403,7 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>gomidesu</td>
+      <td>NukeExplosions</td>
       <td> </td>
       <td>D</td>
     </tr>
