@@ -76,6 +76,16 @@ title: Qualifier Results
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Yoshi100_AUS</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>yida9900</td>
+      <td> </td>
+      <td></td>
+    </tr>
     
   </tbody>
 </table>
@@ -143,6 +153,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Fyzzl</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>MIKAMI</td>
       <td>3-15</td>
       <td></td>
@@ -156,6 +171,11 @@ title: Qualifier Results
       <td>Neo7</td>
       <td>1-15</td>
       <td> </td>
+    </tr>
+    <tr>
+      <td>Haxel59</td>
+      <td>1-15</td>
+      <td></td>
     </tr>
     <tr>
       <td>onizuka777</td>
@@ -263,11 +283,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>DHK007</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>OkeyDokey</td>
       <td> </td>
       <td></td>
@@ -279,11 +294,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>fatedistro</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Haxel59</td>
       <td> </td>
       <td></td>
     </tr>
@@ -329,6 +339,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Zerolightz</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>DHK007</td>
       <td>1-3</td>
       <td>D</td>
     </tr>
@@ -384,11 +399,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Scamper</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Fyzzl</td>
       <td> </td>
       <td>D</td>
     </tr>
