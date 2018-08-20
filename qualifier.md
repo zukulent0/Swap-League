@@ -98,6 +98,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>RJ</td>
+      <td>15-12</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>Reddyeen/Sharko</td>
       <td>15-13</td>
       <td> </td>
@@ -123,8 +128,18 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Helomair</td>
+      <td>6-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>zukulent0</td>
       <td>5-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san</td>
+      <td>4-15</td>
       <td></td>
     </tr>
     <tr>
@@ -139,7 +154,7 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Neo7</td>
-      <td> </td>
+      <td>1-15</td>
       <td> </td>
     </tr>
     <tr>
@@ -149,11 +164,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Shana</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>RJ</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -243,11 +253,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Helomair</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Meiling</td>
       <td> </td>
       <td></td>
@@ -264,11 +269,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>OkeyDokey</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>124san</td>
       <td> </td>
       <td></td>
     </tr>
