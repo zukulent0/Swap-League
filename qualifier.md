@@ -103,6 +103,11 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>kress</td>
+      <td>15-7</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>SiaMeS2E</td>
       <td>15-11</td>
       <td></td>
@@ -138,6 +143,16 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>it was all a dream</td>
+      <td>9-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Meiling</td>
+      <td>7-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Helomair</td>
       <td>6-15</td>
       <td></td>
@@ -163,6 +178,21 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Gallean</td>
+      <td>3-15</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Oblivion</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Blank</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>EpicYoshi</td>
       <td>1-15</td>
       <td></td>
@@ -178,6 +208,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>52_bloodeyes</td>
+      <td>0-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>onizuka777</td>
       <td> </td>
       <td> </td>
@@ -188,22 +223,12 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>Gallean</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>Ethoe</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Nick</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>it was all a dream</td>
       <td> </td>
       <td></td>
     </tr>
@@ -229,11 +254,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>NA Aim-</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>52_bloodeyes</td>
       <td> </td>
       <td></td>
     </tr>
@@ -273,11 +293,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Meiling</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Qlextender</td>
       <td> </td>
       <td></td>
@@ -303,11 +318,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>kress</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>MyNameOG</td>
       <td> </td>
       <td></td>
@@ -327,6 +337,11 @@ title: Qualifier Results
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>davdav1233</td>
+      <td>3-2</td>
+      <td>D</td>
+    </tr>
     <tr>
       <td>Ham★</td>
       <td>1-3</td>
@@ -353,11 +368,6 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>davdav1233</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
       <td>Jelledot</td>
       <td> </td>
       <td>D</td>
@@ -379,11 +389,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>SegFault</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Oblivion</td>
       <td> </td>
       <td>D</td>
     </tr>
