@@ -322,6 +322,21 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>PichuFreak</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Circu1ation</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lester Calwell</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -359,6 +374,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>DHK007</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Schwefel24</td>
       <td>1-3</td>
       <td>D</td>
     </tr>
@@ -419,6 +439,21 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>NukeExplosions</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>XeaL</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>TheBoxerZ</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Kedzip</td>
       <td> </td>
       <td>D</td>
     </tr>
