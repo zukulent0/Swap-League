@@ -333,7 +333,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Lester Calwell</td>
+      <td>Lester Caldwell</td>
       <td> </td>
       <td></td>
     </tr>
