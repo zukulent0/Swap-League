@@ -15,17 +15,17 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>Casey.GV</td>
+      <td>3-15</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>Clockworker</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>z2sam</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Casey.GV</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -148,6 +148,16 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Circu1ation</td>
+      <td>9-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>NA Aim-</td>
+      <td>7-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Meiling</td>
       <td>7-15</td>
       <td></td>
@@ -253,11 +263,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>NA Aim-</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>BOBtheman2000</td>
       <td> </td>
       <td></td>
@@ -324,11 +329,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>PichuFreak</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Circu1ation</td>
       <td> </td>
       <td></td>
     </tr>
