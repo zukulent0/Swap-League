@@ -15,8 +15,13 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
-      <td>Casey.GV</td>
+      <td>yida9900</td>
       <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Casey.GV</td>
+      <td>2-15</td>
       <td> </td>
     </tr>
     <tr>
@@ -78,11 +83,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Yoshi100_AUS</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>yida9900</td>
       <td> </td>
       <td></td>
     </tr>
