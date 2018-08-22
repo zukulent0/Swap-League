@@ -183,6 +183,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Luminsen</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>MIKAMI</td>
       <td>3-15</td>
       <td></td>
