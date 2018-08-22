@@ -86,6 +86,11 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>Iljain</td>
+      <td> </td>
+      <td></td>
+    </tr>
     
   </tbody>
 </table>
@@ -102,6 +107,11 @@ title: Qualifier Results
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Ting</td>
+      <td>15-4</td>
+      <td></td>
+    </tr>
     <tr>
       <td>kress</td>
       <td>15-7</td>
