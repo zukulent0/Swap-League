@@ -15,12 +15,27 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>aruni084</td>
+      <td>15-6</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>popte</td>
+      <td>6-15</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>yida9900</td>
       <td>3-15</td>
       <td></td>
     </tr>
     <tr>
       <td>Casey.GV</td>
+      <td>2-15</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>baseballboy</td>
       <td>2-15</td>
       <td> </td>
     </tr>
@@ -35,22 +50,12 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>baseballboy</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>Wumbo</td>
       <td> </td>
       <td> </td>
     </tr>
     
     
-    <tr>
-      <td>aruni084</td>
-      <td> </td>
-      <td> </td>
-    </tr>
     <tr>
       <td>OnePunMan</td>
       <td> </td>
@@ -68,11 +73,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>soulmiracle1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>popte</td>
       <td> </td>
       <td> </td>
     </tr>
