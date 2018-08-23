@@ -20,6 +20,11 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>Doremy</td>
+      <td>9-15</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>popte</td>
       <td>6-15</td>
       <td> </td>
@@ -73,11 +78,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>soulmiracle1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Doremy</td>
       <td> </td>
       <td> </td>
     </tr>
