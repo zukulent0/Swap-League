@@ -20,9 +20,19 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>Iljain</td>
+      <td>10-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Doremy</td>
       <td>9-15</td>
       <td> </td>
+    </tr>
+    <tr>
+      <td>Pokedialga</td>
+      <td>8-15</td>
+      <td></td>
     </tr>
     <tr>
       <td>popte</td>
@@ -87,7 +97,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Iljain</td>
+      <td>Damon</td>
       <td> </td>
       <td></td>
     </tr>
@@ -173,12 +183,22 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Nick</td>
+      <td>7-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Helomair</td>
       <td>6-15</td>
       <td></td>
     </tr>
     <tr>
       <td>zukulent0</td>
+      <td>5-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MSon</td>
       <td>5-15</td>
       <td></td>
     </tr>
@@ -253,17 +273,7 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>Nick</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>t-block</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MSon</td>
       <td> </td>
       <td></td>
     </tr>
@@ -352,6 +362,26 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>SimpleFlips</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>WD</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scottobozo</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jason0107</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -408,6 +438,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Tetri</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Jelledot</td>
       <td> </td>
       <td>D</td>
@@ -438,11 +473,6 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>Tetri</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
       <td>Scamper</td>
       <td> </td>
       <td>D</td>
@@ -469,6 +499,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Kedzip</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Shizu</td>
       <td> </td>
       <td>D</td>
     </tr>
