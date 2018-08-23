@@ -403,6 +403,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>ImSorryJulia</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Jelledot</td>
       <td> </td>
       <td>D</td>
@@ -444,11 +449,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>koumyouguren</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>ImSorryJulia</td>
       <td> </td>
       <td>D</td>
     </tr>
