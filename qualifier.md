@@ -101,6 +101,11 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>Jason0107</td>
+      <td> </td>
+      <td></td>
+    </tr>
     
   </tbody>
 </table>
@@ -374,11 +379,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Scottobozo</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jason0107</td>
       <td> </td>
       <td></td>
     </tr>
