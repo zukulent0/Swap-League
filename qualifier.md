@@ -143,6 +143,11 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>OkeyDokey</td>
+      <td>15-12</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Reddyeen/Sharko</td>
       <td>15-13</td>
       <td> </td>
@@ -253,6 +258,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>XeaL</td>
+      <td>2-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>EpicYoshi</td>
       <td>1-15</td>
       <td></td>
@@ -338,11 +348,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>OkeyDokey</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>PantsForHire</td>
       <td> </td>
       <td></td>
@@ -382,6 +387,11 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>AceArrow</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -400,6 +410,11 @@ title: Qualifier Results
     <tr>
       <td>davdav1233</td>
       <td>3-2</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>eggu</td>
+      <td>2-3</td>
       <td>D</td>
     </tr>
     <tr>
@@ -443,17 +458,12 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>Jelledot</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
       <td>Lerart</td>
-      <td> </td>
+      <td>0-3</td>
       <td>D</td>
     </tr>
     <tr>
-      <td>eggu</td>
+      <td>Jelledot</td>
       <td> </td>
       <td>D</td>
     </tr>
@@ -488,11 +498,6 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>XeaL</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
       <td>TheBoxerZ</td>
       <td> </td>
       <td>D</td>
@@ -504,6 +509,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Shizu</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Owl</td>
       <td> </td>
       <td>D</td>
     </tr>
