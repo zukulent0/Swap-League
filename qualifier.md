@@ -168,6 +168,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Scottobozo</td>
+      <td>11-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>it was all a dream</td>
       <td>9-15</td>
       <td></td>
@@ -374,11 +379,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>WD</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Scottobozo</td>
       <td> </td>
       <td></td>
     </tr>
