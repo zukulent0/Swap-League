@@ -97,7 +97,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Damon</td>
+      <td>gamster_death</td>
       <td> </td>
       <td></td>
     </tr>
@@ -208,6 +208,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Donorgyll</td>
+      <td>7-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Helomair</td>
       <td>6-15</td>
       <td></td>
@@ -258,6 +263,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Hanna</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>XeaL</td>
       <td>2-15</td>
       <td></td>
@@ -279,6 +289,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>52_bloodeyes</td>
+      <td>0-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>AceArrow</td>
       <td>0-15</td>
       <td></td>
     </tr>
@@ -333,11 +348,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Hanna</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>wait_what</td>
       <td> </td>
       <td></td>
@@ -384,11 +394,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>WD</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>AceArrow</td>
       <td> </td>
       <td></td>
     </tr>
