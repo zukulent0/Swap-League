@@ -178,6 +178,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Shard Nguyễn</td>
+      <td>11-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>it was all a dream</td>
       <td>9-15</td>
       <td></td>
@@ -399,11 +404,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Hua</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Shard Nguyễn</td>
       <td> </td>
       <td></td>
     </tr>
