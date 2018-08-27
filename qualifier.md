@@ -198,6 +198,11 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>WD</td>
+      <td>9-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>NA Aim-</td>
       <td>7-15</td>
       <td></td>
@@ -394,11 +399,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>SimpleFlips</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>WD</td>
       <td> </td>
       <td></td>
     </tr>
