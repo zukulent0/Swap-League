@@ -35,14 +35,29 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>CrazyHIKO</td>
+      <td>7-15</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>popte</td>
       <td>6-15</td>
       <td> </td>
     </tr>
     <tr>
+      <td>Yoshi100_AUS</td>
+      <td>6-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>yida9900</td>
       <td>3-15</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>soulmiracle1</td>
+      <td>3-15</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Casey.GV</td>
@@ -77,24 +92,9 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>CrazyHIKO</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>ZeroT</td>
       <td> </td>
       <td> </td>
-    </tr>
-    <tr>
-      <td>soulmiracle1</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Yoshi100_AUS</td>
-      <td> </td>
-      <td></td>
     </tr>
     <tr>
       <td>gamster_death</td>
@@ -295,7 +295,12 @@ title: Qualifier Results
     <tr>
       <td>AceArrow</td>
       <td>0-15</td>
-      <td></td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Claux_Carrera</td>
+      <td>0-15</td>
+      <td>D</td>
     </tr>
     <tr>
       <td>onizuka777</td>
@@ -324,11 +329,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>BOBtheman2000</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Claux_Carrera</td>
       <td> </td>
       <td></td>
     </tr>
@@ -397,6 +397,21 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
+    <tr>
+      <td>Hua</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shard Nguyễn</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>acliv</td>
+      <td> </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -448,6 +463,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>koumyouguren</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Gameraid453</td>
       <td>0-3</td>
       <td>D</td>
@@ -464,6 +484,16 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Lerart</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>-Unknow</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>shuantsu</td>
       <td>0-3</td>
       <td>D</td>
     </tr>
@@ -489,11 +519,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Scamper</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>koumyouguren</td>
       <td> </td>
       <td>D</td>
     </tr>
