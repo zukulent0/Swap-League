@@ -228,6 +228,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>t-block</td>
+      <td>6-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>zukulent0</td>
       <td>5-15</td>
       <td></td>
@@ -236,6 +241,11 @@ title: Qualifier Results
       <td>MSon</td>
       <td>5-15</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>onizuka777</td>
+      <td>5-15</td>
+      <td> </td>
     </tr>
     <tr>
       <td>124san</td>
@@ -249,6 +259,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Luminsen</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>player</td>
       <td>4-15</td>
       <td></td>
     </tr>
@@ -313,19 +328,9 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>onizuka777</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>Ethoe</td>
       <td> </td>
       <td> </td>
-    </tr>
-    <tr>
-      <td>t-block</td>
-      <td> </td>
-      <td></td>
     </tr>
     <tr>
       <td>grayxkxa</td>
@@ -498,6 +503,16 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Owl</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>alenico8</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Jelledot</td>
       <td> </td>
       <td>D</td>
@@ -509,11 +524,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>SegFault</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>alenico8</td>
       <td> </td>
       <td>D</td>
     </tr>
@@ -539,11 +549,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Shizu</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Owl</td>
       <td> </td>
       <td>D</td>
     </tr>
