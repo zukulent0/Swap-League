@@ -50,6 +50,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Jason0107</td>
+      <td>6-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>yida9900</td>
       <td>3-15</td>
       <td></td>
@@ -68,6 +73,11 @@ title: Qualifier Results
       <td>baseballboy</td>
       <td>2-15</td>
       <td> </td>
+    </tr>
+    <tr>
+      <td>Ting</td>
+      <td>0-15</td>
+      <td></td>
     </tr>
     <tr>
       <td>Clockworker</td>
@@ -98,11 +108,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>gamster_death</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jason0107</td>
       <td> </td>
       <td></td>
     </tr>
@@ -199,6 +204,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>WD</td>
+      <td>9-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>grayxkxa</td>
       <td>9-15</td>
       <td></td>
     </tr>
@@ -333,11 +343,6 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
-      <td>grayxkxa</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Theycallmesachi</td>
       <td> </td>
       <td></td>
@@ -443,6 +448,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Shizu</td>
+      <td>3-2</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Ham★</td>
       <td>1-3</td>
       <td>D</td>
@@ -513,8 +523,13 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Tanarus</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Jelledot</td>
-      <td> </td>
+      <td>0-3</td>
       <td>D</td>
     </tr>
     <tr>
@@ -544,11 +559,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Kedzip</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Shizu</td>
       <td> </td>
       <td>D</td>
     </tr>
