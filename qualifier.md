@@ -15,13 +15,13 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
-      <td>Wumbo</td>
-      <td>15-9</td>
+      <td>aruni084</td>
+      <td>15-6</td>
       <td> </td>
     </tr>
     <tr>
-      <td>aruni084</td>
-      <td>15-6</td>
+      <td>Wumbo</td>
+      <td>15-9</td>
       <td> </td>
     </tr>
     <tr>
