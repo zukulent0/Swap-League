@@ -153,7 +153,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Reddyeen/Sharko</td>
+      <td>ookamisuketoudara</td>
       <td>15-13</td>
       <td> </td>
     </tr>
@@ -483,6 +483,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Jelledot</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Gameraid453</td>
       <td>0-3</td>
       <td>D</td>
@@ -529,11 +534,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Tanarus</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Jelledot</td>
       <td>0-3</td>
       <td>D</td>
     </tr>
