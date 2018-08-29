@@ -333,6 +333,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Qlex</td>
+      <td> </td>
+      <td></td>
+    </tr>
+    <tr>
       <td>AceArrow</td>
       <td>0-15</td>
       <td>D</td>
@@ -374,11 +379,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>wait_what</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Qlextender</td>
       <td> </td>
       <td></td>
     </tr>
