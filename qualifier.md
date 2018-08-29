@@ -15,6 +15,11 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
+      <td>Wumbo</td>
+      <td>15-9</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>aruni084</td>
       <td>15-6</td>
       <td> </td>
@@ -86,11 +91,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>z2sam</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Wumbo</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -323,6 +323,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>PichuFreak</td>
+      <td>0-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>52_bloodeyes</td>
       <td>0-15</td>
       <td></td>
@@ -394,11 +399,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>MyNameOG</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>PichuFreak</td>
       <td> </td>
       <td></td>
     </tr>
@@ -523,6 +523,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>NukeExplosions</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Tanarus</td>
       <td>0-3</td>
       <td>D</td>
@@ -533,22 +538,22 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>SegFault</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>makotoadmirer</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Pi</td>
       <td> </td>
       <td>D</td>
     </tr>
     <tr>
-      <td>SegFault</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
       <td>Scamper</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>NukeExplosions</td>
       <td> </td>
       <td>D</td>
     </tr>
