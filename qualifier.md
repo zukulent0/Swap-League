@@ -40,6 +40,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>ZeroT</td>
+      <td>8-15</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>CrazyHIKO</td>
       <td>7-15</td>
       <td> </td>
@@ -98,11 +103,6 @@ title: Qualifier Results
     
     <tr>
       <td>OnePunMan</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>ZeroT</td>
       <td> </td>
       <td> </td>
     </tr>
