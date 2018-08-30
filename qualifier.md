@@ -138,6 +138,16 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Bronze V Tetris</td>
+      <td>15-7</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua</td>
+      <td>15-9</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>SiaMeS2E</td>
       <td>15-11</td>
       <td></td>
@@ -184,6 +194,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Shard Nguyễn</td>
+      <td>11-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>acliv</td>
       <td>11-15</td>
       <td></td>
     </tr>
@@ -334,7 +349,7 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Qlex</td>
-      <td> </td>
+      <td>0-15</td>
       <td></td>
     </tr>
     <tr>
@@ -373,7 +388,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Sweet Temptation</td>
+      <td>Akira Sora</td>
       <td> </td>
       <td></td>
     </tr>
@@ -409,16 +424,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>SimpleFlips</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hua</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>acliv</td>
       <td> </td>
       <td></td>
     </tr>
@@ -548,17 +553,22 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>TheBoxerZ</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>AllanCat</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Pi</td>
       <td> </td>
       <td>D</td>
     </tr>
     <tr>
       <td>Scamper</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>TheBoxerZ</td>
       <td> </td>
       <td>D</td>
     </tr>
