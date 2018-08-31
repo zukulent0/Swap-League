@@ -148,6 +148,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>MyNameOG</td>
+      <td>15-9</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>SiaMeS2E</td>
       <td>15-11</td>
       <td></td>
@@ -254,6 +259,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>t-block</td>
+      <td>6-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lester Caldwell</td>
       <td>6-15</td>
       <td></td>
     </tr>
@@ -413,16 +423,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>MyNameOG</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lester Caldwell</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>SimpleFlips</td>
       <td> </td>
       <td></td>
@@ -453,8 +453,13 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Pop Magoot</td>
+      <td>2-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Shizu</td>
-      <td>3-2</td>
+      <td>2-3</td>
       <td>D</td>
     </tr>
     <tr>
@@ -489,6 +494,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Jelledot</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>DocStrangelove</td>
       <td>1-3</td>
       <td>D</td>
     </tr>
@@ -563,12 +573,12 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
-      <td>Pi</td>
-      <td> </td>
+      <td>Scamper</td>
+      <td>0-3</td>
       <td>D</td>
     </tr>
     <tr>
-      <td>Scamper</td>
+      <td>Pi</td>
       <td> </td>
       <td>D</td>
     </tr>
