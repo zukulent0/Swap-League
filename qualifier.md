@@ -303,6 +303,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>amie</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>MIKAMI</td>
       <td>3-15</td>
       <td></td>
@@ -324,6 +329,16 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Hanna</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>wizard944</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BOBtheman2000</td>
       <td>3-15</td>
       <td></td>
     </tr>
@@ -373,17 +388,17 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>PantsForHire</td>
+      <td>0-15</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Ethoe</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Theycallmesachi</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BOBtheman2000</td>
       <td> </td>
       <td></td>
     </tr>
@@ -408,17 +423,7 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>PantsForHire</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>fatedistro</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>wizard944</td>
       <td> </td>
       <td></td>
     </tr>
@@ -574,6 +579,16 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Scamper</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Cap</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>DocStrangelove</td>
       <td>0-3</td>
       <td>D</td>
     </tr>
