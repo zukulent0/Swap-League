@@ -233,6 +233,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Dorothy</td>
+      <td>9-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>NA Aim-</td>
       <td>7-15</td>
       <td></td>
@@ -283,6 +288,11 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>Allete</td>
+      <td>5-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>124san</td>
       <td>4-15</td>
       <td></td>
@@ -304,6 +314,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>amie</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SimpleFlips</td>
       <td>4-15</td>
       <td></td>
     </tr>
@@ -408,11 +423,6 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>Allete</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Akira Sora</td>
       <td> </td>
       <td></td>
@@ -424,11 +434,6 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>fatedistro</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>SimpleFlips</td>
       <td> </td>
       <td></td>
     </tr>
@@ -504,6 +509,16 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>DocStrangelove</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Repow</td>
+      <td>1-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Explo</td>
       <td>1-3</td>
       <td>D</td>
     </tr>
@@ -599,6 +614,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Kedzip</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Shira</td>
       <td> </td>
       <td>D</td>
     </tr>
