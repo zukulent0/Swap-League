@@ -12,9 +12,9 @@ Ideally, try to use numeric dates (9/8) and specify the time (10PM UTC+0). This 
     <tr>
       <th>English</th>
       <th>日本語</th>
-      <th>KR</th>
+      <th>한국</th>
       <th>中文</th>
-	  <th>Español</th>
+      <th>Español</th>
     </tr>
   </thead>
   <tbody>
