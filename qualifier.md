@@ -313,6 +313,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>Lozofan</td>
+      <td>4-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Luminsen</td>
       <td>4-15</td>
       <td></td>
@@ -618,22 +623,22 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Shira</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Bbforky</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Pi</td>
       <td> </td>
       <td>D</td>
     </tr>
     <tr>
       <td>Kedzip</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Shira</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Bbforky</td>
       <td> </td>
       <td>D</td>
     </tr>
