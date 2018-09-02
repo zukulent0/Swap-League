@@ -3,8 +3,6 @@ layout: page
 title: (C) League Matchups
 ---
 
-# C League #
-
 ## (C) Participants ##
 
 <table>
