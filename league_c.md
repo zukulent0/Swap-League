@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C League Matchups
+title: (C) League Matchups
 ---
 
 # C League #
