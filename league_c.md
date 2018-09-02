@@ -47,7 +47,7 @@ title: (C) League Matchups
       <td>17125</td>
     </tr>
     <tr>
-      <td>&#x1F354 <a href="https://steamcommunity.com/profiles/76561198044962719/">it was all a dream</a></td>
+      <td><a href="https://steamcommunity.com/profiles/76561198044962719/">it was all a dream</a></td>
       <td>-</td>
       <td>-</td>
       <td>59</td>
@@ -68,7 +68,6 @@ title: (C) League Matchups
       <td>14000</td>
     </tr>
     <tr>
-      <td>acliv</td>
       <td><a href="https://steamcommunity.com/id/wd1023003/">WD</a></td>
       <td><a href="https://twitter.com/wd1023003">@wd1023003</a></td>
       <td><a href="https://www.twitch.tv/wd1023003">twitch.tv/wd1023003</a></td>
