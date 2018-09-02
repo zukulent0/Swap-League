@@ -263,6 +263,11 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
+      <td>wait_what</td>
+      <td>7-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Helomair</td>
       <td>6-15</td>
       <td></td>
@@ -413,6 +418,10 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Minalinsky</td>
+      <td>0-15</td>
+      <td>D</td>
+    <tr>
       <td>Ethoe</td>
       <td> </td>
       <td> </td>
@@ -422,18 +431,9 @@ title: Qualifier Results
       <td> </td>
       <td></td>
     </tr>
-    <tr>
-      <td>Minalinsky</td>
-      <td> </td>
-      <td></td>
     </tr>
     <tr>
       <td>Akira Sora</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>wait_what</td>
       <td> </td>
       <td></td>
     </tr>
@@ -613,6 +613,11 @@ title: Qualifier Results
       <td>D</td>
     </tr>
     <tr>
+      <td>Skyo</td>
+      <td>0-3</td>
+      <td>D</td>
+    </tr>
+    <tr>
       <td>Pi</td>
       <td> </td>
       <td>D</td>
@@ -624,6 +629,11 @@ title: Qualifier Results
     </tr>
     <tr>
       <td>Shira</td>
+      <td> </td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Bbforky</td>
       <td> </td>
       <td>D</td>
     </tr>
