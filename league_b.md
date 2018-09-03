@@ -87,18 +87,18 @@ title: (B) League Matchups
       <td>15400</td>
     </tr>
     <tr>
-      <td>TBD</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href="https://steamcommunity.com/id/caseyvgcx">Casey.GV</a></td>
+      <td><a href="https://twitter.com/CaseyVGCx_">@CaseyVGCx_</a></td>
+      <td><a href="https://www.twitch.tv/caseyvgcx">twitch.tv/caseyvgcx</a></td>
+      <td>47.07</td>
+      <td>11000</td>
     </tr>
     <tr>
-      <td>TBD</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href="https://steamcommunity.com/id/elixirixile/">baseballboy</a></td>
+      <td><a href="https://twitter.com/elixirixile">@elixirixile</a></td>
+      <td><a href="https://www.twitch.tv/baseballboy">twitch.tv/baseballboy</a></td>
+      <td>44.7</td>
+      <td>17000</td>
     </tr>
   </tbody>
 </table>
@@ -119,8 +119,8 @@ title: (B) League Matchups
       <th>garbo</th>
       <th>Dazer</th>
       <th>CooJ</th>
-      <th>TBD</th>
-      <th>TBD</th>
+      <th>Casey.GV</th>
+      <th>baseballboy</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -297,7 +297,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>Casey.GV</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -314,7 +314,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>baseballboy</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -344,11 +344,11 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>TBD1 vs garbo</td>
+      <td>Casey.GV vs garbo</td>
       <td> </td>
     </tr>
     <tr>
-      <td>TBD2 vs RJ</td>
+      <td>baseballboy vs RJ</td>
       <td> </td>
     </tr>
     <tr>
@@ -368,7 +368,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD1 vs RJ</td>
+      <td>Casey.GV vs RJ</td>
       <td> </td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD2 vs OkeyDokey</td>
+      <td>baseballboy vs OkeyDokey</td>
       <td> </td>
     </tr>
     <tr>
