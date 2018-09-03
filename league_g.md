@@ -165,7 +165,7 @@ title: (G) League Matchups
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198224252532/">Tetri</a></td>
-      <td><a href="https://twitter.com/Bbforky">@Bbforky</a></td>
+      <td>-</td>
       <td><a href="https://www.youtube.com/channel/UCWzevvsvrBGdHk_8deDX0bg">youtube.com/channel/UCWzevvsvrBGdHk_8deDX0bg</a></td>
       <td>1:18.98</td>
       <td>4000</td>
