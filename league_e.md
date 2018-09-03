@@ -344,43 +344,51 @@ title: (E) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>Shizu vs Allete/td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Lozofan vs 124san</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>Fyzzl vs Luminsen</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>player vs amie</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>SimpleFlips vs MIKAMI</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>Oblivion vs Hanna</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>Shizu vs 124san</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>Allete vs Luminsen</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>Lozofan vs amie</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>Fyzzl vs MIKAMI</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>player vs Hanna</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>SimpleFlips vs Oblivion</td>
       <td> </td>
     </tr>
   </tbody>
