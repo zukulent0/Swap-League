@@ -274,43 +274,43 @@ title: (D) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>Blaarg vs Meiling</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Nick vs Donorgryll</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>wait_what vs Helomair</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>t-block vs Jonas Neubauer</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>MSon vs onizuka777</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>Blaarg vs Donorgryll</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>Meiling vs Helomair</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>Nick vs Jonas Neubauer</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>wait_what vs onizuka777</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>t-block vs MSon</td>
       <td> </td>
     </tr>
   </tbody>

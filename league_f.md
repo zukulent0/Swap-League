@@ -274,43 +274,43 @@ title: (F) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>wizard944 vs BOBtheman2000</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Blank vs XeaL</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>EpicYoshi vs Neo7</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>Haxel59 vs PichuFreak</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>52_bloodeyes vs Qlex</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>wizard944 vs XeaL</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>BOBtheman2000 vs Neo7</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>Blank vs PichuFreak</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>EpicYoshi vs Qlex</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>Haxel59 vs 52_bloodeyes</td>
       <td> </td>
     </tr>
   </tbody>
