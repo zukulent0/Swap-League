@@ -95,34 +95,26 @@ title: (C) League Matchups
   <thead>
     <tr>
       <th> </th>
-      <th>Player 1</th>
-      <th>Player 2</th>
-      <th>Player 3</th>
-      <th>Player 4</th>
-      <th>Player 5</th>
-      <th>Player 6</th>
-      <th>Player 7</th>
-      <th>Player 8</th>
-      <th>Player 9</th>
-      <th>Player 10</th>
+      <th>lawren</th>
+      <th>Scottobozo</th>
+      <th>Shard Nguyễn</th>
+      <th>acliv</th>
+      <th>dream</th>
+      <th>Circu1ation</th>
+      <th>Shana</th>
+      <th>WD</th>
+      <th>gray</th>
+      <th>Dorothy</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Player 1</td>
+      <td>lawren</td>
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Player 2</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -133,18 +125,10 @@ title: (C) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Player 3</td>
+      <td>Scottobozo</td>
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Player 4</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -155,18 +139,10 @@ title: (C) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Player 5</td>
+      <td>Shard Nguyễn</td>
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Player 6</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -177,18 +153,10 @@ title: (C) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Player 7</td>
+      <td>acliv</td>
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Player 8</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -199,7 +167,7 @@ title: (C) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Player 9</td>
+      <td>dream</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -210,7 +178,66 @@ title: (C) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Player 10</td>
+      <td>Circu1ation</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Shana</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>WD</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>gray</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dorothy</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
