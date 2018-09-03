@@ -75,6 +75,11 @@ title: Qualifier Results
       <td> </td>
     </tr>
     <tr>
+      <td>gamster_death</td>
+      <td>3-15</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Casey.GV</td>
       <td>2-15</td>
       <td> </td>
@@ -105,11 +110,6 @@ title: Qualifier Results
       <td>OnePunMan</td>
       <td> </td>
       <td> </td>
-    </tr>
-    <tr>
-      <td>gamster_death</td>
-      <td> </td>
-      <td></td>
     </tr>
     <tr>
       <td>JPN Hiroki</td>

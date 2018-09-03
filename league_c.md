@@ -274,43 +274,43 @@ title: (C) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>lawren vs Scottobozo</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Shard Nguyễn vs acliv</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>it was all a dream vs Circu1ation</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>Shana vs WD</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>grayxkxa vs Dorothy</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>lawren vs acliv</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>Scottobozo vs Circu1ation</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>Shard Nguyễn vs WD</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>it was all a dream vs Dorothy</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>Shana vs grayxkxa</td>
       <td> </td>
     </tr>
   </tbody>
