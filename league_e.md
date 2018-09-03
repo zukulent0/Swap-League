@@ -344,7 +344,7 @@ title: (E) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Shizu vs Allete/td>
+      <td>Shizu vs Allete</td>
       <td> </td>
     </tr>
     <tr>
