@@ -315,3 +315,195 @@ title: (C) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (C) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lawren vs Circu1ation</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>acliv vs WD</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Scottobozo vs Dorothy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Shard Nguyễn vs grayxkxa</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>it was all a dream vs Shana</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>lawren vs WD</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Circu1ation vs Dorothy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>acliv vs grayxkxa</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Scottobozo vs Shana</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Shard Nguyễn vs it was all a dream</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+## (C) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lawren vs Dorothy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>WD vs grayxkxa</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Circu1ation vs Shana</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>acliv vs it was all a dream</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Scottobozo vs Shard Nguyễn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>lawren vs grayxkxa</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dorothy vs Shana</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>WD vs it was all a dream</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Circu1ation vs Shard Nguyễn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>acliv vs Scottobozo</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+## (C) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lawren vs Shana</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>grayxkxa vs it was all a dream</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dorothy vs Shard Nguyễn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>WD vs Scottobozo</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Circu1ation vs acliv</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>lawren vs it was all a dream</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Shana vs Shard Nguyễn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>grayxkxa vs Scottobozo</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dorothy vs acliv</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Circu1ation vs WD</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+## (C) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lawren vs Shard Nguyễn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>it was all a dream vs Scottobozo</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Shana vs acliv</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>grayxkxa vs Circu1ation</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dorothy vs WD</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
