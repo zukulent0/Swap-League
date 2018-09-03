@@ -123,9 +123,11 @@ title: (C) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Scottobozo</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -151,9 +153,11 @@ title: (C) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>acliv</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -176,9 +180,14 @@ title: (C) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Circu1ation</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -204,9 +213,11 @@ title: (C) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>WD</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -232,9 +243,11 @@ title: (C) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Dorothy</td>
+      <td> </td>
       <td> </td>
       <td> </td>
       <td> </td>
