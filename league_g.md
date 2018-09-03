@@ -21,7 +21,7 @@ title: (G) League Matchups
       <td><a href="https://twitter.com/davdav1233">@davdav1233</a></td>
       <td><a href="https://www.twitch.tv/davdav1233">twitch.tv/davdav1233</a></td>
       <td>1:05</td>
-      <td>11892</td>
+      <td>9844</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198070767430/">AceArrow</a></td>
