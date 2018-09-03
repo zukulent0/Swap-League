@@ -94,11 +94,11 @@ title: (B) League Matchups
       <td>11000</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/id/elixirixile/">baseballboy</a></td>
-      <td><a href="https://twitter.com/elixirixile">@elixirixile</a></td>
-      <td><a href="https://www.twitch.tv/baseballboy">twitch.tv/baseballboy</a></td>
-      <td>44.7</td>
-      <td>17000</td>
+      <td><a href="https://steamcommunity.com/id/z2sam/">z2sam</a></td>
+      <td><a href="https://twitter.com/z2sam">@z2sam</a></td>
+      <td><a href="https://www.twitch.tv/z2sam">twitch.tv/z2sam</a></td>
+      <td>44.96</td>
+      <td>50000</td>
     </tr>
   </tbody>
 </table>
@@ -120,7 +120,7 @@ title: (B) League Matchups
       <th>Dazer</th>
       <th>CooJ</th>
       <th>Casey.GV</th>
-      <th>baseballboy</th>
+      <th>z2sam</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -314,7 +314,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>baseballboy</td>
+      <td>z2sam</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -348,7 +348,7 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>baseballboy vs RJ</td>
+      <td>z2sam vs RJ</td>
       <td> </td>
     </tr>
     <tr>
@@ -376,11 +376,11 @@ title: (B) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>baseballboy vs OkeyDokey</td>
+      <td>z2sam vs OkeyDokey</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Ting vs Hue</td>
+      <td>Ting vs Hua</td>
       <td> </td>
     </tr>
     <tr>
