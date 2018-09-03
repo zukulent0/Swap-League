@@ -344,43 +344,51 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>TBD1 vs garbo</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>TBD2 vs RJ</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>Ting vs MyNameOG</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>SiaMeS2E vs OkeyDokey</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>ookamisuketoudara vs Hua</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>Dazer vs CooJ</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>TBD1 vs RJ</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>garbo vs MyNameOG</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>TBD2 vs OkeyDokey</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>Ting vs Hue</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>SiaMeS2E vs CooJ</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>ookamisuketoudara vs Dazer</td>
       <td> </td>
     </tr>
   </tbody>
