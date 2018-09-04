@@ -24,7 +24,7 @@ title: (A) League Matchups
       <td>17000</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/profile">popte</a></td>
+      <td><a href="https://steamcommunity.com/profiles/76561198818744755/">popte</a></td>
       <td><a href="https://twitter.com/pspopte">@pspopte</a></td>
       <td><a href="https://www.twitch.tv/popte">twitch.tv/popte</a></td>
       <td>49.1</td>

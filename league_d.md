@@ -34,8 +34,8 @@ title: (D) League Matchups
       <td><a href="https://steamcommunity.com/profiles/76561198056430350">Nick</a></td>
       <td><a href="https://twitter.com/nick666101">@nick666101</a></td>
       <td><a href="https://www.twitch.tv/nick666101/">twitch.tv/nick666101</a></td>
-      <td>51</td>
-      <td>17125</td>
+      <td>48.85</td>
+      <td>10800</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198039762564/">Donorgyll</a></td>
@@ -278,7 +278,7 @@ title: (D) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Nick vs Donorgryll</td>
+      <td>Nick vs Donorgyll</td>
       <td> </td>
     </tr>
     <tr>
@@ -294,7 +294,7 @@ title: (D) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Blaarg vs Donorgryll</td>
+      <td>Blaarg vs Donorgyll</td>
       <td> </td>
     </tr>
     <tr>
@@ -331,7 +331,7 @@ title: (D) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Donorgryll vs Jonas Neubauer</td>
+      <td>Donorgyll vs Jonas Neubauer</td>
       <td> </td>
     </tr>
     <tr>
