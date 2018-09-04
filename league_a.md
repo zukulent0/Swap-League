@@ -94,7 +94,7 @@ title: (A) League Matchups
       <td>16000</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/id/PokeDIalga/">Pokedialga*</a></td>
+      <td><a href="https://steamcommunity.com/id/PokeDIalga/">Pokedialga</a></td>
       <td><a href="https://twitter.com/PokeDialga">@PokeDialga</a></td>
       <td><a href="https://www.twitch.tv/pokedialga">twitch.tv/pokedialga</a></td>
       <td>41.88</td>
