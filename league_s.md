@@ -153,7 +153,7 @@ title: (S) League Matchups
   <thead>
     <tr>
       <th>Match</th>
-      <th>Date and time (UTC)</th>
+      <th>Date and time (UTC-4)</th>
     </tr>
   </thead>
   <tbody>
@@ -167,11 +167,11 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Doremy vs OnePunMan</td>
-      <td>9/6 12:00AM</td>
+      <td>9/5 8:00PM</td>
     </tr>
     <tr>
       <td>aruni084 vs JPN Hiroki</td>
-      <td>9/4 1:30PM</td>
+      <td>9/4 9:30AM</td>
     </tr>
     <tr>
       <td>Wumbo vs OnePunMan</td>

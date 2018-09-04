@@ -129,7 +129,7 @@ title: (B) League Matchups
     <tr>
       <td>Ting</td>
       <td> </td>
-      <td> </td>
+      <td>8-15</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -145,7 +145,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Hua</td>
-      <td> </td>
+      <td>15-8</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -275,7 +275,7 @@ title: (B) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
+      <td>13-15</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -291,7 +291,7 @@ title: (B) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
+      <td>15-13</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -339,7 +339,7 @@ title: (B) League Matchups
   <thead>
     <tr>
       <th>Match</th>
-      <th>Date and time (UTC)</th>
+      <th>Date and time (UTC-4)</th>
     </tr>
   </thead>
   <tbody>
@@ -365,7 +365,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Dazer vs CooJ</td>
-      <td> </td>
+      <td>9/3 7:00AM</td>
     </tr>
     <tr>
       <td>Casey.GV vs RJ</td>
@@ -381,7 +381,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Ting vs Hua</td>
-      <td> </td>
+      <td>9/3 8:30AM</td>
     </tr>
     <tr>
       <td>SiaMeS2E vs CooJ</td>

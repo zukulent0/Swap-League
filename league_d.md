@@ -269,7 +269,7 @@ title: (D) League Matchups
   <thead>
     <tr>
       <th>Match</th>
-      <th>Date and time (UTC)</th>
+      <th>Date and time (UTC-4)</th>
     </tr>
   </thead>
   <tbody>
@@ -322,7 +322,7 @@ title: (D) League Matchups
   <thead>
     <tr>
       <th>Match</th>
-      <th>Date and time (UTC)</th>
+      <th>Date and time (UTC-4)</th>
     </tr>
   </thead>
   <tbody>
