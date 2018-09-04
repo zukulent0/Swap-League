@@ -70,7 +70,7 @@ title: (S) League Matchups
       <th>aruni084</th>
       <th>Wumbo</th>
       <th>Iljain</th>
-      <th>ZeroT</th>
+      <th>JPN Hiroki</th>
       <th>Doremy</th>
       <th>OnePunMan</th>
       <th>W-L</th>
