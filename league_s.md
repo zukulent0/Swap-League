@@ -167,11 +167,11 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Doremy vs OnePunMan</td>
-      <td> </td>
+      <td>9/6 12:00AM</td>
     </tr>
     <tr>
       <td>aruni084 vs JPN Hiroki</td>
-      <td>9/4 1:30PM UTC+0</td>
+      <td>9/4 1:30PM</td>
     </tr>
     <tr>
       <td>Wumbo vs OnePunMan</td>
