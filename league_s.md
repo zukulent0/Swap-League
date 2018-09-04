@@ -49,7 +49,7 @@ title: (S) League Matchups
       <td><a href="https://twitter.com/doremypuyotet">@doremypuyotet</a></td>
       <td><a href="https://www.twitch.tv/prism_waterfall">twitch.tv/prism_waterfall</a></td>
       <td>38.96</td>
-      <td>22001</td>
+      <td>23383</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/id/allspecifiedurlsarealreadyinuse">OnePunMan</a></td>
@@ -80,67 +80,67 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>aruni084</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>10-15</td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td>10-15</td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Wumbo</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td> </td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Iljain</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td> </td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>JPN Hiroki</td>
-      <td>15-10</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td>15-10</td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td> </td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Doremy</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td> </td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>OnePunMan</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--aruni084-->
+      <td> </td> <!--Wumbo-->
+      <td> </td> <!--Iljain-->
+      <td> </td> <!--JPN Hiroki-->
+      <td> </td> <!--Doremy-->
+      <td> </td> <!--OnePunMan-->
       <td> </td>
       <td> </td>
     </tr>

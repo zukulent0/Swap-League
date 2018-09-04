@@ -128,205 +128,205 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Ting</td>
-      <td> </td>
-      <td>8-15</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td>8-15</td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Hua</td>
-      <td>15-8</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td>15-8</td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>MyNameOG</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td>10-15</td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>SiaMeS2E</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>RJ</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td>13-15</td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>OkeyDokey</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>ookamisuketoudara</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>garbo</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td>4-15</td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Dazer</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>13-15</td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td>13-15</td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>CooJ</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>15-13</td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td>15-13</td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Casey.GV</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td>15-13</td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td>15-4</td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>z2sam</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!-- Ting -->
+      <td> </td> <!--Hua-->
+      <td> </td> <!--MyNameOG-->
+      <td> </td> <!--SiaMeS2E-->
+      <td> </td> <!--RJ-->
+      <td> </td> <!--OkeyDokey-->
+      <td> </td> <!--ookamisuketoudara-->
+      <td> </td> <!--garbo-->
+      <td> </td> <!--Dazer-->
+      <td> </td> <!--CooJ-->
+      <td> </td> <!--Casey.GV-->
+      <td> </td> <!--z2sam-->
       <td> </td>
       <td> </td>
     </tr>
@@ -345,7 +345,7 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Casey.GV vs garbo</td>
-      <td> </td>
+      <td>9/3 10:00PM</td>
     </tr>
     <tr>
       <td>z2sam vs RJ</td>
@@ -369,11 +369,11 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Casey.GV vs RJ</td>
-      <td> </td>
+      <td>9/3 9:30PM</td>
     </tr>
     <tr>
       <td>garbo vs MyNameOG</td>
-      <td> </td>
+      <td>9/4 12:00AM</td>
     </tr>
     <tr>
       <td>z2sam vs OkeyDokey</td>

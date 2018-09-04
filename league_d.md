@@ -112,151 +112,151 @@ title: (D) League Matchups
   <tbody>
     <tr>
       <td>Blaarg</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Meiling</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Nick</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td>15-1</td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Donorgyll</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>wait_what</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Helomair</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>t-block</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Jonas Neubauer</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td>1-15</td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>MSon</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>onizuka777</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Blaarg-->
+      <td> </td> <!--Meiling-->
+      <td> </td> <!--Nick-->
+      <td> </td> <!--Donorgyll-->
+      <td> </td> <!--wait_what-->
+      <td> </td> <!--Helomair-->
+      <td> </td> <!--t-block-->
+      <td> </td> <!--Jonas Neubauer-->
+      <td> </td> <!--MSon-->
+      <td> </td> <!--onizuka777-->
       <td> </td>
       <td> </td>
     </tr>
@@ -303,7 +303,7 @@ title: (D) League Matchups
     </tr>
     <tr>
       <td>Nick vs Jonas Neubauer</td>
-      <td> </td>
+      <td>9/4 2:30PM</td>
     </tr>
     <tr>
       <td>wait_what vs onizuka777</td>

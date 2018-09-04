@@ -112,151 +112,151 @@ title: (F) League Matchups
   <tbody>
     <tr>
       <td>wizard944</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>BOBtheman2000</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Blank</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>XeaL</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>EpicYoshi</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Neo7</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Haxel59</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>PichuFreak</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>52_bloodeyes</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Qlex</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--wizard944-->
+      <td> </td> <!--BOBtheman2000-->
+      <td> </td> <!--Blank-->
+      <td> </td> <!--XeaL-->
+      <td> </td> <!--EpicYoshi-->
+      <td> </td> <!--Neo7-->
+      <td> </td> <!--Haxel59-->
+      <td> </td> <!--PichuFreak-->
+      <td> </td> <!--52_bloodeyes-->
+      <td> </td> <!--Qlex-->
       <td> </td>
       <td> </td>
     </tr>

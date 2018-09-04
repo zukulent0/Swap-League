@@ -112,151 +112,151 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>lawren</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Scottobozo</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td>7-15</td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Shard Nguyễn</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td>5-15</td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td>3-15</td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>acliv</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td>15-5</td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>dream</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Circu1ation</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td>15-7</td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Shana</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td>10-15</td> <!--WD-->
+      <td>10-15</td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>WD</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td>15-3</td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td>15-10</td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>gray</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td>15-10</td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Dorothy</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--lawren-->
+      <td> </td> <!--Scottobozo-->
+      <td> </td> <!--Shard Nguyễn-->
+      <td> </td> <!--acliv-->
+      <td> </td> <!--dream-->
+      <td> </td> <!--Circu1ation-->
+      <td> </td> <!--Shana-->
+      <td> </td> <!--WD-->
+      <td> </td> <!--gray-->
+      <td> </td> <!--Dorothy-->
       <td> </td>
       <td> </td>
     </tr>
@@ -283,11 +283,11 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>it was all a dream vs Circu1ation</td>
-      <td> </td>
+      <td>9/5 7:00AM</td>
     </tr>
     <tr>
       <td>Shana vs WD</td>
-      <td> </td>
+      <td>9/4 2:00AM</td>
     </tr>
     <tr>
       <td>grayxkxa vs Dorothy</td>
@@ -295,23 +295,23 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>lawren vs acliv</td>
-      <td> </td>
+      <td>9/6 8:00AM</td>
     </tr>
     <tr>
       <td>Scottobozo vs Circu1ation</td>
-      <td> </td>
+      <td>9/4 4:30AM</td>
     </tr>
     <tr>
       <td>Shard Nguyễn vs WD</td>
-      <td> </td>
+      <td>9/3 9:30AM</td>
     </tr>
     <tr>
       <td>it was all a dream vs Dorothy</td>
-      <td> </td>
+      <td>9/4 10:00PM</td>
     </tr>
     <tr>
       <td>Shana vs grayxkxa</td>
-      <td> </td>
+      <td>9/4 10:30AM</td>
     </tr>
   </tbody>
 </table>

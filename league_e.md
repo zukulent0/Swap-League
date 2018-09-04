@@ -128,205 +128,205 @@ title: (E) League Matchups
   <tbody>
     <tr>
       <td>Shizu</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Allete</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Lozofan</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td>15-4</td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>124san</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td>4-15</td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Fyzzl</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Luminsen</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>player</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>amie</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>SimpleFlips</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>MIKAMI</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Oblivion</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td> </td> <!--Oblivion-->
+      <td>4-15</td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Hanna</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--Shizu-->
+      <td> </td> <!--Allete-->
+      <td> </td> <!--Lozofan-->
+      <td> </td> <!--124san-->
+      <td> </td> <!--Fyzzl-->
+      <td> </td> <!--Luminsen-->
+      <td> </td> <!--player-->
+      <td> </td> <!--amie-->
+      <td> </td> <!--SimpleFlips-->
+      <td> </td> <!--MIKAMI-->
+      <td>15-4</td> <!--Oblivion-->
+      <td> </td> <!--Hanna-->
       <td> </td>
       <td> </td>
     </tr>
@@ -349,7 +349,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>Lozofan vs 124san</td>
-      <td> </td>
+      <td>9/4 3:30AM</td>
     </tr>
     <tr>
       <td>Fyzzl vs Luminsen</td>
@@ -365,7 +365,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>Oblivion vs Hanna</td>
-      <td> </td>
+      <td>9/3 4:30PM</td>
     </tr>
     <tr>
       <td>Shizu vs 124san</td>
@@ -385,7 +385,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>player vs Hanna</td>
-      <td> </td>
+      <td>9/9 1:00AM</td>
     </tr>
     <tr>
       <td>SimpleFlips vs Oblivion</td>

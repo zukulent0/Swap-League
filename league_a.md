@@ -128,205 +128,205 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>CrazyHIKO</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>popte</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Yoshi100_AUS</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Jason0107</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>yida9900</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td>15-5</td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td>14-15</td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>soulmiracle1</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td>5-15</td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>kress</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Bronze V Tetris</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Gamster_Death</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>baseballboy*</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td>baseballboy</td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td>15-14</td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>ZeroT</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
     <tr>
       <td>Pokedialga</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--popte-->
+      <td> </td> <!--Yoshi100_AUS-->
+      <td> </td> <!--Jason0107-->
+      <td> </td> <!--yida9900-->
+      <td> </td> <!--soulmiracle1-->
+      <td> </td> <!--kress-->
+      <td> </td> <!--Bronze V Tetris-->
+      <td> </td> <!--Gamster_Death-->
+      <td> </td> <!--baseballboy-->
+      <td> </td> <!--ZeroT-->
+      <td> </td> <!--Pokedialga-->
       <td> </td>
       <td> </td>
     </tr>
@@ -353,7 +353,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>yida9900 vs soulmiracle1</td>
-      <td> </td>
+      <td>9/4 12:30PM</td>
     </tr>
     <tr>
       <td>kress vs Bronze V Tetris</td>
@@ -381,11 +381,11 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>yida9900 vs baseballboy</td>
-      <td> </td>
+      <td>9/4 12:00PM</td>
     </tr>
     <tr>
       <td>kress vs Pokedialga</td>
-      <td> </td>
+      <td>9/5 2:00AM</td>
     </tr>
     <tr>
       <td>gamster_death vs ZeroT</td>
