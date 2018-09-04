@@ -83,7 +83,7 @@ title: (S) League Matchups
       <td> </td>
       <td> </td>
       <td> </td>
-      <td> </td>
+      <td>10-15</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -113,7 +113,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>JPN Hiroki</td>
-      <td> </td>
+      <td>15-10</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -171,7 +171,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>aruni084 vs JPN Hiroki</td>
-      <td> </td>
+      <td>9/4 1:30PM UTC+0</td>
     </tr>
     <tr>
       <td>Wumbo vs OnePunMan</td>
