@@ -94,11 +94,11 @@ title: (A) League Matchups
       <td>16000</td>
     </tr>
     <tr>
-      <td>TBD</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href="https://steamcommunity.com/id/PokeDIalga/">Pokedialga*</a></td>
+      <td><a href="https://twitter.com/PokeDialga">@PokeDialga</a></td>
+      <td><a href="https://www.twitch.tv/pokedialga">twitch.tv/pokedialga</a></td>
+      <td>41.88</td>
+      <td>27600</td>
     </tr>
   </tbody>
 </table>
@@ -120,7 +120,7 @@ title: (A) League Matchups
       <th>Gamster_Death</th>
       <th>baseballboy</th>
       <th>ZeroT</th>
-      <th>TBD</th>
+      <th>Pokedialga</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -314,7 +314,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>Pokedialga</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -364,7 +364,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>ZeroT vs TBD</td>
+      <td>ZeroT vs Pokedialga</td>
       <td> </td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>kress vs TBD</td>
+      <td>kress vs Pokedialga</td>
       <td> </td>
     </tr>
     <tr>

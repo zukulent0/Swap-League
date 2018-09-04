@@ -52,11 +52,11 @@ title: (S) League Matchups
       <td>22001</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/id/PokeDIalga/">Pokedialga*</a></td>
-      <td><a href="https://twitter.com/PokeDialga">@PokeDialga</a></td>
-      <td><a href="https://www.twitch.tv/pokedialga">twitch.tv/pokedialga</a></td>
-      <td>41.88</td>
-      <td>27600</td>
+      <td><a href="https://steamcommunity.com/id/allspecifiedurlsarealreadyinuse">OnePunMan</a></td>
+      <td><a href="https://twitter.com/OnePunManTetris">@OnePunManTetris</a></td>
+      <td><a href="https://www.youtube.com/channel/UCCeSjd7DLJJKxJXf4vEzdzA">youtube.com/channel/UCCeSjd7DLJJKxJXf4vEzdzA</a></td>
+      <td>45.9</td>
+      <td>11000</td>
     </tr>
   </tbody>
 </table>
@@ -72,7 +72,7 @@ title: (S) League Matchups
       <th>Iljain</th>
       <th>ZeroT</th>
       <th>Doremy</th>
-      <th>Pokedialga*</th>
+      <th>OnePunMan</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -134,7 +134,7 @@ title: (S) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Pokedialga*</td>
+      <td>OnePunMan</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -158,35 +158,27 @@ title: (S) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>aruni084 vs Wumbo</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Iljain vs JPN Hiroki</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>Doremy vs OnePunMan</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>aruni084 vs JPN Hiroki</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>Wumbo vs OnePunMan</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Match 7</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Match 8</td>
+      <td>Iljain vs Doremy</td>
       <td> </td>
     </tr>
   </tbody>
