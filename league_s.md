@@ -26,14 +26,21 @@ title: (S) League Matchups
     <tr>
       <td>Wumbo</td>
       <td><a href="https://twitter.com/Wumbotize ">@Wumbotize </a></td>
-      <td><a href="https://www.twitch.tv/wumbotize ">twitch.tv/wumbotize</a></td>
+      <td><a href="https://www.twitch.tv/wumbotize">twitch.tv/wumbotize</a></td>
       <td>38</td>
       <td>50000</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198370403800/">Iljain</a></td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://www.twitch.tv/ijianlian">twitch.tv/ijianlian</a></td>
+      <td>46</td>
+      <td>18000</td>
+    </tr>
+    <tr>
+      <td><a href="https://steamcommunity.com/profiles/76561198812292527/">JPN Hiroki</a></td>
+      <td><a href="https://twitter.com/syuuto41018">@syuuto41018</a></td>
+      <td><a href="https://www.youtube.com/channel/UCM2REfYwxv3yaKhc4aMbEyg">youtube.com/channel/UCM2REfYwxv3yaKhc4aMbEyg</a></td>
       <td>-</td>
       <td>-</td>
     </tr>
@@ -51,13 +58,6 @@ title: (S) League Matchups
       <td>41.88</td>
       <td>27600</td>
     </tr>
-    <tr>
-      <td><a href="https://steamcommunity.com/id/ZeroT_/">ZeroT*</a></td>
-      <td><a href="https://twitter.com/zer0t_">@zer0t_</a></td>
-      <td><a href="https://www.twitch.tv/zer0t_">twitch.tv/zer0t_</a></td>
-      <td>44.33</td>
-      <td>16000</td>
-    </tr>
   </tbody>
 </table>
 
@@ -70,9 +70,9 @@ title: (S) League Matchups
       <th>aruni084</th>
       <th>Wumbo</th>
       <th>Iljain</th>
+      <th>ZeroT</th>
       <th>Doremy</th>
       <th>Pokedialga*</th>
-      <th>ZeroT*</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -112,6 +112,17 @@ title: (S) League Matchups
       <td> </td>
     </tr>
     <tr>
+      <td>JPN Hiroki</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>Doremy</td>
       <td> </td>
       <td> </td>
@@ -124,17 +135,6 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Pokedialga*</td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>ZeroT*</td>
       <td> </td>
       <td> </td>
       <td> </td>

@@ -73,25 +73,25 @@ title: (A) League Matchups
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/id/caseyvgcx">Casey.GV*</a></td>
-      <td><a href="https://twitter.com/CaseyVGCx_">@CaseyVGCx_</a></td>
-      <td><a href="https://www.twitch.tv/caseyvgcx">twitch.tv/caseyvgcx</a></td>
-      <td>47.07</td>
-      <td>11000</td>
+      <td><a href="https://steamcommunity.com/id/Im2Trashhhh11/">Gamster_Death</a></td>
+      <td><a href="https://twitter.com/Gamsterdeath101">@Gamsterdeath101</a></td>
+      <td><a href="https://www.twitch.tv/gamster_death">twitch.tv/gamster_death</a></td>
+      <td>57.93</td>
+      <td>3481</td>
     </tr>
     <tr>
-      <td><a href="https://steamcommunity.com/id/elixirixile/">baseballboy*</a></td>
+      <td><a href="https://steamcommunity.com/id/elixirixile/">baseballboy</a></td>
       <td><a href="https://twitter.com/elixirixile">@elixirixile</a></td>
       <td><a href="https://www.twitch.tv/baseballboy">twitch.tv/baseballboy</a></td>
       <td>44.7</td>
       <td>17000</td>
     </tr>
     <tr>
-      <td>TBD</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td><a href="https://steamcommunity.com/id/ZeroT_/">ZeroT</a></td>
+      <td><a href="https://twitter.com/zer0t_">@zer0t_</a></td>
+      <td><a href="https://www.twitch.tv/zer0t_">twitch.tv/zer0t_</a></td>
+      <td>44.33</td>
+      <td>16000</td>
     </tr>
     <tr>
       <td>TBD</td>
@@ -117,9 +117,9 @@ title: (A) League Matchups
       <th>soulmiracle1</th>
       <th>kress</th>
       <th>Bronze V Tetris</th>
-      <th>Casey.GV*</th>
-      <th>baseballboy*</th>
-      <th>TBD</th>
+      <th>Gamster_Death</th>
+      <th>baseballboy</th>
+      <th>ZeroT</th>
       <th>TBD</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
@@ -263,7 +263,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>Casey.GV*</td>
+      <td>Gamster_Death</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -297,7 +297,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>TBD</td>
+      <td>ZeroT</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -344,43 +344,51 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Match 1</td>
+      <td>CrazyHIKO vs popte</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 2</td>
+      <td>Yoshi100_AUS vs Jason0107</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 3</td>
+      <td>yida9900 vs soulmiracle1</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 4</td>
+      <td>kress vs Bronze V Tetris</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 5</td>
+      <td>gamster_death vs baseballboy</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 6</td>
+      <td>ZeroT vs TBD</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 7</td>
+      <td>CrazyHIKO vs Jason0107</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 8</td>
+      <td>popte vs soulmiracle1</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 9</td>
+      <td>Yoshi100_AUS vs Bronze V Tetris</td>
       <td> </td>
     </tr>
     <tr>
-      <td>Match 10</td>
+      <td>yida9900 vs baseballboy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>kress vs TBD</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>gamster_death vs ZeroT</td>
       <td> </td>
     </tr>
   </tbody>

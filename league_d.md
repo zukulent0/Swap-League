@@ -315,3 +315,56 @@ title: (D) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (D) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaarg vs Helomair</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Donorgryll vs Jonas Neubauer</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Meiling vs onizuka777</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Nick vs MSon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>wait_what vs t-block</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Blaarg vs Jonas Neubauer</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Helomair vs onizuka777</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Donorgyll vs MSon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Meiling vs t-block</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Nick vs wait_what</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
