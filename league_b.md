@@ -349,7 +349,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>z2sam vs RJ</td>
-      <td> </td>
+      <td>9/5 3:00AM</td>
     </tr>
     <tr>
       <td>Ting vs MyNameOG</td>
