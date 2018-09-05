@@ -25,14 +25,14 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Wumbo</td>
-      <td><a href="https://twitter.com/Wumbotize ">@Wumbotize </a></td>
+      <td><a href="https://twitter.com/Wumbotize">@Wumbotize</a></td>
       <td><a href="https://www.twitch.tv/wumbotize">twitch.tv/wumbotize</a></td>
       <td>38</td>
       <td>50000</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198370403800/">Iljain</a></td>
-      <td>-</td>
+      <td><a href="https://twitter.com/iljain123">@iljain123</a></td>
       <td><a href="https://www.twitch.tv/ijianlian">twitch.tv/ijianlian</a></td>
       <td>46</td>
       <td>18000</td>
