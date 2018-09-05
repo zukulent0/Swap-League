@@ -174,8 +174,8 @@ title: (E) League Matchups
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>1-1</td>
+      <td>+8</td>
     </tr>
     <tr>
       <td>124san</td>
@@ -191,8 +191,8 @@ title: (E) League Matchups
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>Fyzzl</td>
@@ -259,8 +259,8 @@ title: (E) League Matchups
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+3</td>
     </tr>
     <tr>
       <td>SimpleFlips</td>
@@ -310,8 +310,8 @@ title: (E) League Matchups
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td>4-15</td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>Hanna</td>
@@ -327,8 +327,8 @@ title: (E) League Matchups
       <td> </td> <!--MIKAMI-->
       <td>15-4</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+11</td>
     </tr>
   </tbody>
 </table>

@@ -140,8 +140,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-7</td>
     </tr>
     <tr>
       <td>Hua</td>
@@ -157,8 +157,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+7</td>
     </tr>
     <tr>
       <td>MyNameOG</td>
@@ -174,8 +174,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-5</td>
     </tr>
     <tr>
       <td>SiaMeS2E</td>
@@ -208,8 +208,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td>13-15</td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-2</td>
     </tr>
     <tr>
       <td>OkeyDokey</td>
@@ -249,7 +249,7 @@ title: (B) League Matchups
       <td>garbo</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>15-10</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -259,8 +259,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td>4-15</td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>1-1</td>
+      <td>-6</td>
     </tr>
     <tr>
       <td>Dazer</td>
@@ -276,8 +276,8 @@ title: (B) League Matchups
       <td>13-15</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-2</td>
     </tr>
     <tr>
       <td>CooJ</td>
@@ -293,8 +293,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Casey.GV</td>
@@ -310,8 +310,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td> </td>
-      <td> </td>
+      <td>2-0</td>
+      <td>+13</td>
     </tr>
     <tr>
       <td>z2sam</td>

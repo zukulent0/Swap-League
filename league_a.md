@@ -208,8 +208,8 @@ title: (A) League Matchups
       <td>14-15</td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-1</td>
+      <td>+9</td>
     </tr>
     <tr>
       <td>soulmiracle1</td>
@@ -225,8 +225,8 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-10</td>
     </tr>
     <tr>
       <td>kress</td>
@@ -293,8 +293,8 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+1</td>
     </tr>
     <tr>
       <td>ZeroT</td>

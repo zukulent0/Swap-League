@@ -86,8 +86,8 @@ title: (S) League Matchups
       <td>10-15</td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-5</td>
     </tr>
     <tr>
       <td>Wumbo</td>
@@ -119,8 +119,8 @@ title: (S) League Matchups
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+5</td>
     </tr>
     <tr>
       <td>Doremy</td>

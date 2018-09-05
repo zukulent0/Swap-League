@@ -113,7 +113,7 @@ title: (D) League Matchups
     <tr>
       <td>Blaarg</td>
       <td> </td> <!--Blaarg-->
-      <td> </td> <!--Meiling-->
+      <td>15-3</td> <!--Meiling-->
       <td> </td> <!--Nick-->
       <td>9-15</td> <!--Donorgyll-->
       <td> </td> <!--wait_what-->
@@ -122,12 +122,12 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td> </td>
-      <td> </td>
+      <td>1-1</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>Meiling</td>
-      <td> </td> <!--Blaarg-->
+      <td>3-15</td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
       <td> </td> <!--Nick-->
       <td> </td> <!--Donorgyll-->
@@ -137,8 +137,8 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-12</td>
     </tr>
     <tr>
       <td>Nick</td>
@@ -152,8 +152,8 @@ title: (D) League Matchups
       <td>15-1</td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+14</td>
     </tr>
     <tr>
       <td>Donorgyll</td>
@@ -167,8 +167,8 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>wait_what</td>
@@ -227,8 +227,8 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-14</td>
     </tr>
     <tr>
       <td>MSon</td>
@@ -275,7 +275,7 @@ title: (D) League Matchups
   <tbody>
     <tr>
       <td>Blaarg vs Meiling</td>
-      <td> </td>
+      <td>9/4 9:00PM</td>
     </tr>
     <tr>
       <td>Nick vs Donorgyll</td>
