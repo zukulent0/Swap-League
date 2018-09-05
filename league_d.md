@@ -115,7 +115,7 @@ title: (D) League Matchups
       <td> </td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
       <td> </td> <!--Nick-->
-      <td> </td> <!--Donorgyll-->
+      <td>9-15</td> <!--Donorgyll-->
       <td> </td> <!--wait_what-->
       <td> </td> <!--Helomair-->
       <td> </td> <!--t-block-->
@@ -157,7 +157,7 @@ title: (D) League Matchups
     </tr>
     <tr>
       <td>Donorgyll</td>
-      <td> </td> <!--Blaarg-->
+      <td>15-9</td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
       <td> </td> <!--Nick-->
       <td> </td> <!--Donorgyll-->
@@ -295,7 +295,7 @@ title: (D) League Matchups
     </tr>
     <tr>
       <td>Blaarg vs Donorgyll</td>
-      <td> </td>
+      <td>9/4 7:30PM</td>
     </tr>
     <tr>
       <td>Meiling vs Helomair</td>

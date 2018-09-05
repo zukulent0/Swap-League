@@ -385,7 +385,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>SiaMeS2E vs CooJ</td>
-      <td> </td>
+      <td>9/5 6:00AM</td>
     </tr>
     <tr>
       <td>ookamisuketoudara vs Dazer</td>

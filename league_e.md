@@ -169,7 +169,7 @@ title: (E) League Matchups
       <td> </td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
-      <td> </td> <!--amie-->
+      <td>12-15</td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
@@ -249,7 +249,7 @@ title: (E) League Matchups
       <td>amie</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
-      <td> </td> <!--Lozofan-->
+      <td>15-12</td> <!--Lozofan-->
       <td> </td> <!--124san-->
       <td> </td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
@@ -377,7 +377,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>Lozofan vs amie</td>
-      <td> </td>
+      <td>9/4 9:00PM</td>
     </tr>
     <tr>
       <td>Fyzzl vs MIKAMI</td>
