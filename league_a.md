@@ -150,15 +150,15 @@ title: (A) League Matchups
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
-      <td> </td> <!--soulmiracle1-->
+      <td>5-15</td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-10</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS</td>
@@ -169,13 +169,13 @@ title: (A) League Matchups
       <td> </td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
-      <td> </td> <!--Bronze V Tetris-->
+      <td>15-7</td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+8</td>
     </tr>
     <tr>
       <td>Jason0107</td>
@@ -214,7 +214,7 @@ title: (A) League Matchups
     <tr>
       <td>soulmiracle1</td>
       <td> </td> <!--CrazyHIKO-->
-      <td> </td> <!--popte-->
+      <td>15-5</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td>5-15</td> <!--yida9900-->
@@ -225,8 +225,8 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td>0-1</td>
-      <td>-10</td>
+      <td>1-1</td>
+      <td>+0</td>
     </tr>
     <tr>
       <td>kress</td>
@@ -241,15 +241,15 @@ title: (A) League Matchups
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
-      <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>4-15</td> <!--Pokedialga-->
+      <td>0-1</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>Bronze V Tetris</td>
       <td> </td> <!--CrazyHIKO-->
       <td> </td> <!--popte-->
-      <td> </td> <!--Yoshi100_AUS-->
+      <td>7-15</td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
@@ -259,8 +259,8 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-8</td>
     </tr>
     <tr>
       <td>Gamster_Death</td>
@@ -321,14 +321,14 @@ title: (A) League Matchups
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
-      <td> </td> <!--kress-->
+      <td>15-4</td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+11</td>
     </tr>
   </tbody>
 </table>
@@ -345,7 +345,7 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>CrazyHIKO vs popte</td>
-      <td> </td>
+      <td>9/6 12:00PM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Jason0107</td>
@@ -361,7 +361,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>gamster_death vs baseballboy</td>
-      <td> </td>
+      <td>9/6 9:00PM</td>
     </tr>
     <tr>
       <td>ZeroT vs Pokedialga</td>
@@ -373,11 +373,11 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>popte vs soulmiracle1</td>
-      <td> </td>
+      <td>9/5 9:00AM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Bronze V Tetris</td>
-      <td> </td>
+      <td>9/5 3:00AM</td>
     </tr>
     <tr>
       <td>yida9900 vs baseballboy</td>
@@ -389,7 +389,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>gamster_death vs ZeroT</td>
-      <td> </td>
+      <td>9/6 10:00PM</td>
     </tr>
   </tbody>
 </table>

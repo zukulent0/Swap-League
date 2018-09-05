@@ -105,33 +105,33 @@ title: (S) League Matchups
       <td> </td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
-      <td> </td> <!--JPN Hiroki-->
-      <td> </td> <!--Doremy-->
+      <td>12-15</td> <!--JPN Hiroki-->
+      <td>9-15</td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>0-2</td>
+      <td>-9</td>
     </tr>
     <tr>
       <td>JPN Hiroki</td>
       <td>15-10</td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
-      <td> </td> <!--Iljain-->
+      <td>15-12</td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td>1-0</td>
-      <td>+5</td>
+      <td>2-0</td>
+      <td>+8</td>
     </tr>
     <tr>
       <td>Doremy</td>
       <td> </td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
-      <td> </td> <!--Iljain-->
+      <td>15-9</td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>OnePunMan</td>
@@ -163,7 +163,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Iljain vs JPN Hiroki</td>
-      <td> </td>
+      <td>9/5 9:30AM</td>
     </tr>
     <tr>
       <td>Doremy vs OnePunMan</td>
@@ -175,11 +175,11 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Wumbo vs OnePunMan</td>
-      <td> </td>
+      <td>9/6 8:00PM</td>
     </tr>
     <tr>
       <td>Iljain vs Doremy</td>
-      <td> </td>
+      <td>9/5 10:00AM</td>
     </tr>
   </tbody>
 </table>

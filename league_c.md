@@ -177,13 +177,13 @@ title: (C) League Matchups
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
       <td> </td> <!--dream-->
-      <td> </td> <!--Circu1ation-->
+      <td>4-15</td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td>10-15</td> <!--Dorothy-->
-      <td>0-1</td>
-      <td>-5</td>
+      <td>0-2</td>
+      <td>-16</td>
     </tr>
     <tr>
       <td>Circu1ation</td>
@@ -191,14 +191,14 @@ title: (C) League Matchups
       <td>15-7</td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
-      <td> </td> <!--dream-->
+      <td>15-4</td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>1-0</td>
-      <td>+8</td>
+      <td>2-0</td>
+      <td>+19</td>
     </tr>
     <tr>
       <td>Shana</td>
@@ -241,9 +241,9 @@ title: (C) League Matchups
       <td>15-10</td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
-      <td> </td> <!--Dorothy-->
-      <td>1-0</td>
-      <td>+5</td>
+      <td>8-15</td> <!--Dorothy-->
+      <td>1-1</td>
+      <td>-2</td>
     </tr>
     <tr>
       <td>Dorothy</td>
@@ -255,10 +255,10 @@ title: (C) League Matchups
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
-      <td> </td> <!--gray-->
+      <td>15-8</td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>1-0</td>
-      <td>+5</td>
+      <td>2-0</td>
+      <td>+12</td>
     </tr>
   </tbody>
 </table>
@@ -291,7 +291,7 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>grayxkxa vs Dorothy</td>
-      <td> </td>
+      <td>9/5 8:00AM</td>
     </tr>
     <tr>
       <td>lawren vs acliv</td>
