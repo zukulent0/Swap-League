@@ -303,7 +303,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Blank vs PichuFreak</td>
-      <td> </td>
+      <td>9/5 1:30AM</td>
     </tr>
     <tr>
       <td>EpicYoshi vs Qlex</td>
