@@ -149,9 +149,9 @@ title: (C) League Matchups
       <td> </td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
-      <td> </td> <!--WD-->
+      <td>3-15</td> <!--WD-->
       <td> </td> <!--gray-->
-      <td>3-15</td> <!--Dorothy-->
+      <td></td> <!--Dorothy-->
       <td>0-2</td>
       <td>-22</td>
     </tr>

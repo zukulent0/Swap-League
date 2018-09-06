@@ -129,9 +129,9 @@ title: (S) League Matchups
       <td>15-9</td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
-      <td> </td> <!--OnePunMan-->
-      <td>1-0</td>
-      <td>+6</td>
+      <td>15-14</td> <!--OnePunMan-->
+      <td>2-0</td>
+      <td>+7</td>
     </tr>
     <tr>
       <td>OnePunMan</td>
@@ -139,10 +139,10 @@ title: (S) League Matchups
       <td> </td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
-      <td> </td> <!--Doremy-->
+      <td>14-15</td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-1</td>
     </tr>
   </tbody>
 </table>
