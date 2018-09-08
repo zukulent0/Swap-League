@@ -149,11 +149,11 @@ title: (F) League Matchups
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
-      <td> </td> <!--PichuFreak-->
+      <td>3-15</td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-12</td>
     </tr>
     <tr>
       <td>XeaL</td>
@@ -209,26 +209,26 @@ title: (F) League Matchups
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
-      <td> </td> <!--PichuFreak-->
+      <td>8-15</td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-7</td>
     </tr>
     <tr>
       <td>PichuFreak</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> </td> <!--Blank-->
+      <td>15-3</td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
-      <td> </td> <!--Haxel59-->
+      <td>15-8</td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>2-0</td>
+      <td>+19</td>
     </tr>
     <tr>
       <td>52_bloodeyes</td>
@@ -241,9 +241,9 @@ title: (F) League Matchups
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
-      <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>15-13</td> <!--Qlex-->
+      <td>1-0</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Qlex</td>
@@ -255,10 +255,10 @@ title: (F) League Matchups
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
-      <td> </td> <!--52_bloodeyes-->
+      <td>13-15</td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-2</td>
     </tr>
   </tbody>
 </table>

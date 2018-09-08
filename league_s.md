@@ -96,9 +96,9 @@ title: (S) League Matchups
       <td> </td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
-      <td> </td> <!--OnePunMan-->
-      <td> </td>
-      <td> </td>
+      <td>15-8</td> <!--OnePunMan-->
+      <td>1-0</td>
+      <td>+7</td>
     </tr>
     <tr>
       <td>Iljain</td>
@@ -136,13 +136,13 @@ title: (S) League Matchups
     <tr>
       <td>OnePunMan</td>
       <td> </td> <!--aruni084-->
-      <td> </td> <!--Wumbo-->
+      <td>8-15</td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td>14-15</td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td>0-1</td>
-      <td>-1</td>
+      <td>0-2</td>
+      <td>-8</td>
     </tr>
   </tbody>
 </table>

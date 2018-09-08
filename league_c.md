@@ -113,21 +113,21 @@ title: (C) League Matchups
     <tr>
       <td>lawren</td>
       <td> </td> <!--lawren-->
-      <td> </td> <!--Scottobozo-->
+      <td>15-4</td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
-      <td> </td> <!--acliv-->
+      <td>15-11 </td> <!--acliv-->
       <td> </td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td> </td>
-      <td> </td>
+      <td>2-0</td>
+      <td>+15</td>
     </tr>
     <tr>
       <td>Scottobozo</td>
-      <td> </td> <!--lawren-->
+      <td>4-15</td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
@@ -137,8 +137,8 @@ title: (C) League Matchups
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>0-1</td>
-      <td>-8</td>
+      <td>0-2</td>
+      <td>-19</td>
     </tr>
     <tr>
       <td>Shard Nguyễn</td>
@@ -157,7 +157,7 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>acliv</td>
-      <td> </td> <!--lawren-->
+      <td>11-15</td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td>15-5</td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
@@ -167,8 +167,8 @@ title: (C) League Matchups
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>1-0</td>
-      <td>+10</td>
+      <td>1-1</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>dream</td>

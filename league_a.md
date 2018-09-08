@@ -273,11 +273,11 @@ title: (A) League Matchups
       <td> </td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
-      <td> </td> <!--baseballboy-->
-      <td> </td> <!--ZeroT-->
+      <td>3-15</td> <!--baseballboy-->
+      <td>3-15</td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>0-2</td>
+      <td>-24</td>
     </tr>
     <tr>
       <td>baseballboy</td>
@@ -289,12 +289,12 @@ title: (A) League Matchups
       <td> </td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
-      <td> </td> <!--Gamster_Death-->
+      <td>15-3</td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td>1-0</td>
-      <td>+1</td>
+      <td>2-0</td>
+      <td>+13</td>
     </tr>
     <tr>
       <td>ZeroT</td>
@@ -306,12 +306,12 @@ title: (A) League Matchups
       <td> </td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
-      <td> </td> <!--Gamster_Death-->
+      <td>15-3</td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+12</td>
     </tr>
     <tr>
       <td>Pokedialga</td>
