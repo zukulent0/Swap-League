@@ -349,6 +349,7 @@ title: (A) League Matchups
       <td>X</td>
       <td>X</td>
     </tr>
+  </tfoot>
 </table>
 
 ## (A) Week 1 Schedule ##
