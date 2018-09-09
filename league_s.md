@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ((S)) League Matchups
+title: (S) League Matchups
 ---
 
 ## (S) Participants ##
