@@ -316,7 +316,7 @@ title: (B) League Matchups
   </tbody>
   <tfoot>
     <tr>
-      <td>~~MyNameOG~~</td>
+      ~~<td>MyNameOG</td>~~
       <td>X</td> <!-- Ting -->
       <td>X</td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
