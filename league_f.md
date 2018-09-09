@@ -210,10 +210,10 @@ title: (F) League Matchups
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td>8-15</td> <!--PichuFreak-->
-      <td> </td> <!--52_bloodeyes-->
+      <td><a href="https://youtu.be/fbYk35gYZ9I">15-0</a> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>0-1</td>
-      <td>-7</td>
+      <td>1-1</td>
+      <td>+8</td>
     </tr>
     <tr>
       <td>PichuFreak</td>
@@ -238,12 +238,12 @@ title: (F) League Matchups
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
-      <td> </td> <!--Haxel59-->
+      <td><a href="https://youtu.be/fbYk35gYZ9I">0-15</a></td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td>15-13</td> <!--Qlex-->
-      <td>1-0</td>
-      <td>+2</td>
+      <td>1-1</td>
+      <td>-13</td>
     </tr>
     <tr>
       <td>Qlex</td>
