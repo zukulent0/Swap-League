@@ -30,15 +30,6 @@ title: (B) League Matchups
       <td>-</td>
       <td>17432</td>
     </tr>
-    <del>
-    <tr>
-      <td><a href="https://steamcommunity.com/profiles/76561198273486443">MyNameOG</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td>53.93</td>
-      <td>15077</td>
-    </tr>
-    </del>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198205890376/">SiaMeS2E</a></td>
       <td>-</td>
@@ -92,18 +83,16 @@ title: (B) League Matchups
       <td><a href="https://steamcommunity.com/id/caseyvgcx">Casey.GV</a></td>
       <td><a href="https://twitter.com/CaseyVGCx_">@CaseyVGCx_</a></td>
       <td><a href="https://www.twitch.tv/caseyvgcx">twitch.tv/caseyvgcx</a></td>
-      <td>47.07</td>
+      <td>45.12</td>
       <td>11000</td>
     </tr>
-    <del>
     <tr>
-      <td><a href="https://steamcommunity.com/id/z2sam/">z2sam</a></td>
-      <td><a href="https://twitter.com/z2sam">@z2sam</a></td>
-      <td><a href="https://www.twitch.tv/z2sam">twitch.tv/z2sam</a></td>
-      <td>44.96</td>
-      <td>50000</td>
+      <td><a href="https://steamcommunity.com/id/saltedbread/">saltedbread</a></td>
+      <td><a href="https://twitter.com/saltedbread">@saltedbread</a></td>
+      <td><a href="https://www.twitch.tv/saltedbread">twitch.tv/saltedbread</a></td>
+      <td>45.23</td>
+      <td>18600</td>
     </tr>
-    </del>
   </tbody>
 </table>
 
@@ -124,7 +113,7 @@ title: (B) League Matchups
       <th>Dazer</th>
       <th>CooJ</th>
       <th>Casey.GV</th>
-      <th>z2sam</th>
+      <th>saltedbread</th>
       <th>W-L</th>
       <th>Pt. Diff</th>
     </tr>
@@ -143,7 +132,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>0-1</td>
       <td>-7</td>
     </tr>
@@ -160,7 +149,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>2-0</td>
       <td>+4</td>
     </tr>
@@ -177,7 +166,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td>15-8</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>2-0</td>
       <td>+9</td>
     </tr>
@@ -194,7 +183,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td>13-15</td> <!--Casey.GV-->
-      <td>7-15</td> <!--z2sam-->
+      <td>7-15</td> <!--saltedbread-->
       <td>0-2</td>
       <td>-10</td>
     </tr>
@@ -211,7 +200,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>0-1</td>
       <td>-2</td>
     </tr>
@@ -228,7 +217,7 @@ title: (B) League Matchups
       <td>15-0</td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>2-0</td>
       <td>+18</td>
     </tr>
@@ -245,7 +234,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td>4-15</td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>1-1</td>
       <td>-6</td>
     </tr>
@@ -262,7 +251,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td>13-15</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>0-2</td>
       <td>-17</td>
     </tr>
@@ -279,7 +268,7 @@ title: (B) League Matchups
       <td>15-13</td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>1-1</td>
       <td>-5</td>
     </tr>
@@ -296,7 +285,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td>2-0</td>
       <td>+13</td>
     </tr>
@@ -313,7 +302,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
+      <td> </td> <!--saltedbread-->
       <td> </td>
       <td> </td>
     </tr>
@@ -332,7 +321,7 @@ title: (B) League Matchups
       <td>X</td> <!--Dazer-->
       <td>X</td> <!--CooJ-->
       <td>X</td> <!--Casey.GV-->
-      <td>X</td> <!--z2sam-->
+      <td>X</td> <!--saltedbread-->
       <td>X</td>
       <td>X</td>
     </tr>
@@ -349,7 +338,7 @@ title: (B) League Matchups
       <td>X</td> <!--Dazer-->
       <td>X</td> <!--CooJ-->
       <td>X</td> <!--Casey.GV-->
-      <td>X</td> <!--z2sam-->
+      <td>X</td> <!--saltedbread-->
       <td>X</td>
       <td>X</td>
     </tr>
@@ -371,8 +360,8 @@ title: (B) League Matchups
       <td>9/3 10:00PM</td>
     </tr>
     <tr>
-      <td>z2sam vs RJ</td>
-      <td>9/5 3:00AM</td>
+      <td>saltedbread vs RJ</td>
+      <td></td>
     </tr>
     <tr>
       <td>Ting vs MyNameOG</td>
@@ -399,7 +388,7 @@ title: (B) League Matchups
       <td>9/4 12:00AM</td>
     </tr>
     <tr>
-      <td>z2sam vs OkeyDokey</td>
+      <td>saltedbread vs OkeyDokey</td>
       <td> </td>
     </tr>
     <tr>
