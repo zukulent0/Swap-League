@@ -30,6 +30,7 @@ title: (B) League Matchups
       <td>-</td>
       <td>17432</td>
     </tr>
+    <del>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198273486443">MyNameOG</a></td>
       <td>-</td>
@@ -37,6 +38,7 @@ title: (B) League Matchups
       <td>53.93</td>
       <td>15077</td>
     </tr>
+    </del>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198205890376/">SiaMeS2E</a></td>
       <td>-</td>
@@ -93,6 +95,7 @@ title: (B) League Matchups
       <td>47.07</td>
       <td>11000</td>
     </tr>
+    <del>
     <tr>
       <td><a href="https://steamcommunity.com/id/z2sam/">z2sam</a></td>
       <td><a href="https://twitter.com/z2sam">@z2sam</a></td>
@@ -100,6 +103,7 @@ title: (B) League Matchups
       <td>44.96</td>
       <td>50000</td>
     </tr>
+    </del>
   </tbody>
 </table>
 
