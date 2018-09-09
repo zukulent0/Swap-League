@@ -146,7 +146,7 @@ title: (B) League Matchups
     <tr>
       <td>Hua</td>
       <td>15-8</td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>12-15</td> <!--Hua-->
       <td> </td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
@@ -157,25 +157,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td>1-0</td>
-      <td>+7</td>
-    </tr>
-    <tr>
-      <td>MyNameOG</td>
-      <td> </td> <!-- Ting -->
-      <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
-      <td> </td> <!--SiaMeS2E-->
-      <td> </td> <!--RJ-->
-      <td> </td> <!--OkeyDokey-->
-      <td> </td> <!--ookamisuketoudara-->
-      <td>10-15</td> <!--garbo-->
-      <td> </td> <!--Dazer-->
-      <td> </td> <!--CooJ-->
-      <td> </td> <!--Casey.GV-->
-      <td> </td> <!--z2sam-->
-      <td>0-1</td>
-      <td>-5</td>
+      <td>2-0</td>
+      <td>+4</td>
     </tr>
     <tr>
       <td>SiaMeS2E</td>
@@ -231,7 +214,7 @@ title: (B) League Matchups
     <tr>
       <td>ookamisuketoudara</td>
       <td> </td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>15-12</td> <!--Hua-->
       <td> </td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
@@ -242,8 +225,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td>1-0</td>
-      <td>+15</td>
+      <td>2-0</td>
+      <td>+18</td>
     </tr>
     <tr>
       <td>garbo</td>
@@ -270,14 +253,14 @@ title: (B) League Matchups
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
-      <td> </td> <!--ookamisuketoudara-->
+      <td>0-15</td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td>13-15</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td>0-1</td>
-      <td>-2</td>
+      <td>0-2</td>
+      <td>-17</td>
     </tr>
     <tr>
       <td>CooJ</td>
@@ -314,12 +297,12 @@ title: (B) League Matchups
       <td>+13</td>
     </tr>
     <tr>
-      <td>z2sam</td>
+      <td>saltedbread</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td> </td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
-      <td>15-7</td> <!--RJ-->
+      <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
@@ -327,10 +310,46 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--z2sam-->
-      <td>1-0</td>
-      <td>+8</td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td>~~MyNameOG~~</td>
+      <td>X</td> <!-- Ting -->
+      <td>X</td> <!--Hua-->
+      <td>X</td> <!--MyNameOG-->
+      <td>X</td> <!--SiaMeS2E-->
+      <td>X</td> <!--RJ-->
+      <td>X</td> <!--OkeyDokey-->
+      <td>X</td> <!--ookamisuketoudara-->
+      <td>10-15</td> <!--garbo-->
+      <td>X</td> <!--Dazer-->
+      <td>X</td> <!--CooJ-->
+      <td>X</td> <!--Casey.GV-->
+      <td>X</td> <!--z2sam-->
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>~~z2sam~~</td>
+      <td>X</td> <!-- Ting -->
+      <td>X</td> <!--Hua-->
+      <td>X</td> <!--MyNameOG-->
+      <td>X</td> <!--SiaMeS2E-->
+      <td>15-7</td> <!--RJ-->
+      <td>X</td> <!--OkeyDokey-->
+      <td>X</td> <!--ookamisuketoudara-->
+      <td>X</td> <!--garbo-->
+      <td>X</td> <!--Dazer-->
+      <td>X</td> <!--CooJ-->
+      <td>X</td> <!--Casey.GV-->
+      <td>X</td> <!--z2sam-->
+      <td>X</td>
+      <td>X</td>
+    </tr>
+  </tfoot>
 </table>
 
 ## (B) Week 1 Schedule ##
@@ -357,11 +376,11 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>SiaMeS2E vs OkeyDokey</td>
-      <td> </td>
+      <td>9/7 12:00PM</td>
     </tr>
     <tr>
       <td>ookamisuketoudara vs Hua</td>
-      <td> </td>
+      <td>9/8 12:30AM</td>
     </tr>
     <tr>
       <td>Dazer vs CooJ</td>
@@ -389,7 +408,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>ookamisuketoudara vs Dazer</td>
-      <td> </td>
+      <td>9/6 5:00PM</td>
     </tr>
   </tbody>
 </table>

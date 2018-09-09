@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (S) League Matchups
+title: ((S)) League Matchups
 ---
 
 ## (S) Participants ##
@@ -159,7 +159,7 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>aruni084 vs Wumbo</td>
-      <td> </td>
+      <td>9/8 10:30AM</td>
     </tr>
     <tr>
       <td>Iljain vs JPN Hiroki</td>
