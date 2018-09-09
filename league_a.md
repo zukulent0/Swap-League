@@ -17,11 +17,11 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://steamcommunity.com/id/CrazyHIKO/">CrazyHIKO</a></td>
-      <td><a href="https://twitter.com/crazyhikonyan">@crazyhikonyan</a></td>
-      <td><a href="https://www.twitch.tv/crazyhiko">twitch.tv/crazyhiko</a></td>
-      <td>47.75</td>
-      <td>17000</td>
+      <td><a href="https://steamcommunity.com/id/z2sam/">z2sam</a></td>
+      <td><a href="https://twitter.com/z2sam">@z2sam</a></td>
+      <td><a href="https://www.twitch.tv/z2sam">twitch.tv/z2sam</a></td>
+      <td>44.96</td>
+      <td>50000</td>
     </tr>
     <tr>
       <td><a href="https://steamcommunity.com/profiles/76561198818744755/">popte</a></td>
@@ -109,7 +109,7 @@ title: (A) League Matchups
   <thead>
     <tr>
       <th> </th>
-      <th>CrazyHIKO</th>
+      <th>z2sam</th>
       <th>popte</th>
       <th>Yoshi100_AUS</th>
       <th>Jason0107</th>
@@ -127,8 +127,8 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>CrazyHIKO</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td>z2sam</td>
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -145,7 +145,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>popte</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -162,7 +162,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Yoshi100_AUS</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -179,7 +179,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Jason0107</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -196,7 +196,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>yida9900</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -213,7 +213,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>soulmiracle1</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td>15-5</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -230,7 +230,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>kress</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -247,7 +247,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Bronze V Tetris</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>7-15</td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -264,7 +264,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Gamster_Death</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -281,7 +281,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>baseballboy</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -298,7 +298,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>ZeroT</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -315,7 +315,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Pokedialga</td>
-      <td> </td> <!--CrazyHIKO-->
+      <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -331,6 +331,24 @@ title: (A) League Matchups
       <td>+11</td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td><del>CrazyHIKO</del></td>
+      <td>X</td> <!--z2sam-->
+      <td>X</td> <!--popte-->
+      <td>X</td> <!--Yoshi100_AUS-->
+      <td>X</td> <!--Jason0107-->
+      <td>X</td> <!--yida9900-->
+      <td>X</td> <!--soulmiracle1-->
+      <td>X</td> <!--kress-->
+      <td>X</td> <!--Bronze V Tetris-->
+      <td>X</td> <!--Gamster_Death-->
+      <td>X</td> <!--baseballboy-->
+      <td>X</td> <!--ZeroT-->
+      <td>X</td> <!--Pokedialga-->
+      <td>X</td>
+      <td>X</td>
+    </tr>
 </table>
 
 ## (A) Week 1 Schedule ##
@@ -344,8 +362,8 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>CrazyHIKO vs popte</td>
-      <td>9/6 12:00PM</td>
+      <td>z2sam vs popte</td>
+      <td></td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Jason0107</td>
@@ -368,7 +386,7 @@ title: (A) League Matchups
       <td> </td>
     </tr>
     <tr>
-      <td>CrazyHIKO vs Jason0107</td>
+      <td>z2sam vs Jason0107</td>
       <td> </td>
     </tr>
     <tr>
