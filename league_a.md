@@ -237,13 +237,13 @@ title: (A) League Matchups
       <td> </td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
-      <td> </td> <!--Bronze V Tetris-->
+      <td>11-15</td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td>4-15</td> <!--Pokedialga-->
-      <td>0-1</td>
-      <td>-11</td>
+      <td>0-2</td>
+      <td>-15</td>
     </tr>
     <tr>
       <td>Bronze V Tetris</td>
@@ -253,14 +253,14 @@ title: (A) League Matchups
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
-      <td> </td> <!--kress-->
+      <td>15-11</td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td>0-1</td>
-      <td>-8</td>
+      <td>1-1</td>
+      <td>-4</td>
     </tr>
     <tr>
       <td>Gamster_Death</td>
@@ -376,7 +376,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>kress vs Bronze V Tetris</td>
-      <td> </td>
+      <td>9/8 5:00AM</td>
     </tr>
     <tr>
       <td>gamster_death vs baseballboy</td>

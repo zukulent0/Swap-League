@@ -364,8 +364,8 @@ title: (B) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Ting vs MyNameOG</td>
-      <td> </td>
+      <td>Ting vs BYE</td>
+      <td>X</td>
     </tr>
     <tr>
       <td>SiaMeS2E vs OkeyDokey</td>

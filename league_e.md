@@ -237,13 +237,13 @@ title: (E) League Matchups
       <td> </td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
-      <td> </td> <!--amie-->
+      <td>15-9</td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>amie</td>
@@ -253,14 +253,14 @@ title: (E) League Matchups
       <td> </td> <!--124san-->
       <td> </td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
-      <td> </td> <!--player-->
+      <td>9-15</td> <!--player-->
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td> </td> <!--MIKAMI-->
       <td> </td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td>1-0</td>
-      <td>+3</td>
+      <td>1-1</td>
+      <td>-3</td>
     </tr>
     <tr>
       <td>SimpleFlips</td>
@@ -345,7 +345,7 @@ title: (E) League Matchups
   <tbody>
     <tr>
       <td>Shizu vs Allete</td>
-      <td> </td>
+      <td>9/8 8:00AM</td>
     </tr>
     <tr>
       <td>Lozofan vs 124san</td>
@@ -357,7 +357,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>player vs amie</td>
-      <td> </td>
+      <td>9/7 3:00AM</td>
     </tr>
     <tr>
       <td>SimpleFlips vs MIKAMI</td>
