@@ -123,7 +123,7 @@ title: (B) League Matchups
       <td>Ting</td>
       <td> </td> <!-- Ting -->
       <td>8-15</td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -140,7 +140,7 @@ title: (B) League Matchups
       <td>Hua</td>
       <td>15-8</td> <!-- Ting -->
       <td>12-15</td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -157,7 +157,7 @@ title: (B) League Matchups
       <td>SiaMeS2E</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td>15-13</td> <!--OkeyDokey-->
@@ -174,7 +174,7 @@ title: (B) League Matchups
       <td>RJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -191,7 +191,7 @@ title: (B) League Matchups
       <td>OkeyDokey</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td>13-15</td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -208,7 +208,7 @@ title: (B) League Matchups
       <td>ookamisuketoudara</td>
       <td> </td> <!-- Ting -->
       <td>15-12</td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -225,7 +225,7 @@ title: (B) League Matchups
       <td>garbo</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td>15-10</td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -235,14 +235,14 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td>4-15</td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>1-1</td>
-      <td>-6</td>
+      <td>1-0</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>Dazer</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -259,7 +259,7 @@ title: (B) League Matchups
       <td>CooJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td>8-15</td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -276,7 +276,7 @@ title: (B) League Matchups
       <td>Casey.GV</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td>15-13</td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -293,7 +293,7 @@ title: (B) League Matchups
       <td>saltedbread</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
-      <td> </td> <!--MyNameOG-->
+      <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
