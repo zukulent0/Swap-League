@@ -115,15 +115,15 @@ title: (F) League Matchups
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
-      <td> </td> <!--XeaL-->
+      <td> 6-15 </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td> 0-1 </td>
+      <td> -9 </td>
     </tr>
     <tr>
       <td>BOBtheman2000</td>
@@ -144,22 +144,22 @@ title: (F) League Matchups
       <td>Blank</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> </td> <!--Blank-->
-      <td> </td> <!--XeaL-->
+      <td> </td> <!--Blank-->	    
+      <td> <a href="https://www.youtube.com/watch?v=WuRLBiVcSzY">0-15</a></td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td>3-15</td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>0-1</td>
-      <td>-12</td>
+      <td>0-2</td>
+      <td>-27</td>
     </tr>
     <tr>
       <td>XeaL</td>
-      <td> </td> <!--wizard944-->
+      <td> 15-6 </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> </td> <!--Blank-->
+      <td> <a href="https://www.youtube.com/watch?v=WuRLBiVcSzY">15-0</a> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
@@ -167,8 +167,8 @@ title: (F) League Matchups
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td> 2-0 </td>
+      <td> +24 </td>
     </tr>
     <tr>
       <td>EpicYoshi</td>
