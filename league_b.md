@@ -183,7 +183,7 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td>13-15</td> <!--Casey.GV-->
-      <td>7-15</td> <!--saltedbread-->
+      <td></td> <!--saltedbread-->
       <td>0-2</td>
       <td>-10</td>
     </tr>
