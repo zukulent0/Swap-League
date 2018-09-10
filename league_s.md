@@ -81,13 +81,13 @@ title: (S) League Matchups
     <tr>
       <td>aruni084</td>
       <td> </td> <!--aruni084-->
-      <td>5-15</td> <!--Wumbo-->
+      <td><a href="https://www.youtube.com/watch?v=qKYK9_kb6WY">5-15</a></td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
-      <td>10-15</td> <!--JPN Hiroki-->
-      <td></td> <!--Doremy-->
+      <td><a href="https://www.youtube.com/watch?v=iydY_hdv6ew">10-15</a></td> <!--JPN Hiroki-->
+      <td><a href="https://www.youtube.com/watch?v=z7lDjx8Fq88">15-3</a></td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td>0-2</td>
-      <td>-15</td>
+      <td>1-2</td>
+      <td>-3</td>
     </tr>
     <tr>
       <td>Wumbo</td>
@@ -97,7 +97,7 @@ title: (S) League Matchups
       <td> </td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
       <td><a href="https://www.youtube.com/watch?v=1Y2pgxU9J_o">15-8</a></td> <!--OnePunMan-->
-      <td>1-0</td>
+      <td>2-0</td>
       <td>+17</td>
     </tr>
     <tr>
@@ -105,41 +105,41 @@ title: (S) League Matchups
       <td> </td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
-      <td>12-15</td> <!--JPN Hiroki-->
-      <td>9-15</td> <!--Doremy-->
+      <td><a href="https://www.youtube.com/watch?v=dbaLugnvI_o">12-15</a></td> <!--JPN Hiroki-->
+      <td><a href="https://www.twitch.tv/videos/306206040">9-15</a></td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
       <td>0-2</td>
       <td>-9</td>
     </tr>
     <tr>
       <td>JPN Hiroki</td>
-      <td>15-10</td> <!--aruni084-->
+      <td><a href="https://www.youtube.com/watch?v=8GlOelO5wN4">15-10</a></td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
-      <td>15-12</td> <!--Iljain-->
+      <td><a href="https://www.youtube.com/watch?v=dbaLugnvI_o">15-12</a></td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
-      <td> </td> <!--Doremy-->
+      <td><a href="https://www.youtube.com/watch?v=KD-vkt7uQIE">9-15</a></td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td>2-0</td>
-      <td>+8</td>
+      <td>2-1</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Doremy</td>
-      <td> </td> <!--aruni084-->
+      <td><a href="https://www.youtube.com/watch?v=z7lDjx8Fq88">3-15</a></td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
-      <td>15-9</td> <!--Iljain-->
-      <td> </td> <!--JPN Hiroki-->
+      <td><a href="https://www.twitch.tv/videos/306206040">15-9</a></td> <!--Iljain-->
+      <td><a href="https://www.twitch.tv/videos/308329179">15-9</a></td> <!--JPN Hiroki-->
       <td> </td> <!--Doremy-->
-      <td>15-14</td> <!--OnePunMan-->
-      <td>2-0</td>
-      <td>+7</td>
+      <td><a href="https://www.twitch.tv/videos/306412978">15-14</a></td> <!--OnePunMan-->
+      <td>3-1</td>
+      <td>+1</td>
     </tr>
     <tr>
       <td>OnePunMan</td>
       <td> </td> <!--aruni084-->
-      <td>8-15</td> <!--Wumbo-->
+      <td><a href="https://www.youtube.com/watch?v=0PKaTpgU1Bw">8-15</a></td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
-      <td>14-15</td> <!--Doremy-->
+      <td><a href="https://www.youtube.com/watch?v=W0ncq8kvqMw">14-15</a></td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
       <td>0-2</td>
       <td>-8</td>
