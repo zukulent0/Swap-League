@@ -139,18 +139,18 @@ title: (B) League Matchups
     <tr>
       <td>Hua</td>
       <td>15-8</td> <!-- Ting -->
-      <td>12-15</td> <!--Hua-->
+      <td></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
-      <td> </td> <!--ookamisuketoudara-->
+      <td>12-15</td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>2-0</td>
+      <td>1-1</td>
       <td>+4</td>
     </tr>
     <tr>
@@ -402,6 +402,67 @@ title: (B) League Matchups
     <tr>
       <td>ookamisuketoudara vs Dazer</td>
       <td>9/6 5:00PM</td>
+    </tr>
+  </tbody>
+</table>
+
+## (B) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casey.GV vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RJ vs OkeyDokey</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>garbo vs Hua</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>saltedbread vs CooJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ting vs Dazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SiaMeS2E vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Casey.GV vs OkeyDokey</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ting vs CooJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>garbo vs Dazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>saltedbread vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ting vs SiaMeS2E</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
