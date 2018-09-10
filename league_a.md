@@ -412,3 +412,64 @@ title: (A) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (A) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>z2sam vs soulmiracle1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bronze V Tetris vs BYE</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>popte vs baseballboy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Yoshi100_AUS vs Pokedialga</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>yida9900 vs ZeroT</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>kress vs gamster_death</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>z2sam vs Bronze V Tetris</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>soulmiracle1 vs baseballboy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pokedialga vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>popte vs ZeroT</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Yoshi100_AUS vs gamster_death</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>yida9900 vs kress</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
