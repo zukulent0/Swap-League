@@ -177,13 +177,13 @@ title: (F) League Matchups
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
-      <td> </td> <!--Neo7-->
+      <td> 15-10 </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td>15-8</td> <!--Qlex-->
-      <td>1-0</td>
-      <td>+7</td>
+      <td>2-0</td>
+      <td>+12</td>
     </tr>
     <tr>
       <td>Neo7</td>
@@ -191,14 +191,14 @@ title: (F) League Matchups
       <td>6-15</td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
-      <td> </td> <!--EpicYoshi-->
+      <td>10-15</td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>0-1</td>
-      <td>-9</td>
+      <td>0-2</td>
+      <td>-14</td>
     </tr>
     <tr>
       <td>Haxel59</td>
@@ -316,7 +316,7 @@ title: (F) League Matchups
   </tbody>
 </table>
 
-## (F) Week 2 Schedule ##
+## (F) Week 1 Schedule ##
 
 <table>
   <thead>
@@ -328,15 +328,15 @@ title: (F) League Matchups
   <tbody>
     <tr>
       <td>wizard944 vs BOBtheman2000</td>
-      <td> </td>
+      <td>Played </td>
     </tr>
     <tr>
       <td>Blank vs XeaL</td>
-      <td> </td>
+      <td> Played </td>
     </tr>
     <tr>
       <td>EpicYoshi vs Neo7</td>
-      <td> </td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>Haxel59 vs PichuFreak</td>
@@ -348,7 +348,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>wizard944 vs XeaL</td>
-      <td> </td>
+      <td> Played </td>
     </tr>
     <tr>
       <td>BOBtheman2000 vs Neo7</td>
