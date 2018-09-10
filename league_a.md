@@ -129,7 +129,7 @@ title: (A) League Matchups
     <tr>
       <td>z2sam</td>
       <td> </td> <!--z2sam-->
-      <td>15-7</td> <!--popte-->
+      <td><a href="https://www.twitch.tv/videos/308143292">15-7</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
@@ -205,7 +205,7 @@ title: (A) League Matchups
       <td> </td> <!--kress-->
       <td> </td> <!--Bronze V Tetris-->
       <td> </td> <!--Gamster_Death-->
-      <td>14-15</td> <!--baseballboy-->
+      <td><a href="https://www.twitch.tv/videos/306720427">14-15</a></td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
       <td>1-1</td>
