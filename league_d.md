@@ -137,7 +137,7 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>0-1</td>
+      <td>0-2</td>
       <td>-20</td>
     </tr>
     <tr>
