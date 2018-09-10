@@ -328,7 +328,7 @@ title: (F) League Matchups
   <tbody>
     <tr>
       <td>wizard944 vs BOBtheman2000</td>
-      <td>Played </td>
+      <td></td>
     </tr>
     <tr>
       <td>Blank vs XeaL</td>
