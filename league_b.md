@@ -449,7 +449,7 @@ title: (B) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Ting vs CooJ</td>
+      <td>RJ vs CooJ</td>
       <td></td>
     </tr>
     <tr>
