@@ -344,7 +344,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>52_bloodeyes vs Qlex</td>
-      <td> </td>
+      <td> Played </td>
     </tr>
     <tr>
       <td>wizard944 vs XeaL</td>
@@ -352,7 +352,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>BOBtheman2000 vs Neo7</td>
-      <td> </td>
+      <td> Played </td>
     </tr>
     <tr>
       <td>Blank vs PichuFreak</td>
@@ -364,7 +364,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Haxel59 vs 52_bloodeyes</td>
-      <td> </td>
+      <td> Played </td>
     </tr>
   </tbody>
 </table>
