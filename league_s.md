@@ -183,3 +183,40 @@ title: (S) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (S) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aruni084 vs OnePunMan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>JPN Hiroki vs Doremy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wumbo vs Ijain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>aruni084 vs Doremy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OnePunMan vs Iljain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>JPN Hiroki vs Wumbo</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
