@@ -263,7 +263,60 @@ title: (F) League Matchups
   </tbody>
 </table>
 
-## (F) Week 1 Schedule ##
+## (F) Week 2 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wizard944 vs Neo7</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>XeaL vs PichuFreak</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>BOBtheman2000 vs Qlex</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Blank vs 52_bloodeyes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EpicYoshi vs Haxel59</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>wizard944 vs PichuFreak</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Neo7 vs Qlex</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>XeaL vs 52_bloodeyes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BOBtheman2000 vs Haxel59</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Blank vs EpicYoshi</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+## (F) Week 2 Schedule ##
 
 <table>
   <thead>

@@ -274,10 +274,10 @@ title: (E) League Matchups
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td> </td> <!--elijah-->
-      <td> </td> <!--Oblivion-->
+      <td>15-2</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+13</td>
     </tr>
     <tr>
       <td>elijah</td>
@@ -306,12 +306,12 @@ title: (E) League Matchups
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td> </td> <!--amie-->
-      <td> </td> <!--SimpleFlips-->
+      <td>2-15</td> <!--SimpleFlips-->
       <td> </td> <!--elijah-->
       <td> </td> <!--Oblivion-->
       <td>4-15</td> <!--Hanna-->
-      <td>0-1</td>
-      <td>-11</td>
+      <td>0-2</td>
+      <td>-24</td>
     </tr>
     <tr>
       <td>Hanna</td>
@@ -408,7 +408,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>SimpleFlips vs Oblivion</td>
-      <td> </td>
+      <td>9/10 1:00AM</td>
     </tr>
   </tbody>
 </table>
