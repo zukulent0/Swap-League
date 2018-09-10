@@ -146,14 +146,14 @@ title: (C) League Matchups
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td>5-15</td> <!--acliv-->
-      <td> </td> <!--dream-->
+      <td>15-14</td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td>3-15</td> <!--WD-->
       <td> </td> <!--gray-->
       <td></td> <!--Dorothy-->
-      <td>0-2</td>
-      <td>-22</td>
+      <td>1-2</td>
+      <td>-21</td>
     </tr>
     <tr>
       <td>acliv</td>
@@ -174,7 +174,7 @@ title: (C) League Matchups
       <td>dream</td>
       <td> </td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
-      <td> </td> <!--Shard Nguyễn-->
+      <td>14-15</td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
       <td> </td> <!--dream-->
       <td>4-15</td> <!--Circu1ation-->
@@ -182,8 +182,8 @@ title: (C) League Matchups
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td>10-15</td> <!--Dorothy-->
-      <td>0-2</td>
-      <td>-16</td>
+      <td>0-3</td>
+      <td>-17</td>
     </tr>
     <tr>
       <td>Circu1ation</td>
@@ -364,7 +364,7 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>Shard Nguyễn vs it was all a dream</td>
-      <td> </td>
+      <td>9/8 9:30PM</td>
     </tr>
   </tbody>
 </table>

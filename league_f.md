@@ -132,19 +132,19 @@ title: (F) League Matchups
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
-      <td> </td> <!--Neo7-->
+      <td>15-6</td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+9</td>
     </tr>
     <tr>
       <td>Blank</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> </td> <!--Blank-->	    
+      <td> </td> <!--Blank-->
       <td> <a href="https://www.youtube.com/watch?v=WuRLBiVcSzY">0-15</a></td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
@@ -188,7 +188,7 @@ title: (F) League Matchups
     <tr>
       <td>Neo7</td>
       <td> </td> <!--wizard944-->
-      <td> </td> <!--BOBtheman2000-->
+      <td>6-15</td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
@@ -197,8 +197,8 @@ title: (F) League Matchups
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td> </td>
-      <td> </td>
+      <td>0-1</td>
+      <td>-9</td>
     </tr>
     <tr>
       <td>Haxel59</td>
@@ -256,9 +256,9 @@ title: (F) League Matchups
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td>13-15</td> <!--52_bloodeyes-->
-      <td> </td> <!--Qlex-->
-      <td>0-1</td>
-      <td>-2</td>
+      <td>15-8</td> <!--Qlex-->
+      <td>1-1</td>
+      <td>+5</td>
     </tr>
   </tbody>
 </table>
@@ -287,7 +287,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Haxel59 vs PichuFreak</td>
-      <td> </td>
+      <td>9/7 5:30PM</td>
     </tr>
     <tr>
       <td>52_bloodeyes vs Qlex</td>
@@ -307,7 +307,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>EpicYoshi vs Qlex</td>
-      <td> </td>
+      <td>9/9 4:30PM</td>
     </tr>
     <tr>
       <td>Haxel59 vs 52_bloodeyes</td>

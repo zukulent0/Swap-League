@@ -129,7 +129,7 @@ title: (A) League Matchups
     <tr>
       <td>z2sam</td>
       <td> </td> <!--z2sam-->
-      <td> </td> <!--popte-->
+      <td>15-7</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
@@ -140,12 +140,12 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+8</td>
     </tr>
     <tr>
       <td>popte</td>
-      <td> </td> <!--z2sam-->
+      <td>7-15</td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
@@ -157,8 +157,8 @@ title: (A) League Matchups
       <td> </td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td> </td> <!--Pokedialga-->
-      <td>0-1</td>
-      <td>-10</td>
+      <td>0-2</td>
+      <td>-18</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS</td>
@@ -364,7 +364,7 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>z2sam vs popte</td>
-      <td></td>
+      <td>9/9 3:00PM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Jason0107</td>

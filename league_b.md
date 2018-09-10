@@ -200,9 +200,9 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--saltedbread-->
-      <td>0-1</td>
-      <td>-2</td>
+      <td>11-15</td> <!--saltedbread-->
+      <td>0-2</td>
+      <td>-6</td>
     </tr>
     <tr>
       <td>ookamisuketoudara</td>
@@ -296,15 +296,15 @@ title: (B) League Matchups
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
-      <td> </td> <!--OkeyDokey-->
+      <td>15-11</td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td> </td>
-      <td> </td>
+      <td>1-0</td>
+      <td>+4</td>
     </tr>
   </tbody>
   <tfoot>
@@ -389,7 +389,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>saltedbread vs OkeyDokey</td>
-      <td> </td>
+      <td>9/9 5:00PM</td>
     </tr>
     <tr>
       <td>Ting vs Hua</td>
