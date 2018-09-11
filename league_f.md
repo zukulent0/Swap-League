@@ -291,7 +291,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>EpicYoshi vs Haxel59</td>
-      <td> </td>
+      <td>Saturday 5:30p EST </td>
     </tr>
     <tr>
       <td>wizard944 vs PichuFreak</td>
@@ -307,7 +307,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>BOBtheman2000 vs Haxel59</td>
-      <td></td>
+      <td> Saturday 5PM (UTC+2)</td>
     </tr>
     <tr>
       <td>Blank vs EpicYoshi</td>
