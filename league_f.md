@@ -177,11 +177,11 @@ title: (F) League Matchups
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
-      <td> 15-10 </td> <!--Neo7-->
+      <td> <a href="https://www.youtube.com/watch?v=8khS2wUaQr4&t=1m40s">15-10</a> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
-      <td>15-8</td> <!--Qlex-->
+      <td> <a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">15-8</a></td> <!--Qlex-->
       <td>2-0</td>
       <td>+12</td>
     </tr>
@@ -191,7 +191,7 @@ title: (F) League Matchups
       <td>6-15</td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
-      <td>10-15</td> <!--EpicYoshi-->
+      <td> <a href="https://www.youtube.com/watch?v=8khS2wUaQr4&t=1m40s">10-15</a></td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
@@ -251,7 +251,7 @@ title: (F) League Matchups
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
-      <td>8-15</td> <!--EpicYoshi-->
+      <td><a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">8-15</a></td></td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
@@ -336,7 +336,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>EpicYoshi vs Neo7</td>
-      <td>Played</td>
+      <td><a href="https://www.youtube.com/watch?v=8khS2wUaQr4&t=1m40s">Played</a></td>
     </tr>
     <tr>
       <td>Haxel59 vs PichuFreak</td>
@@ -360,7 +360,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>EpicYoshi vs Qlex</td>
-      <td>9/9 4:30PM</td>
+      <td><a href="https://www.youtube.com/watch?v=8khS2wUaQr4&t=1m40s">9/9 4:30PM</a></td>
     </tr>
     <tr>
       <td>Haxel59 vs 52_bloodeyes</td>
