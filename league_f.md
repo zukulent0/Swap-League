@@ -283,7 +283,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>BOBtheman2000 vs Qlex</td>
-      <td> </td>
+      <td>14/9 11AM Friday (UTC-4) </td>
     </tr>
     <tr>
       <td>Blank vs 52_bloodeyes</td>
