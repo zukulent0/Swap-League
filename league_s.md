@@ -24,7 +24,7 @@ title: (S) League Matchups
       <td>15000</td>
     </tr>
     <tr>
-      <td>Wumbo</td>
+      <td><a href="https://steamcommunity.com/profiles/76561198265058335/">Wumbo</a></td>
       <td><a href="https://twitter.com/Wumbotize">@Wumbotize</a></td>
       <td><a href="https://www.twitch.tv/wumbotize">twitch.tv/wumbotize</a></td>
       <td>38</td>

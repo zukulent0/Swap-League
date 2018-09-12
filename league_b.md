@@ -199,10 +199,10 @@ title: (B) League Matchups
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
-      <td> </td> <!--Casey.GV-->
+      <td><a href="https://www.twitch.tv/videos/308478539">13-15</a></td> <!--Casey.GV-->
       <td>11-15</td> <!--saltedbread-->
-      <td>0-2</td>
-      <td>-6</td>
+      <td>0-3</td>
+      <td>-8</td>
     </tr>
     <tr>
       <td>ookamisuketoudara</td>
@@ -231,12 +231,12 @@ title: (B) League Matchups
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
-      <td> </td> <!--Dazer-->
+      <td><a href="https://www.twitch.tv/videos/308528524">15-11</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td>4-15</td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>1-0</td>
-      <td>-11</td>
+      <td>1-1</td>
+      <td>-7</td>
     </tr>
     <tr>
       <td>Dazer</td>
@@ -247,13 +247,13 @@ title: (B) League Matchups
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td>0-15</td> <!--ookamisuketoudara-->
-      <td> </td> <!--garbo-->
+      <td><a href="https://www.twitch.tv/videos/308528524">11-15</a></td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td>13-15</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>0-2</td>
-      <td>-17</td>
+      <td>0-3</td>
+      <td>-21</td>
     </tr>
     <tr>
       <td>CooJ</td>
@@ -279,15 +279,15 @@ title: (B) League Matchups
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td>15-13</td> <!--RJ-->
-      <td> </td> <!--OkeyDokey-->
+      <td><a href="https://www.twitch.tv/videos/308478539">15-13</a></td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td>15-4</td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>2-0</td>
-      <td>+13</td>
+      <td>3-0</td>
+      <td>+15</td>
     </tr>
     <tr>
       <td>saltedbread</td>
