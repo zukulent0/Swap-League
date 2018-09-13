@@ -209,11 +209,11 @@ title: (D) League Matchups
       <td> </td> <!--wait_what-->
       <td> </td> <!--Helomair-->
       <td> </td> <!--t-block-->
-      <td> </td> <!--Jonas Neubauer-->
+      <td>15-2</td> <!--Jonas Neubauer-->
       <td>9-15</td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>0-1</td>
-      <td>-6</td>
+      <td>1-1</td>
+      <td>+7</td>
     </tr>
     <tr>
       <td>Jonas Neubauer</td>
@@ -223,12 +223,12 @@ title: (D) League Matchups
       <td> </td> <!--Donorgyll-->
       <td> </td> <!--wait_what-->
       <td> </td> <!--Helomair-->
-      <td> </td> <!--t-block-->
+      <td>2-15</td> <!--t-block-->
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>0-1</td>
-      <td>-14</td>
+      <td>0-2</td>
+      <td>-27</td>
     </tr>
     <tr>
       <td>MSon</td>
