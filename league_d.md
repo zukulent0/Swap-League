@@ -209,7 +209,7 @@ title: (D) League Matchups
       <td> </td> <!--wait_what-->
       <td> </td> <!--Helomair-->
       <td> </td> <!--t-block-->
-      <td>15-2</td> <!--Jonas Neubauer-->
+      <td><a href="https://www.twitch.tv/videos/308233868">15-2</a></td> <!--Jonas Neubauer-->
       <td>9-15</td> <!--MSon-->
       <td> </td> <!--onizuka777-->
       <td>1-1</td>

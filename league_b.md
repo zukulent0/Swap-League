@@ -122,14 +122,14 @@ title: (B) League Matchups
     <tr>
       <td>Ting</td>
       <td> </td> <!-- Ting -->
-      <td>8-15</td> <!--Hua-->
+      <td><a href="https://www.twitch.tv/videos/305341567?t=00h41m30s">8-15</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
-      <td>15-3</td> <!--Dazer-->
+      <td><a href="https://www.twitch.tv/videos/309165469?t=00h14m40s">15-3</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
@@ -138,13 +138,13 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Hua</td>
-      <td>15-8</td> <!-- Ting -->
+      <td><a href="https://www.twitch.tv/videos/305372620">15-8</a></td> <!-- Ting -->
       <td></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
-      <td>12-15</td> <!--ookamisuketoudara-->
+      <td><a href="https://www.twitch.tv/videos/307352379">12-15</a></td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
@@ -160,11 +160,11 @@ title: (B) League Matchups
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
-      <td>15-13</td> <!--OkeyDokey-->
+      <td><a href="https://www.twitch.tv/videos/307043269?t=00h07m14s">15-13</a></td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
-      <td>15-8</td> <!--CooJ-->
+      <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s">15-8</a></td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
       <td>2-0</td>
@@ -182,17 +182,17 @@ title: (B) League Matchups
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
-      <td>13-15</td> <!--Casey.GV-->
+      <td><a href="https://www.twitch.tv/videos/305636565">13-15</a></td> <!--Casey.GV-->
       <td></td> <!--saltedbread-->
-      <td>0-2</td>
-      <td>-10</td>
+      <td>0-1</td>
+      <td>-2</td>
     </tr>
     <tr>
       <td>OkeyDokey</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
-      <td>13-15</td> <!--SiaMeS2E-->
+      <td><a href="https://www.twitch.tv/videos/307043269?t=00h07m14s">13-15</a></td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
@@ -200,21 +200,21 @@ title: (B) League Matchups
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/308478539">13-15</a></td> <!--Casey.GV-->
-      <td>11-15</td> <!--saltedbread-->
+      <td><a href="https://www.twitch.tv/videos/308071728">11-15</a></td> <!--saltedbread-->
       <td>0-3</td>
       <td>-8</td>
     </tr>
     <tr>
       <td>ookamisuketoudara</td>
       <td> </td> <!-- Ting -->
-      <td>15-12</td> <!--Hua-->
+      <td><a href="https://www.twitch.tv/videos/307325252">15-12</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
-      <td>15-0</td> <!--Dazer-->
+      <td><a href="https://www.twitch.tv/videos/306744236">15-0</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
@@ -233,7 +233,7 @@ title: (B) League Matchups
       <td> </td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/308528524">15-11</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
-      <td>4-15</td> <!--Casey.GV-->
+      <td><a href="https://www.twitch.tv/videos/305648977">4-15</a></td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
       <td>1-1</td>
       <td>-7</td>
@@ -246,10 +246,10 @@ title: (B) League Matchups
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
-      <td>0-15</td> <!--ookamisuketoudara-->
+      <td><a href="https://www.twitch.tv/videos/306749953">0-15</a></td> <!--ookamisuketoudara-->
       <td><a href="https://www.twitch.tv/videos/308528524">11-15</a></td> <!--garbo-->
       <td> </td> <!--Dazer-->
-      <td>13-15</td> <!--CooJ-->
+      <td><a href="https://www.twitch.tv/videos/305291105?t=00h16m42s">13-15</a></td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
       <td>0-4</td>
@@ -260,15 +260,15 @@ title: (B) League Matchups
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
-      <td>8-15</td> <!--SiaMeS2E-->
+      <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s">8-15</a></td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
-      <td>15-13</td> <!--Dazer-->
+      <td><a href="https://www.twitch.tv/videos/305279696?t=01h19m56s">15-13</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td>14-15</td> <!--saltedbread-->
+      <td><a href="https://www.twitch.tv/videos/309356942">14-15</a></td> <!--saltedbread-->
       <td>1-2</td>
       <td>-6</td>
     </tr>
@@ -278,10 +278,10 @@ title: (B) League Matchups
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
-      <td>15-13</td> <!--RJ-->
+      <td><a href="https://www.twitch.tv/videos/305636565">15-13</a></td> <!--RJ-->
       <td><a href="https://www.twitch.tv/videos/308478539">15-13</a></td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
-      <td>15-4</td> <!--garbo-->
+      <td><a href="https://www.twitch.tv/videos/305648977">15-4</a></td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
@@ -296,11 +296,11 @@ title: (B) League Matchups
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
-      <td>15-11</td> <!--OkeyDokey-->
+      <td><a href="https://www.twitch.tv/videos/308071728">15-11</a></td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
-      <td>15-14</td> <!--CooJ-->
+      <td><a href="https://www.twitch.tv/videos/309357255">15-14</a></td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
       <td>2-0</td>
