@@ -129,12 +129,12 @@ title: (B) League Matchups
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
-      <td> </td> <!--Dazer-->
+      <td>15-3</td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>0-1</td>
-      <td>-7</td>
+      <td>1-1</td>
+      <td>+5</td>
     </tr>
     <tr>
       <td>Hua</td>
@@ -240,7 +240,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Dazer</td>
-      <td> </td> <!-- Ting -->
+      <td>3-15</td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
@@ -252,8 +252,8 @@ title: (B) League Matchups
       <td>13-15</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>0-3</td>
-      <td>-21</td>
+      <td>0-4</td>
+      <td>-33</td>
     </tr>
     <tr>
       <td>CooJ</td>
@@ -268,9 +268,9 @@ title: (B) League Matchups
       <td>15-13</td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
-      <td> </td> <!--saltedbread-->
-      <td>1-1</td>
-      <td>-5</td>
+      <td>14-15</td> <!--saltedbread-->
+      <td>1-2</td>
+      <td>-6</td>
     </tr>
     <tr>
       <td>Casey.GV</td>
@@ -300,11 +300,11 @@ title: (B) League Matchups
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
-      <td> </td> <!--CooJ-->
+      <td>15-14</td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>1-0</td>
-      <td>+4</td>
+      <td>2-0</td>
+      <td>+5</td>
     </tr>
   </tbody>
   <tfoot>

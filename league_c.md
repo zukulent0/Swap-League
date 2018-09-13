@@ -115,15 +115,15 @@ title: (C) League Matchups
       <td> </td> <!--lawren-->
       <td><a href="https://www.twitch.tv/videos/306768563">15-4</a></td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
-      <td><a href="https://www.twitch.tv/videos/306581794">15-11</a></td> <!--acliv-->
+      <td><a href="https://www.twitch.tv/videos/306581794">15-10</a></td> <!--acliv-->
       <td> </td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
-      <td> </td> <!--WD-->
+      <td>15-12</td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>2-0</td>
-      <td>+15</td>
+      <td>3-0</td>
+      <td>+19</td>
     </tr>
     <tr>
       <td>Scottobozo</td>
@@ -133,12 +133,12 @@ title: (C) League Matchups
       <td> </td> <!--acliv-->
       <td> </td> <!--dream-->
       <td><a href="https://www.twitch.tv/videos/305719660">7-15</a></td> <!--Circu1ation-->
-      <td> </td> <!--Shana-->
+      <td>15-13</td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
-      <td> </td> <!--Dorothy-->
-      <td>0-2</td>
-      <td>-19</td>
+      <td><a href="https://www.twitch.tv/videos/309590257">10-15</a></td> <!--Dorothy-->
+      <td>1-3</td>
+      <td>-22</td>
     </tr>
     <tr>
       <td>Shard Nguyễn</td>
@@ -157,7 +157,7 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>acliv</td>
-      <td><a href="https://www.twitch.tv/videos/306581794">11-15</a></td> <!--lawren-->
+      <td><a href="https://www.twitch.tv/videos/306581794">10-15</a></td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/305371868">15-5</a></td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
@@ -165,9 +165,9 @@ title: (C) League Matchups
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
-      <td> </td> <!--gray-->
+      <td>15-14</td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>1-1</td>
+      <td>2-1</td>
       <td>+6</td>
     </tr>
     <tr>
@@ -178,12 +178,12 @@ title: (C) League Matchups
       <td> </td> <!--acliv-->
       <td> </td> <!--dream-->
       <td>4-15</td> <!--Circu1ation-->
-      <td> </td> <!--Shana-->
+      <td>15-6</td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td><a href="https://www.twitch.tv/videos/306056594">10-15</a></td> <!--Dorothy-->
-      <td>0-3</td>
-      <td>-17</td>
+      <td>1-3</td>
+      <td>-8</td>
     </tr>
     <tr>
       <td>Circu1ation</td>
@@ -196,28 +196,28 @@ title: (C) League Matchups
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
-      <td> </td> <!--Dorothy-->
+      <td>15-4</td> <!--Dorothy-->
       <td>2-0</td>
-      <td>+19</td>
+      <td>+30</td>
     </tr>
     <tr>
       <td>Shana</td>
       <td> </td> <!--lawren-->
-      <td> </td> <!--Scottobozo-->
+      <td>13-15</td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
-      <td> </td> <!--dream-->
+      <td>6-15</td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td><a href="https://www.twitch.tv/videos/305701553">10-15</a></td> <!--WD-->
       <td>10-15</td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>0-2</td>
-      <td>-10</td>
+      <td>0-4</td>
+      <td>-21</td>
     </tr>
     <tr>
       <td>WD</td>
-      <td> </td> <!--lawren-->
+      <td>12-15</td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/305367292">15-3</a></td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
@@ -227,38 +227,38 @@ title: (C) League Matchups
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>2-0</td>
-      <td>+17</td>
+      <td>2-1</td>
+      <td>+14</td>
     </tr>
     <tr>
       <td>gray</td>
       <td> </td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
-      <td> </td> <!--acliv-->
+      <td>14-15</td> <!--acliv-->
       <td> </td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td>15-10</td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td><a href="https://www.twitch.tv/videos/306168592">8-15</a></td> <!--Dorothy-->
-      <td>1-1</td>
-      <td>-2</td>
+      <td>1-2</td>
+      <td>-3</td>
     </tr>
     <tr>
       <td>Dorothy</td>
       <td> </td> <!--lawren-->
-      <td> </td> <!--Scottobozo-->
+      <td><a href="https://www.twitch.tv/videos/309590257">15-10</a></td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
       <td><a href="https://www.twitch.tv/videos/306056594">15-10</a></td> <!--dream-->
-      <td> </td> <!--Circu1ation-->
+      <td>4-15</td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td> </td> <!--WD-->
       <td><a href="https://www.twitch.tv/videos/306168592">15-8</a></td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>2-0</td>
-      <td>+12</td>
+      <td>2-1</td>
+      <td>+1</td>
     </tr>
   </tbody>
 </table>
