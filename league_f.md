@@ -311,7 +311,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Blank vs EpicYoshi</td>
-      <td> </td>
+      <td>Saturday 12am EST</td>
     </tr>
   </tbody>
 </table>
