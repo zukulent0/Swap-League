@@ -240,7 +240,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>Dazer</td>
-      <td>3-15</td> <!-- Ting -->
+      <td><a href="https://www.twitch.tv/videos/309165469?t=00h14m40s">3-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
