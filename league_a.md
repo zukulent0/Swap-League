@@ -129,7 +129,7 @@ title: (A) League Matchups
     <tr>
       <td>z2sam</td>
       <td> </td> <!--z2sam-->
-      <td><a href=""https://www.youtube.com/watch?v=v-xeYvML-0g">15-7</a></td> <!--popte-->
+      <td><a href="https://www.youtube.com/watch?v=v-xeYvML-0g">15-7</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
       <td> </td> <!--Jason0107-->
       <td> </td> <!--yida9900-->
