@@ -82,7 +82,7 @@ title: (F) League Matchups
     <tr>
       <td><a href="https://steamcommunity.com/id/QlexTENDER/">Qlex</a></td>
       <td><a href="https://twitter.com/qlextender">@qlextender</a></td>
-      <td><a href="https://www.twitch.tv/Pee1077">twitch.tv/Pee1077</a></td>
+      <td><a href="https://www.twitch.tv/qlexplore">twitch.tv/qlexplore</a></td>
       <td>1:03</td>
       <td>6000</td>
     </tr>
@@ -150,10 +150,10 @@ title: (F) League Matchups
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td>3-15</td> <!--PichuFreak-->
-      <td> </td> <!--52_bloodeyes-->
+      <td>2-15</td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>0-2</td>
-      <td>-27</td>
+      <td>0-3</td>
+      <td>-40</td>
     </tr>
     <tr>
       <td>XeaL</td>
@@ -234,7 +234,7 @@ title: (F) League Matchups
       <td>52_bloodeyes</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> </td> <!--Blank-->
+      <td>15-2 </td> <!--Blank-->
       <td> <a href="https://www.youtube.com/watch?v=vjoctrePOBg"> 1-15 </a></td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
@@ -242,8 +242,8 @@ title: (F) League Matchups
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td>15-13</td> <!--Qlex-->
-      <td>1-1</td>
-      <td>-13</td>
+      <td>2-1</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Qlex</td>
