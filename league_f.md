@@ -178,12 +178,12 @@ title: (F) League Matchups
       <td> </td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td> <a href="https://www.youtube.com/watch?v=8khS2wUaQr4&t=1m40s">15-10</a> </td> <!--Neo7-->
-      <td> </td> <!--Haxel59-->
+      <td> <a href="https://youtu.be/vybrb4eSpJU">7-15</a> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> </td> <!--52_bloodeyes-->
       <td> <a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">15-8</a></td> <!--Qlex-->
-      <td>2-0</td>
-      <td>+12</td>
+      <td>2-1</td>
+      <td>+4</td>
     </tr>
     <tr>
       <td>Neo7</td>
@@ -206,14 +206,14 @@ title: (F) League Matchups
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
-      <td> </td> <!--EpicYoshi-->
+      <td><a href="https://youtu.be/vybrb4eSpJU">15-7</a> </td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td><a href="https://www.youtube.com/watch?v=oK3NE40ECxo&t=41s">8-15</a></td> <!--PichuFreak-->
       <td><a href="https://youtu.be/fbYk35gYZ9I">15-0</a> </td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>1-1</td>
-      <td>+8</td>
+      <td>2-1</td>
+      <td>+16</td>
     </tr>
     <tr>
       <td>PichuFreak</td>
@@ -291,7 +291,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>EpicYoshi vs Haxel59</td>
-      <td>Saturday 5:30p EST </td>
+      <td><a href="https://youtu.be/vybrb4eSpJU">Saturday 5:30p EST</a> </td>
     </tr>
     <tr>
       <td>wizard944 vs PichuFreak</td>
