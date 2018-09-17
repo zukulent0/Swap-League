@@ -206,10 +206,10 @@ title: (E) League Matchups
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td>15-4</td> <!--elijah-->
-      <td>0-15</td> <!--Oblivion-->
+      <td>14-15</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
       <td>1-2</td>
-      <td>-12</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Luminsen</td>
@@ -302,7 +302,7 @@ title: (E) League Matchups
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
       <td> </td> <!--124san-->
-      <td>15-0</td> <!--Fyzzl-->
+      <td>15-14</td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td> </td> <!--amie-->
@@ -311,7 +311,7 @@ title: (E) League Matchups
       <td></td> <!--Oblivion-->
       <td>4-15</td> <!--Hanna-->
       <td>1-2</td>
-      <td>-9</td>
+      <td>-23</td>
     </tr>
     <tr>
       <td>Hanna</td>
