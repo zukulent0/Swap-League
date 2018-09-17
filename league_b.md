@@ -193,7 +193,7 @@ title: (B) League Matchups
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td><a href="https://www.twitch.tv/videos/307043269?t=00h07m14s">13-15</a></td> <!--SiaMeS2E-->
-      <td> </td> <!--RJ-->
+      <td>15-14</td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
@@ -201,8 +201,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/308478539">13-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/308071728">11-15</a></td> <!--saltedbread-->
-      <td>0-3</td>
-      <td>-8</td>
+      <td>1-3</td>
+      <td>-7</td>
     </tr>
     <tr>
       <td>ookamisuketoudara</td>
