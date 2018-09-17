@@ -224,7 +224,7 @@ title: (B) League Matchups
     <tr>
       <td>garbo</td>
       <td> </td> <!-- Ting -->
-      <td><a href=""8-15</a></td> <!--Hua-->
+      <td><a href="google.com">8-15</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
