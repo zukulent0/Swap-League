@@ -473,3 +473,64 @@ title: (E) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (E) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shizu vs Luminsen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs amie</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Allete vs elijah</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lozofan vs Hanna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fyzzl vs Oblivion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>player vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shizu vs amie</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs elijah</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs Hanna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Allete vs Oblivion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lozofan vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Fyzzl vs player</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
