@@ -263,6 +263,59 @@ title: (F) League Matchups
   </tbody>
 </table>
 
+## (F) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wizard944 vs Qlex</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PichuFreak vs 52_bloodeyes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Neo7 vs Haxel59</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>XeaL vs EpicYoshi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BOBtheman2000 vs Blank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>wizard944 vs 52_bloodeyes</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qlex vs Haxel59</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PichuFreak vs EpicYoshi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Neo7 vs Blank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>BOBtheman2000 vs XaeL</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## (F) Week 2 Schedule ##
 
 <table>
@@ -368,3 +421,4 @@ title: (F) League Matchups
     </tr>
   </tbody>
 </table>
+

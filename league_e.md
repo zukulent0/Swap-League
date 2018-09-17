@@ -485,52 +485,53 @@ title: (E) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Shizu vs Luminsen</td>
+      <td>Shizu vs BYE</td>
       <td></td>
     </tr>
     <tr>
-      <td>124san vs amie</td>
+      <td>amie vs Hanna</td>
       <td></td>
     </tr>
     <tr>
-      <td>Allete vs elijah</td>
+      <td>Luminsen vs Oblivion</td>
       <td></td>
     </tr>
     <tr>
-      <td>Lozofan vs Hanna</td>
+      <td>124san vs SimpleFlips</td>
       <td></td>
     </tr>
     <tr>
-      <td>Fyzzl vs Oblivion</td>
+      <td>Allete vs player</td>
       <td></td>
     </tr>
     <tr>
-      <td>player vs SimpleFlips</td>
+      <td>Lozofan vs Fyzzl</td>
       <td></td>
     </tr>
     <tr>
-      <td>Shizu vs amie</td>
+      <td>Shizu vs Hanna</td>
       <td></td>
     </tr>
     <tr>
-      <td>Luminsen vs elijah</td>
+      <td>Oblivion vs BYE</td>
       <td></td>
     </tr>
     <tr>
-      <td>124san vs Hanna</td>
+      <td>amie vs SimpleFlips</td>
       <td></td>
     </tr>
     <tr>
-      <td>Allete vs Oblivion</td>
+      <td>Luminsen vs player</td>
       <td></td>
     </tr>
     <tr>
-      <td>Lozofan vs SimpleFlips</td>
+      <td>124san vs Fyzzl</td>
       <td></td>
     </tr>
     <tr>
-      <td>Fyzzl vs player</td>
+      <td>Allete vs Lozofan</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
