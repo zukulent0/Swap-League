@@ -466,3 +466,64 @@ title: (B) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (B) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casey.GV vs Hua</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OkeyDokey vs CooJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dazer vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RJ vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>garbo vs SiaMeS2E</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>saltedbread vs Ting</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Casey.GV vs CooJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs Dazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OkeyDokey vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SiaMeS2E vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RJ vs Ting</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>garbo vs saltedbread</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

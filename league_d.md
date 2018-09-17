@@ -368,3 +368,57 @@ title: (D) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (D) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaarg vs onizuka777</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Jonas Neubauer vs MSon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Helomair vs t-block</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Donorgyll vs wait_what</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Meiling vs Nick</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Blaarg vs MSon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>onizuka777 vs t-block</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Jonas Neubauer vs wait_what</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Helomair vs Nick</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Donorgyll vs Meiling</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+

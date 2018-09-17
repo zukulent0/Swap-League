@@ -206,10 +206,10 @@ title: (E) League Matchups
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td>15-4</td> <!--elijah-->
-      <td>0-15</td> <!--Oblivion-->
+      <td>14-15</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
       <td>1-2</td>
-      <td>-12</td>
+      <td>+2</td>
     </tr>
     <tr>
       <td>Luminsen</td>
@@ -302,7 +302,7 @@ title: (E) League Matchups
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
       <td> </td> <!--124san-->
-      <td>15-0</td> <!--Fyzzl-->
+      <td>15-14</td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td> </td> <!--amie-->
@@ -311,7 +311,7 @@ title: (E) League Matchups
       <td></td> <!--Oblivion-->
       <td>4-15</td> <!--Hanna-->
       <td>1-2</td>
-      <td>-9</td>
+      <td>-23</td>
     </tr>
     <tr>
       <td>Hanna</td>
@@ -473,3 +473,65 @@ title: (E) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (E) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shizu vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs Hanna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs Oblivion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Allete vs player</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lozofan vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shizu vs Hanna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oblivion vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs player</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Allete vs Lozofan</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+

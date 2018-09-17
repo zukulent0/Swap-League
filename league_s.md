@@ -220,3 +220,40 @@ title: (S) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (S) Week 3 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aruni084 vs Iljain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Doremy vs Wumbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OnePunMan vs JPN Hiroki</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>aruni084 vs JPN Hiroki</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wumbo vs OnePunMan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Iljain vs Doremy</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
