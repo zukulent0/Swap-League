@@ -144,7 +144,7 @@ title: (E) League Matchups
       <td>+39</td>
     </tr>
     <tr>
-      <td>Allete</td>
+      <td>(10) Allete</td>
       <td>4-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
@@ -178,7 +178,7 @@ title: (E) League Matchups
       <td>+11</td>
     </tr>
     <tr>
-      <td>124san</td>
+      <td>(8) 124san</td>
       <td>4-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>4-15</td> <!--Lozofan-->
@@ -195,7 +195,7 @@ title: (E) League Matchups
       <td>-28</td>
     </tr>
     <tr>
-      <td>Fyzzl</td>
+      <td>(9) Fyzzl</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
@@ -246,7 +246,7 @@ title: (E) League Matchups
       <td>+23</td>
     </tr>
     <tr>
-      <td>amie</td>
+      <td>(6) amie</td>
       <td>8-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>15-12</td> <!--Lozofan-->
@@ -263,7 +263,7 @@ title: (E) League Matchups
       <td>-11</td>
     </tr>
     <tr>
-      <td>SimpleFlips</td>
+      <td>(7) SimpleFlips</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>12-15</td> <!--Lozofan-->
@@ -297,7 +297,7 @@ title: (E) League Matchups
       <td>X</td>
     </tr>
     <tr>
-      <td>Oblivion</td>
+      <td>(7) Oblivion</td>
       <td> </td> <!--Shizu-->
       <td><a href="https://www.twitch.tv/videos/310886707">15-7</a></td> <!--Allete-->
       <td> </td> <!--Lozofan-->
