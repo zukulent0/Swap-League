@@ -274,7 +274,7 @@ title: (G) League Matchups
 ## (G) Match Table ##
 
 **<a href="https://challonge.com/nf7xxzt0">Week 1 matchups</a>**  
-**<a href="https://challonge.com/ht140g53">Week 2 matchups</a>**
+**<a href="https://challonge.com/ht140g53">Week 2 matchups</a>**  
 **<a href="https://challonge.com/14mr30rq">Week 3 matchups</a>**
 
 ## (G) Week 1 Schedule ##
