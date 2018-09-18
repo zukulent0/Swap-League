@@ -251,7 +251,7 @@ title: (F) League Matchups
       <td>11-15</td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> </td> <!--XeaL-->
-      <td><a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">8-15</a></td></td> <!--EpicYoshi-->
+      <td><a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">8-15</a></td> <!--EpicYoshi-->
       <td> </td> <!--Neo7-->
       <td> </td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
