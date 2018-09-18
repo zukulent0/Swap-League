@@ -144,7 +144,7 @@ title: (E) League Matchups
       <td>+39</td>
     </tr>
     <tr>
-      <td>(10) Allete</td>
+      <td>(11) Allete</td>
       <td>4-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
@@ -178,7 +178,7 @@ title: (E) League Matchups
       <td>+11</td>
     </tr>
     <tr>
-      <td>(8) 124san</td>
+      <td>(9) 124san</td>
       <td>4-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>4-15</td> <!--Lozofan-->
@@ -195,7 +195,7 @@ title: (E) League Matchups
       <td>-28</td>
     </tr>
     <tr>
-      <td>(9) Fyzzl</td>
+      <td>(10) Fyzzl</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
@@ -263,7 +263,7 @@ title: (E) League Matchups
       <td>-11</td>
     </tr>
     <tr>
-      <td>(7) SimpleFlips</td>
+      <td>(8) SimpleFlips</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>12-15</td> <!--Lozofan-->
@@ -289,7 +289,7 @@ title: (E) League Matchups
       <td>X</td> <!--Luminsen-->
       <td>X</td> <!--player-->
       <td>X</td> <!--amie-->
-      <td></del>13-15</del></td> <!--SimpleFlips-->
+      <td><del>13-15</del></td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
       <td>X</td> <!--Oblivion-->
       <td>X</td> <!--Hanna-->
