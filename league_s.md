@@ -79,7 +79,7 @@ title: (S) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>aruni084</td>
+      <td>aruni084 (3)</td>
       <td> </td> <!--aruni084-->
       <td><a href="https://www.youtube.com/watch?v=qKYK9_kb6WY">5-15</a></td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
@@ -90,7 +90,7 @@ title: (S) League Matchups
       <td>+7</td>
     </tr>
     <tr>
-      <td>Wumbo</td>
+      <td>Wumbo <b>(1)</b></td>
       <td><a href="https://www.youtube.com/watch?v=qotFvwWxxVA">15-5</a></td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
       <td><a href="https://www.youtube.com/watch?v=HtIIanuMH2M">15-5</a></td> <!--Iljain-->
@@ -101,7 +101,7 @@ title: (S) League Matchups
       <td>+42</td>
     </tr>
     <tr>
-      <td>Iljain</td>
+      <td>Iljain (6)</td>
       <td> </td> <!--aruni084-->
       <td><a href="https://www.youtube.com/watch?v=HtIIanuMH2M">5-15</a></td> <!--Wumbo-->
       <td> </td> <!--Iljain-->
@@ -112,7 +112,7 @@ title: (S) League Matchups
       <td>-27</td>
     </tr>
     <tr>
-      <td>JPN Hiroki</td>
+      <td>JPN Hiroki (4)</td>
       <td><a href="https://www.youtube.com/watch?v=8GlOelO5wN4">15-10</a></td> <!--aruni084-->
       <td>0-15</td> <!--Wumbo-->
       <td><a href="https://www.youtube.com/watch?v=dbaLugnvI_o">15-12</a></td> <!--Iljain-->
@@ -123,7 +123,7 @@ title: (S) League Matchups
       <td>-13</td>
     </tr>
     <tr>
-      <td>Doremy</td>
+      <td>Doremy (2)</td>
       <td><a href="https://www.youtube.com/watch?v=z7lDjx8Fq88">3-15</a></td> <!--aruni084-->
       <td> </td> <!--Wumbo-->
       <td><a href="https://www.twitch.tv/videos/306206040">15-9</a></td> <!--Iljain-->
@@ -134,7 +134,7 @@ title: (S) League Matchups
       <td>+1</td>
     </tr>
     <tr>
-      <td>OnePunMan</td>
+      <td>OnePunMan (5)</td>
       <td><a href="https://www.youtube.com/watch?v=LzIs7W7JdYg">5-15</a></td> <!--aruni084-->
       <td><a href="https://www.youtube.com/watch?v=0PKaTpgU1Bw">8-15</a></td> <!--Wumbo-->
       <td><a href="https://www.youtube.com/watch?v=FdJ__p1ySBs">15-7</a></td> <!--Iljain-->

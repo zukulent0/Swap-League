@@ -136,7 +136,7 @@ title: (C) League Matchups
       <td><a href="https://www.twitch.tv/videos/309402596">15-13</a></td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
-      <td><a href="https://www.twitch.tv/videos/309590257">1<a href="https://www.youtube.com/watch?v=fbYk35gYZ9I&t=27s"> Played</a> </td>0-15</a></td> <!--Dorothy-->
+      <td><a href="https://www.twitch.tv/videos/309590257"></td>0-15</a></td> <!--Dorothy-->
       <td>1-3</td>
       <td>-22</td>
     </tr>
