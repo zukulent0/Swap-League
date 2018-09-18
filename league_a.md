@@ -144,7 +144,7 @@ title: (A) League Matchups
       <td>+23</td>
     </tr>
     <tr>
-      <td>(8) popte</td>
+      <td>(9) popte</td>
       <td><a href="https://www.twitch.tv/videos/308143292">7-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -161,7 +161,7 @@ title: (A) League Matchups
       <td>-24</td>
     </tr>
     <tr>
-      <td>Yoshi100_AUS</td>
+      <td>(5) Yoshi100_AUS</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -212,7 +212,7 @@ title: (A) League Matchups
       <td>+16</td>
     </tr>
     <tr>
-      <td>soulmiracle1</td>
+      <td>(4) soulmiracle1</td>
       <td>12-15</td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/306191963">15-5</a></td> <!--popte-->
       <td></td> <!--Yoshi100_AUS-->
@@ -229,7 +229,7 @@ title: (A) League Matchups
       <td>+7</td>
     </tr>
     <tr>
-      <td>kress</td>
+      <td>(6) kress</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -246,7 +246,7 @@ title: (A) League Matchups
       <td>-1</td>
     </tr>
     <tr>
-      <td>Bronze V Tetris</td>
+      <td>(8) Bronze V Tetris</td>
       <td><a href="https://www.youtube.com/watch?v=Jpr3-wk974E">3-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>7-15</td> <!--Yoshi100_AUS-->
@@ -263,7 +263,7 @@ title: (A) League Matchups
       <td>-24</td>
     </tr>
     <tr>
-      <td>Gamster_Death</td>
+      <td>(10) Gamster_Death</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>6-15</td> <!--Yoshi100_AUS-->
@@ -280,7 +280,7 @@ title: (A) League Matchups
       <td>-43</td>
     </tr>
     <tr>
-      <td>baseballboy</td>
+      <td>(3) baseballboy</td>
       <td> </td> <!--z2sam-->
       <td>15-10</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -297,7 +297,7 @@ title: (A) League Matchups
       <td>+21</td>
     </tr>
     <tr>
-      <td>ZeroT</td>
+      <td>(7) ZeroT</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -314,7 +314,7 @@ title: (A) League Matchups
       <td>+2</td>
     </tr>
     <tr>
-      <td>Pokedialga</td>
+      <td><b>(1)</b> Pokedialga</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>15-8</td> <!--Yoshi100_AUS-->
