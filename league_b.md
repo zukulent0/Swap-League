@@ -120,7 +120,7 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Ting</td>
+      <td>(4) Ting</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/305341567?t=00h41m30s">8-15</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -137,7 +137,7 @@ title: (B) League Matchups
       <td>+11</td>
     </tr>
     <tr>
-      <td>Hua</td>
+      <td>(3) Hua</td>
       <td><a href="https://www.twitch.tv/videos/305372620">15-8</a></td> <!-- Ting -->
       <td></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -154,7 +154,7 @@ title: (B) League Matchups
       <td>+11</td>
     </tr>
     <tr>
-      <td>SiaMeS2E</td>
+      <td>(6) SiaMeS2E</td>
       <td>9-15</td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -171,7 +171,7 @@ title: (B) League Matchups
       <td>+2</td>
     </tr>
     <tr>
-      <td>RJ</td>
+      <td>(5) RJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -188,7 +188,7 @@ title: (B) League Matchups
       <td>+5</td>
     </tr>
     <tr>
-      <td>OkeyDokey</td>
+      <td>(9) OkeyDokey</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -205,7 +205,7 @@ title: (B) League Matchups
       <td>-7</td>
     </tr>
     <tr>
-      <td>ookamisuketoudara</td>
+      <td><b>(1)</b> ookamisuketoudara</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/307325252">15-12</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -222,7 +222,7 @@ title: (B) League Matchups
       <td>+23</td>
     </tr>
     <tr>
-      <td>garbo</td>
+      <td>(8) garbo</td>
       <td> </td> <!-- Ting -->
       <td><a href="google.com">8-15</a></td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -239,7 +239,7 @@ title: (B) League Matchups
       <td>-14</td>
     </tr>
     <tr>
-      <td>Dazer</td>
+      <td>(11) Dazer</td>
       <td><a href="https://www.twitch.tv/videos/309165469?t=00h14m40s">3-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -256,7 +256,7 @@ title: (B) League Matchups
       <td>-33</td>
     </tr>
     <tr>
-      <td>CooJ</td>
+      <td>(10) CooJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -273,7 +273,7 @@ title: (B) League Matchups
       <td>-13</td>
     </tr>
     <tr>
-      <td>Casey.GV</td>
+      <td>(2) Casey.GV</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
@@ -290,7 +290,7 @@ title: (B) League Matchups
       <td>+15</td>
     </tr>
     <tr>
-      <td>saltedbread</td>
+      <td>(7) saltedbread</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
