@@ -126,7 +126,7 @@ title: (C) League Matchups
       <td>+22</td>
     </tr>
     <tr>
-      <td>(9) Scottobozo</td>
+      <td>(8) Scottobozo</td>
       <td><a href="https://www.twitch.tv/videos/306768563">4-15</a></td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
@@ -141,19 +141,19 @@ title: (C) League Matchups
       <td>-22</td>
     </tr>
     <tr>
-      <td>(7) Shard Nguyễn</td>
+      <td>(9) Shard Nguyễn</td>
       <td> </td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td><a href="https://www.twitch.tv/videos/305371868">5-15</a></td> <!--acliv-->
       <td><a href="https://www.twitch.tv/videos/307724807">15-14</a></td> <!--dream-->
-      <td> </td> <!--Circu1ation-->
+      <td>1-15</td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td><a href="https://www.twitch.tv/videos/305367292">3-15</a></td> <!--WD-->
       <td> </td> <!--gray-->
       <td></td> <!--Dorothy-->
-      <td>1-2</td>
-      <td>-21</td>
+      <td>1-3</td>
+      <td>-35</td>
     </tr>
     <tr>
       <td>(5) acliv</td>
@@ -171,7 +171,7 @@ title: (C) League Matchups
       <td>-5</td>
     </tr>
     <tr>
-      <td>(8) dream</td>
+      <td>(7) dream</td>
       <td> </td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/307724807">14-15</a></td> <!--Shard Nguyễn-->
@@ -189,16 +189,16 @@ title: (C) League Matchups
       <td><b>(1)</b> Circu1ation</td>
       <td><a href="https://www.twitch.tv/videos/309918490">15-10</a></td> <!--lawren-->
       <td><a href="https://www.twitch.tv/videos/305719660">15-7</a></td> <!--Scottobozo-->
-      <td> </td> <!--Shard Nguyễn-->
+      <td>15-1</td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
       <td><a href="https://www.twitch.tv/videos/306156732">15-4</a></td> <!--dream-->
       <td> </td> <!--Circu1ation-->
-      <td> </td> <!--Shana-->
+      <td>15-5</td> <!--Shana-->
       <td> </td> <!--WD-->
       <td> </td> <!--gray-->
       <td><a href="https://www.twitch.tv/videos/309104898">15-4</a></td> <!--Dorothy-->
-      <td>4-0</td>
-      <td>+35</td>
+      <td>6-0</td>
+      <td>+59</td>
     </tr>
     <tr>
       <td>(10) Shana</td>
@@ -207,13 +207,13 @@ title: (C) League Matchups
       <td> </td> <!--Shard Nguyễn-->
       <td> </td> <!--acliv-->
       <td>6-15</td> <!--dream-->
-      <td> </td> <!--Circu1ation-->
+      <td>5-15</td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td><a href="https://www.twitch.tv/videos/305701553">10-15</a></td> <!--WD-->
       <td>10-15</td> <!--gray-->
       <td>5-15</td> <!--Dorothy-->
-      <td>0-5</td>
-      <td>-31</td>
+      <td>0-6</td>
+      <td>-36</td>
     </tr>
     <tr>
       <td>(3) WD</td>
