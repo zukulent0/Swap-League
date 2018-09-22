@@ -340,7 +340,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Blank vs 52_bloodeyes</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>EpicYoshi vs Haxel59</td>
