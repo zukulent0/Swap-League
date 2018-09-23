@@ -148,10 +148,10 @@ title: (B) League Matchups
       <td><a href="https://www.twitch.tv/videos/310334139">15-8</a></td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td> </td> <!--CooJ-->
-      <td> </td> <!--Casey.GV-->
+      <td><a href="https://www.twitch.tv/videos/312739578">15-6</a></td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>2-1</td>
-      <td>+11</td>
+      <td>3-1</td>
+      <td>+20</td>
     </tr>
     <tr>
       <td>(6) SiaMeS2E</td>
@@ -198,11 +198,11 @@ title: (B) League Matchups
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td> </td> <!--Dazer-->
-      <td> </td> <!--CooJ-->
+      <td>13-15</td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/308478539">13-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/308071728">11-15</a></td> <!--saltedbread-->
-      <td>1-3</td>
-      <td>-7</td>
+      <td>1-4</td>
+      <td>-9</td>
     </tr>
     <tr>
       <td><b>(1)</b> ookamisuketoudara</td>
@@ -262,20 +262,20 @@ title: (B) League Matchups
       <td>X</td> <!--MyNameOG-->
       <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s">8-15</a></td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/310653292?t=3206s">8-15</a></td> <!--RJ-->
-      <td> </td> <!--OkeyDokey-->
+      <td>15-13</td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/305279696?t=01h19m56s">15-13</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/309356942">14-15</a></td> <!--saltedbread-->
-      <td>1-3</td>
-      <td>-13</td>
+      <td>2-3</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>(2) Casey.GV</td>
       <td> </td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>6-15</td> <!--Hua-->
       <td>X</td> <!--MyNameOG-->
       <td> </td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/305636565">15-13</a></td> <!--RJ-->
@@ -286,8 +286,8 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>3-0</td>
-      <td>+15</td>
+      <td>3-1</td>
+      <td>+9</td>
     </tr>
     <tr>
       <td>(7) saltedbread</td>

@@ -95,7 +95,7 @@ title: (S) League Matchups
       <td> </td> <!--Wumbo-->
       <td><a href="https://www.youtube.com/watch?v=HtIIanuMH2M">15-5</a></td> <!--Iljain-->
       <td><a href="https://www.youtube.com/watch?v=FE_h4XKuET8">15-0</a></td> <!--JPN Hiroki-->
-      <td>15-3</td> <!--Doremy-->
+      <td><a href="https://youtu.be/CtYvv8lD_rE">15-3</a></td> <!--Doremy-->
       <td><a href="https://www.youtube.com/watch?v=1Y2pgxU9J_o">15-8</a></td> <!--OnePunMan-->
       <td>5-0</td>
       <td>+54</td>
@@ -118,8 +118,8 @@ title: (S) League Matchups
       <td><a href="https://www.youtube.com/watch?v=dbaLugnvI_o">15-12</a></td> <!--Iljain-->
       <td> </td> <!--JPN Hiroki-->
       <td><a href="https://www.youtube.com/watch?v=KD-vkt7uQIE">9-15</a></td> <!--Doremy-->
-      <td> </td> <!--OnePunMan-->
-      <td>2-2</td>
+      <td><a href="https://youtu.be/9u4ME1_KivQ">15-8</a></td> <!--OnePunMan-->
+      <td>3-2</td>
       <td>-13</td>
     </tr>
     <tr>
@@ -138,11 +138,11 @@ title: (S) League Matchups
       <td><a href="https://www.youtube.com/watch?v=LzIs7W7JdYg">5-15</a></td> <!--aruni084-->
       <td><a href="https://www.youtube.com/watch?v=0PKaTpgU1Bw">8-15</a></td> <!--Wumbo-->
       <td><a href="https://www.youtube.com/watch?v=FdJ__p1ySBs">15-7</a></td> <!--Iljain-->
-      <td> </td> <!--JPN Hiroki-->
+      <td>8-15</td> <!--JPN Hiroki-->
       <td><a href="https://www.youtube.com/watch?v=W0ncq8kvqMw">14-15</a></td> <!--Doremy-->
       <td> </td> <!--OnePunMan-->
-      <td>1-3</td>
-      <td>-10</td>
+      <td>1-4</td>
+      <td>-17</td>
     </tr>
   </tbody>
 </table>
