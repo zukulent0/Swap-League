@@ -127,7 +127,7 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(2) z2sam</td>
+      <td>(4) z2sam</td>
       <td> </td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=v-xeYvML-0g">15-7</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -144,7 +144,7 @@ title: (A) League Matchups
       <td>+6</td>
     </tr>
     <tr>
-      <td>(9) popte</td>
+      <td>(10) popte</td>
       <td><a href="https://www.twitch.tv/videos/308143292">7-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td><a href="https://www.twitch.tv/videos/313271803">10-15</a></td> <!--Yoshi100_AUS-->
@@ -161,7 +161,7 @@ title: (A) League Matchups
       <td>-30</td>
     </tr>
     <tr>
-      <td>(5) Yoshi100_AUS</td>
+      <td>(3) Yoshi100_AUS</td>
       <td> </td> <!--z2sam-->
       <td>15-10</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -212,7 +212,7 @@ title: (A) League Matchups
       <td>+16</td>
     </tr>
     <tr>
-      <td>(4) soulmiracle1</td>
+      <td>(5) soulmiracle1</td>
       <td><a href="https://www.youtube.com/watch?v=ckSVXPdhTCY">12-15</a></td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/306191963">15-5</a></td> <!--popte-->
       <td></td> <!--Yoshi100_AUS-->
@@ -229,7 +229,7 @@ title: (A) League Matchups
       <td>+1</td>
     </tr>
     <tr>
-      <td>(7) kress</td>
+      <td>(6) kress</td>
       <td> </td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=UMryibu32WU">15-14</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -263,7 +263,7 @@ title: (A) League Matchups
       <td>-30</td>
     </tr>
     <tr>
-      <td>(10) Gamster_Death</td>
+      <td>(9) Gamster_Death</td>
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>6-15</td> <!--Yoshi100_AUS-->
@@ -280,7 +280,7 @@ title: (A) League Matchups
       <td>-52</td>
     </tr>
     <tr>
-      <td>(3) baseballboy</td>
+      <td><b>(1)</b> baseballboy</td>
       <td><a href="https://www.youtube.com/watch?v=e7RRcxpPOiM">15-9</a></td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=Ml2VuRTlUDk">15-10</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -297,7 +297,7 @@ title: (A) League Matchups
       <td>+39</td>
     </tr>
     <tr>
-      <td>(6) ZeroT</td>
+      <td>(7) ZeroT</td>
       <td> </td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/309804687">15-14</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -314,7 +314,7 @@ title: (A) League Matchups
       <td>-2</td>
     </tr>
     <tr>
-      <td><b>(1)</b> Pokedialga</td>
+      <td>(2) Pokedialga</td>
       <td><a href="https://www.twitch.tv/videos/314259725">15-4</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td><a href="https://www.twitch.tv/videos/310888205">15-8</a></td> <!--Yoshi100_AUS-->
