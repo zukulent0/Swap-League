@@ -259,7 +259,7 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/313533499">15-11</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/309356942">14-15</a></td> <!--saltedbread-->
-      <td>3-2/td>
+      <td>3-2</td>
       <td>+0</td>
     </tr>
     <tr>
