@@ -535,3 +535,64 @@ title: (E) League Matchups
   </tbody>
 </table>
 
+## (E) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shizu vs Oblivion</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hanna vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>player vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs Lozofan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs Allete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shizu vs SimpleFlips</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oblivion vs player</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hanna vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lozofan vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs Allete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs 124san</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
