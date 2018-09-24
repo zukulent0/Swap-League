@@ -129,7 +129,7 @@ title: (D) League Matchups
       <td>(8) Meiling</td>
       <td><a href="https://www.twitch.tv/videos/306033418">3-15</a></td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
-      <td> </td> <!--Nick-->
+      <td><a href="http://www.nicovideo.jp/watch/sm33891256">12-15</a></td> <!--Nick-->
       <td>7-15</td> <!--Donorgyll-->
       <td> </td> <!--wait_what-->
       <td><a href="https://www.twitch.tv/videos/306611987">7-15</a></td> <!--Helomair-->
@@ -137,23 +137,23 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td><a href="https://www.twitch.tv/videos/308835458">15-14</a></td> <!--onizuka777-->
-      <td>1-4</td>
-      <td>-33</td>
+      <td>1-5</td>
+      <td>-36</td>
     </tr>
     <tr>
       <td>(6) Nick</td>
       <td> </td> <!--Blaarg-->
-      <td> </td> <!--Meiling-->
+      <td><a href="http://www.nicovideo.jp/watch/sm33891256">15-12</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
       <td><a href="https://www.twitch.tv/videos/307464851">15-13</a></td> <!--Donorgyll-->
       <td> </td> <!--wait_what-->
-      <td> </td> <!--Helomair-->
+      <td>15-3</td> <!--Helomair-->
       <td> </td> <!--t-block-->
       <td>15-1</td> <!--Jonas Neubauer-->
       <td>4-15</td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>2-1</td>
-      <td>+5</td>
+      <td>4-1</td>
+      <td>+20</td>
     </tr>
     <tr>
       <td><b>(1)</b> Donorgyll</td>
@@ -161,14 +161,14 @@ title: (D) League Matchups
       <td>15-7</td> <!--Meiling-->
       <td><a href="https://www.twitch.tv/videos/307464851">13-15</a></td> <!--Nick-->
       <td></td> <!--Donorgyll-->
-      <td> </td> <!--wait_what-->
+      <td>15-13</td> <!--wait_what-->
       <td> </td> <!--Helomair-->
       <td> </td> <!--t-block-->
       <td>15-1</td> <!--Jonas Neubauer-->
       <td><a href="https://www.twitch.tv/videos/309001046">15-10</a></td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>4-1</td>
-      <td>+35</td>
+      <td>5-1</td>
+      <td>+32</td>
     </tr>
     <tr>
       <td>(9) wait_what</td>
@@ -189,7 +189,7 @@ title: (D) League Matchups
       <td>(3) Helomair</td>
       <td>12-15</td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/306611987">15-7</a></td> <!--Meiling-->
-      <td> </td> <!--Nick-->
+      <td>3-15</td> <!--Nick-->
       <td> </td> <!--Donorgyll-->
       <td><a href="https://www.twitch.tv/videos/306611987">15-9</a></td> <!--wait_what-->
       <td> </td> <!--Helomair-->
@@ -197,8 +197,8 @@ title: (D) League Matchups
       <td> </td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td>15-13</td> <!--onizuka777-->
-      <td>3-1</td>
-      <td>+13</td>
+      <td>3-2</td>
+      <td>+1</td>
     </tr>
     <tr>
       <td>(5) t-block</td>
@@ -225,10 +225,10 @@ title: (D) League Matchups
       <td> </td> <!--Helomair-->
       <td><a href="https://www.twitch.tv/videos/308233868">2-15</a></td> <!--t-block-->
       <td> </td> <!--Jonas Neubauer-->
-      <td> </td> <!--MSon-->
+      <td>3-15</td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>0-4</td>
-      <td>-55</td>
+      <td>0-5</td>
+      <td>-67</td>
     </tr>
     <tr>
       <td>(4) MSon</td>
@@ -239,11 +239,11 @@ title: (D) League Matchups
       <td> </td> <!--wait_what-->
       <td> </td> <!--Helomair-->
       <td><a href="https://www.twitch.tv/videos/307368644">15-9</a></td> <!--t-block-->
-      <td> </td> <!--Jonas Neubauer-->
+      <td>15-3</td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td>15-11</td> <!--onizuka777-->
-      <td>3-2</td>
-      <td>+10</td>
+      <td>4-2</td>
+      <td>+22</td>
     </tr>
     <tr>
       <td>(7) onizuka777</td>

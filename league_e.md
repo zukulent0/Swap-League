@@ -166,7 +166,7 @@ title: (E) League Matchups
       <td> </td> <!--Allete-->
       <td> </td> <!--Lozofan-->
       <td>15-4</td> <!--124san-->
-      <td> </td> <!--Fyzzl-->
+      <td>12-15</td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td>12-15</td> <!--amie-->
@@ -174,8 +174,8 @@ title: (E) League Matchups
       <td>X</td> <!--elijah-->
       <td> </td> <!--Oblivion-->
       <td>10-15</td> <!--Hanna-->
-      <td>2-2</td>
-      <td>+6</td>
+      <td>2-3</td>
+      <td>+3</td>
     </tr>
     <tr>
       <td>(9) 124san</td>
@@ -198,7 +198,7 @@ title: (E) League Matchups
       <td>(10) Fyzzl</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
-      <td> </td> <!--Lozofan-->
+      <td>15-12</td> <!--Lozofan-->
       <td> </td> <!--124san-->
       <td> </td> <!--Fyzzl-->
       <td>7-15</td> <!--Luminsen-->
@@ -208,8 +208,8 @@ title: (E) League Matchups
       <td><del>15-4</del></td> <!--elijah-->
       <td>14-15</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td>0-3</td>
-      <td>-15</td>
+      <td>1-3</td>
+      <td>-12</td>
     </tr>
     <tr>
       <td>(4) Luminsen</td>
@@ -223,10 +223,10 @@ title: (E) League Matchups
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
-      <td> </td> <!--Oblivion-->
+      <td>15-9</td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td>2-1</td>
-      <td>+4</td>
+      <td>3-1</td>
+      <td>+10</td>
     </tr>
     <tr>
       <td>(2) player</td>
@@ -303,15 +303,15 @@ title: (E) League Matchups
       <td> </td> <!--Lozofan-->
       <td> </td> <!--124san-->
       <td>15-14</td> <!--Fyzzl-->
-      <td> </td> <!--Luminsen-->
+      <td>9-15</td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td> </td> <!--amie-->
       <td>2-15</td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
       <td></td> <!--Oblivion-->
       <td>4-15</td> <!--Hanna-->
-      <td>2-2</td>
-      <td>-15</td>
+      <td>2-3</td>
+      <td>-21</td>
     </tr>
     <tr>
       <td>(3) Hanna</td>

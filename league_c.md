@@ -120,10 +120,10 @@ title: (C) League Matchups
       <td><a href="https://www.twitch.tv/videos/309918490">10-15</a></td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td><a href="https://www.twitch.tv/videos/309560431?collection=z2cU1PDoUBUfYQ">15-12</a></td> <!--WD-->
-      <td> </td> <!--gray-->
+      <td>15-4</td> <!--gray-->
       <td>15-7</td> <!--Dorothy-->
-      <td>4-1</td>
-      <td>+22</td>
+      <td>5-1</td>
+      <td>+33</td>
     </tr>
     <tr>
       <td>(8) Scottobozo</td>
@@ -179,11 +179,11 @@ title: (C) League Matchups
       <td> </td> <!--dream-->
       <td><a href="https://www.twitch.tv/videos/306156732">4-15</a></td> <!--Circu1ation-->
       <td>15-6</td> <!--Shana-->
-      <td> </td> <!--WD-->
+      <td>3-15</td> <!--WD-->
       <td> </td> <!--gray-->
       <td><a href="https://www.twitch.tv/videos/306056594">10-15</a></td> <!--Dorothy-->
-      <td>1-3</td>
-      <td>-8</td>
+      <td>1-4</td>
+      <td>-20</td>
     </tr>
     <tr>
       <td><b>(1)</b> Circu1ation</td>
@@ -221,29 +221,29 @@ title: (C) League Matchups
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/305367292">15-3</a></td> <!--Shard Nguyễn-->
       <td>15-4</td> <!--acliv-->
-      <td> </td> <!--dream-->
+      <td>15-3</td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td><a href="https://www.twitch.tv/videos/305701553">15-10</a></td> <!--Shana-->
       <td> </td> <!--WD-->
-      <td> </td> <!--gray-->
+      <td>15-9</td> <!--gray-->
       <td> </td> <!--Dorothy-->
-      <td>3-1</td>
-      <td>+25</td>
+      <td>5-1</td>
+      <td>+43</td>
     </tr>
     <tr>
       <td>(6) gray</td>
-      <td> </td> <!--lawren-->
+      <td>4-15</td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
       <td><a href="https://www.twitch.tv/videos/309143526?t=00h01m47s">14-15</a></td> <!--acliv-->
       <td> </td> <!--dream-->
       <td> </td> <!--Circu1ation-->
       <td>15-10</td> <!--Shana-->
-      <td> </td> <!--WD-->
+      <td>9-15</td> <!--WD-->
       <td> </td> <!--gray-->
       <td><a href="https://www.twitch.tv/videos/306168592">8-15</a></td> <!--Dorothy-->
-      <td>1-2</td>
-      <td>-3</td>
+      <td>1-4</td>
+      <td>-20</td>
     </tr>
     <tr>
       <td>(4) Dorothy</td>
