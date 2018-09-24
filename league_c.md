@@ -129,8 +129,8 @@ title: (C) League Matchups
       <td>(8) Scottobozo</td>
       <td><a href="https://www.twitch.tv/videos/306768563">4-15</a></td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
-      <td><a href="https://www.twitch.tv/videos/313154804">15-6</td> <!--Shard Nguyễn-->
-      <td><a href="https://www.twitch.tv/videos/313154804">8-15</td> <!--acliv-->
+      <td><a href="https://www.twitch.tv/videos/313154804">15-6</a></td> <!--Shard Nguyễn-->
+      <td><a href="https://www.twitch.tv/videos/313154804">8-15</a></td> <!--acliv-->
       <td> </td> <!--dream-->
       <td><a href="https://www.twitch.tv/videos/305719660">7-15</a></td> <!--Circu1ation-->
       <td><a href="https://www.twitch.tv/videos/309402596">15-13</a></td> <!--Shana-->
