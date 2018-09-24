@@ -112,7 +112,6 @@ title: (A) League Matchups
       <th>z2sam</th>
       <th>popte</th>
       <th>Yoshi100_AUS</th>
-      <th>Jason0107</th>
       <th>yida9900</th>
       <th>soulmiracle1</th>
       <th>kress</th>
@@ -131,7 +130,6 @@ title: (A) League Matchups
       <td> </td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=v-xeYvML-0g">15-7</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td><a href="https://www.youtube.com/watch?v=ckSVXPdhTCY">15-12</a></td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
@@ -148,7 +146,6 @@ title: (A) League Matchups
       <td><a href="https://www.twitch.tv/videos/308143292">7-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td><a href="https://www.twitch.tv/videos/313271803">10-15</a></td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td><a href="https://www.twitch.tv/videos/306191963">5-15</a></td> <!--soulmiracle1-->
       <td><a href="https://www.twitch.tv/videos/313290114">14-15</a></td> <!--kress-->
@@ -165,7 +162,6 @@ title: (A) League Matchups
       <td> </td> <!--z2sam-->
       <td>15-10</td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
@@ -178,36 +174,18 @@ title: (A) League Matchups
       <td>+15</td>
     </tr>
     <tr>
-      <td>Jason0107</td>
-      <td> </td> <!--z2sam-->
-      <td> </td> <!--popte-->
-      <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
-      <td> </td> <!--yida9900-->
-      <td> </td> <!--soulmiracle1-->
-      <td> </td> <!--kress-->
-      <td> </td> <!--Bronze V Tetris-->
-      <td> </td> <!--Gamster_Death-->
-      <td> </td> <!--baseballboy-->
-      <td> </td> <!--ZeroT-->
-      <td> </td> <!--Pokedialga-->
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
       <td>yida9900</td>
-      <td> </td> <!--z2sam-->
-      <td> </td> <!--popte-->
-      <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
+      <td>X</td> <!--z2sam-->
+      <td>X</td> <!--popte-->
+      <td>X</td> <!--Yoshi100_AUS-->
       <td>X</td> <!--yida9900-->
       <td>15-5</td> <!--soulmiracle1-->
       <td>15-8</td> <!--kress-->
-      <td> </td> <!--Bronze V Tetris-->
-      <td> </td> <!--Gamster_Death-->
+      <td>X</td> <!--Bronze V Tetris-->
+      <td>X</td> <!--Gamster_Death-->
       <td><a href="https://www.twitch.tv/videos/306720427">14-15</a></td> <!--baseballboy-->
-      <td> </td> <!--ZeroT-->
-      <td> </td> <!--Pokedialga-->
+      <td>X</td> <!--ZeroT-->
+      <td>X</td> <!--Pokedialga-->
       <td>2-1</td>
       <td>+16</td>
     </tr>
@@ -216,7 +194,6 @@ title: (A) League Matchups
       <td><a href="https://www.youtube.com/watch?v=ckSVXPdhTCY">12-15</a></td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/306191963">15-5</a></td> <!--popte-->
       <td></td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td><del>5-15</del></td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td><a href="https://www.youtube.com/watch?v=C_jDpguWv1A">15-14</a></td> <!--kress-->
@@ -233,7 +210,6 @@ title: (A) League Matchups
       <td> </td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=UMryibu32WU">15-14</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td><del>8-15</del></td> <!--yida9900-->
       <td><a href="https://www.youtube.com/watch?v=C_jDpguWv1A">14-15</a></td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
@@ -250,7 +226,6 @@ title: (A) League Matchups
       <td><a href="https://www.youtube.com/watch?v=Jpr3-wk974E">3-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>7-15</td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td>11-15</td> <!--kress-->
@@ -267,7 +242,6 @@ title: (A) League Matchups
       <td> </td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>6-15</td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td><a href="https://www.twitch.tv/videos/310644199">5-15</a></td> <!--kress-->
@@ -284,7 +258,6 @@ title: (A) League Matchups
       <td><a href="https://www.youtube.com/watch?v=e7RRcxpPOiM">15-9</a></td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=Ml2VuRTlUDk">15-10</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td><a href="https://www.twitch.tv/videos/306720427"><del>15-14</del></a></td> <!--yida9900-->
       <td><a href="https://www.youtube.com/watch?v=42Lc7Sex-n8">15-6</a></td> <!--soulmiracle1-->
       <td><a href="https://www.youtube.com/watch?v=cEoHj3tHfx8">15-11</a></td> <!--kress-->
@@ -301,7 +274,6 @@ title: (A) League Matchups
       <td> </td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/309804687">15-14</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td><a href="https://www.twitch.tv/videos/308357458"><del>7-15</del></a></td> <!--yida9900-->
       <td><a href="https://www.twitch.tv/videos/313178404">13-15</a></td> <!--soulmiracle1-->
       <td> </td> <!--kress-->
@@ -318,7 +290,6 @@ title: (A) League Matchups
       <td><a href="https://www.twitch.tv/videos/314259725">15-4</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td><a href="https://www.twitch.tv/videos/310888205">15-8</a></td> <!--Yoshi100_AUS-->
-      <td>X</td> <!--Jason0107-->
       <td>X</td> <!--yida9900-->
       <td> </td> <!--soulmiracle1-->
       <td>15-4</td> <!--kress-->
@@ -338,6 +309,21 @@ title: (A) League Matchups
       <td>X</td> <!--popte-->
       <td>X</td> <!--Yoshi100_AUS-->
       <td>X</td> <!--Jason0107-->
+      <td>X</td> <!--soulmiracle1-->
+      <td>X</td> <!--kress-->
+      <td>X</td> <!--Bronze V Tetris-->
+      <td>X</td> <!--Gamster_Death-->
+      <td>X</td> <!--baseballboy-->
+      <td>X</td> <!--ZeroT-->
+      <td>X</td> <!--Pokedialga-->
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>Jason0107</td>
+      <td>X</td> <!--z2sam-->
+      <td>X</td> <!--popte-->
+      <td>X</td> <!--Yoshi100_AUS-->
       <td>X</td> <!--yida9900-->
       <td>X</td> <!--soulmiracle1-->
       <td>X</td> <!--kress-->
