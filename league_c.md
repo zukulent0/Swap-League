@@ -111,7 +111,7 @@ title: (C) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(2) lawren</td>
+      <td>(3) lawren</td>
       <td> </td> <!--lawren-->
       <td><a href="https://www.twitch.tv/videos/306768563">15-4</a></td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
@@ -126,7 +126,7 @@ title: (C) League Matchups
       <td>+33</td>
     </tr>
     <tr>
-      <td>(8) Scottobozo</td>
+      <td>(7) Scottobozo</td>
       <td><a href="https://www.twitch.tv/videos/306768563">4-15</a></td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/313154804">15-6</a></td> <!--Shard Nguyễn-->
@@ -156,7 +156,7 @@ title: (C) League Matchups
       <td>-51</td>
     </tr>
     <tr>
-      <td>(5) acliv</td>
+      <td>(4) acliv</td>
       <td><a href="https://www.twitch.tv/videos/306581794">10-15</a></td> <!--lawren-->
       <td><a href="https://www.twitch.tv/videos/313154804">15-8</a></td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/305371868">15-5</a></td> <!--Shard Nguyễn-->
@@ -171,7 +171,7 @@ title: (C) League Matchups
       <td>+3</td>
     </tr>
     <tr>
-      <td>(7) dream</td>
+      <td>(8) dream</td>
       <td> </td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/307724807">14-15</a></td> <!--Shard Nguyễn-->
@@ -216,7 +216,7 @@ title: (C) League Matchups
       <td>-36</td>
     </tr>
     <tr>
-      <td>(3) WD</td>
+      <td>(2) WD</td>
       <td><a href="https://www.twitch.tv/videos/309560431?collection=z2cU1PDoUBUfYQ">12-15</a></td> <!--lawren-->
       <td> </td> <!--Scottobozo-->
       <td><a href="https://www.twitch.tv/videos/305367292">15-3</a></td> <!--Shard Nguyễn-->
@@ -246,7 +246,7 @@ title: (C) League Matchups
       <td>-13</td>
     </tr>
     <tr>
-      <td>(4) Dorothy</td>
+      <td>(5) Dorothy</td>
       <td><a href="https://www.twitch.tv/videos/311284460">7-15</a></td> <!--lawren-->
       <td><a href="https://www.twitch.tv/videos/309590257">15-10</a></td> <!--Scottobozo-->
       <td> </td> <!--Shard Nguyễn-->
