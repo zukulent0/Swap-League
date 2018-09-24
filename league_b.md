@@ -527,3 +527,64 @@ title: (B) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (B) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casey.GV vs Dazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CooJ vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OkeyDokey vs Ting</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>saltedbread vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RJ vs garbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Casey.GV vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dazer vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs saltedbread</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OkeyDokey vs garbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CooJ vs Ting</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RJ vs BYE</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
