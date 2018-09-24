@@ -174,9 +174,9 @@ title: (D) League Matchups
       <td>(9) wait_what</td>
       <td> </td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
-      <td> </td> <!--Nick-->
+      <td>15-12</td> <!--Nick-->
       <td>13-15</td> <!--Donorgyll-->
-      <td>15-12</td> <!--wait_what-->
+      <td></td> <!--wait_what-->
       <td><a href="https://www.twitch.tv/videos/306611987">9-15</a></td> <!--Helomair-->
       <td>12-15</td> <!--t-block-->
       <td> </td> <!--Jonas Neubauer-->
