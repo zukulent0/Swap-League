@@ -422,3 +422,56 @@ title: (D) League Matchups
   </tbody>
 </table>
 
+## (D) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaarg vs t-block</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>wait_what vs MSon</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Nick vs onizuka777</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Meiling vs Jonas Neubauer</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Helomair vs Donorgyll</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Blaarg vs wait_what</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>t-block vs Nick</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>MSon vs Meiling</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>onizuka777 vs Donorgyll</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Jonas Neubauer vs Helomair</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
