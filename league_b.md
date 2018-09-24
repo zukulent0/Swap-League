@@ -135,7 +135,7 @@ title: (B) League Matchups
       <td>+20</td>
     </tr>
     <tr>
-      <td>(4) Hua</td>
+      <td>(2) Hua</td>
       <td><a href="https://www.twitch.tv/videos/305372620">15-8</a></td> <!-- Ting -->
       <td></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -167,7 +167,7 @@ title: (B) League Matchups
       <td><del>+2</del></td>
     </tr>
     <tr>
-      <td>(5) RJ</td>
+      <td>(7) RJ</td>
       <td><a href="https://www.twitch.tv/videos/313288957">12-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -215,7 +215,7 @@ title: (B) League Matchups
       <td>+30</td>
     </tr>
     <tr>
-      <td>(8) garbo</td>
+      <td>(6) garbo</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/310321761">8-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -231,7 +231,7 @@ title: (B) League Matchups
       <td>-7</td>
     </tr>
     <tr>
-      <td>(11) Dazer</td>
+      <td>(10) Dazer</td>
       <td><a href="https://www.twitch.tv/videos/309165469?t=00h14m40s">3-15</a></td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/313399072">1-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -247,7 +247,7 @@ title: (B) League Matchups
       <td>-47</td>
     </tr>
     <tr>
-      <td>(10) CooJ</td>
+      <td>(5) CooJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s"><del>8-15</del></a></td> <!--SiaMeS2E-->
@@ -263,7 +263,7 @@ title: (B) League Matchups
       <td>+0</td>
     </tr>
     <tr>
-      <td>(2) Casey.GV</td>
+      <td>(4) Casey.GV</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/312739578">6-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -279,7 +279,7 @@ title: (B) League Matchups
       <td>+5</td>
     </tr>
     <tr>
-      <td>(7) saltedbread</td>
+      <td>(8) saltedbread</td>
       <td><a href="https://www.twitch.tv/videos/312044748">3-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
