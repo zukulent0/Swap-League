@@ -535,4 +535,64 @@ title: (A) League Matchups
   </tbody>
 </table>
 
+## (A) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>z2sam vs ZeroT</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gamster_death vs Pokedialga</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Bronze V Tetris vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>soulmiracle1 vs Yoshi100_AUS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>popte vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>soulmiracle1 vs baseballboy</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>z2sam vs gamster_death</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>kress vs ZeroT</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Pokedialga vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>baseballboy vs Yoshi100_AUS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bronze V Tetris vs popte</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>soulmiracle vs BYE</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
