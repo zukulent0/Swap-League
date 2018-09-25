@@ -354,7 +354,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Jason0107</td>
-      <td> </td>
+      <td>X</td>
     </tr>
     <tr>
       <td>yida9900 vs soulmiracle1</td>
@@ -370,11 +370,11 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>ZeroT vs Pokedialga</td>
-      <td> </td>
+      <td>9/10 10:30AM</td>
     </tr>
     <tr>
       <td>z2sam vs Jason0107</td>
-      <td> </td>
+      <td>X</td>
     </tr>
     <tr>
       <td>popte vs soulmiracle1</td>
@@ -411,51 +411,51 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>z2sam vs soulmiracle1</td>
-      <td></td>
+      <td>9/12 10:00AM</td>
     </tr>
     <tr>
       <td>Bronze V Tetris vs BYE</td>
-      <td> </td>
+      <td>X</td>
     </tr>
     <tr>
       <td>popte vs baseballboy</td>
-      <td></td>
+      <td>9/15 8:00PM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs Pokedialga</td>
-      <td></td>
+      <td>9/16 8:00PM</td>
     </tr>
     <tr>
       <td>yida9900 vs ZeroT</td>
-      <td></td>
+      <td>9/10 12:00PM</td>
     </tr>
     <tr>
       <td>kress vs gamster_death</td>
-      <td> </td>
+      <td>9/15 8:00PM</td>
     </tr>
     <tr>
       <td>z2sam vs Bronze V Tetris</td>
-      <td> </td>
+      <td>9/12 11:30AM</td>
     </tr>
     <tr>
       <td>soulmiracle1 vs baseballboy</td>
-      <td></td>
+      <td>9/21 1:00PM</td>
     </tr>
     <tr>
       <td>Pokedialga vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>popte vs ZeroT</td>
-      <td></td>
+      <td>9/13 10:00PM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs gamster_death</td>
-      <td></td>
+      <td>9/14 10:30PM</td>
     </tr>
     <tr>
       <td>yida9900 vs kress</td>
-      <td></td>
+      <td>9/12 9:00AM</td>
     </tr>
   </tbody>
 </table>
@@ -472,51 +472,51 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>z2sam vs baseballboy</td>
-      <td></td>
+      <td>9/21 12:00PM</td>
     </tr>
     <tr>
       <td>Bronze V Tetris vs Pokedialga</td>
-      <td> </td>
+      <td>9/22 12:30PM</td>
     </tr>
     <tr>
       <td>soulmiracle1 vs ZeroT</td>
-      <td></td>
+      <td>9/22 12:30AM</td>
     </tr>
     <tr>
       <td>gamster_death vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>popte vs kress</td>
-      <td></td>
+      <td>9/22 12:00PM</td>
     </tr>
     <tr>
       <td>Yoshi100_AUS vs yida9900</td>
-      <td> </td>
+      <td>X</td>
     </tr>
     <tr>
       <td>z2sam vs Pokedialga</td>
-      <td> </td>
+      <td>9/24 10:30AM</td>
     </tr>
     <tr>
       <td>baseballboy vs ZeroT</td>
-      <td></td>
+      <td>9/22 5:30PM</td>
     </tr>
     <tr>
       <td>Bronze V Tetris vs gamster_death</td>
-      <td></td>
+      <td>9/20 2:00AM</td>
     </tr>
     <tr>
       <td>soulmiracle1 vs kress</td>
-      <td></td>
+      <td>9/21 10:00AM</td>
     </tr>
     <tr>
       <td>yida9900 vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>popte vs Yoshi100_AUS</td>
-      <td></td>
+      <td>9/22 9:00AM</td>
     </tr>
   </tbody>
 </table>
@@ -541,7 +541,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Bronze V Tetris vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>soulmiracle1 vs Yoshi100_AUS</td>
@@ -549,7 +549,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>popte vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>soulmiracle1 vs baseballboy</td>
@@ -557,7 +557,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>z2sam vs gamster_death</td>
-      <td> </td>
+      <td>9/26 7:00PM</td>
     </tr>
     <tr>
       <td>kress vs ZeroT</td>
@@ -565,11 +565,11 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>Pokedialga vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>baseballboy vs Yoshi100_AUS</td>
-      <td></td>
+      <td>9/26 10:00AM</td>
     </tr>
     <tr>
       <td>Bronze V Tetris vs popte</td>
@@ -577,7 +577,7 @@ title: (A) League Matchups
     </tr>
     <tr>
       <td>soulmiracle vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
   </tbody>
 </table>

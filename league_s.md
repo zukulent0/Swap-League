@@ -196,27 +196,27 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>aruni084 vs OnePunMan</td>
-      <td></td>
+      <td>9/12 8:00PM</td>
     </tr>
     <tr>
       <td>JPN Hiroki vs Doremy</td>
-      <td></td>
+      <td>9/10 11:00AM</td>
     </tr>
     <tr>
       <td>Wumbo vs Ijain</td>
-      <td></td>
+      <td>9/15 10:30AM</td>
     </tr>
     <tr>
       <td>aruni084 vs Doremy</td>
-      <td></td>
+      <td>9/10 11:30AM</td>
     </tr>
     <tr>
       <td>OnePunMan vs Iljain</td>
-      <td></td>
+      <td>9/12 10:30PM</td>
     </tr>
     <tr>
       <td>JPN Hiroki vs Wumbo</td>
-      <td></td>
+      <td>9/15 11:00AM</td>
     </tr>
   </tbody>
 </table>
@@ -233,27 +233,27 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>aruni084 vs Iljain</td>
-      <td></td>
+      <td>9/19 10:30AM</td>
     </tr>
     <tr>
       <td>Doremy vs Wumbo</td>
-      <td></td>
+      <td>9/19 5:30PM</td>
     </tr>
     <tr>
       <td>OnePunMan vs JPN Hiroki</td>
-      <td></td>
+      <td>9/21 10:00AM</td>
     </tr>
     <tr>
       <td>aruni084 vs JPN Hiroki</td>
-      <td></td>
+      <td>9/22 6:00PM</td>
     </tr>
     <tr>
       <td>Wumbo vs OnePunMan</td>
-      <td></td>
+      <td>9/22 8:00PM</td>
     </tr>
     <tr>
       <td>Iljain vs Doremy</td>
-      <td></td>
+      <td>9/19 10:00AM</td>
     </tr>
   </tbody>
 </table>
@@ -274,7 +274,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>Doremy vs JPN Hiroki</td>
-      <td></td>
+      <td>9/25 8:00AM</td>
     </tr>
     <tr>
       <td>Wumbo vs Iljain</td>
@@ -282,7 +282,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>aruni084 vs Doremy</td>
-      <td></td>
+      <td>9/25 9:00AM</td>
     </tr>
     <tr>
       <td>Iljain vs OnePunMan</td>
@@ -290,7 +290,7 @@ title: (S) League Matchups
     </tr>
     <tr>
       <td>JPN Hiroki vs Wumbo</td>
-      <td></td>
+      <td>9/29 10:00AM</td>
     </tr>
   </tbody>
 </table>
