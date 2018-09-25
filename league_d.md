@@ -141,7 +141,7 @@ title: (D) League Matchups
       <td>-36</td>
     </tr>
     <tr>
-      <td>(6) Nick</td>
+      <td>(4) Nick</td>
       <td> </td> <!--Blaarg-->
       <td><a href="http://www.nicovideo.jp/watch/sm33891256">15-12</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
@@ -186,7 +186,7 @@ title: (D) League Matchups
       <td>-12</td>
     </tr>
     <tr>
-      <td>(3) Helomair</td>
+      <td>(5) Helomair</td>
       <td><a href="https://www.twitch.tv/videos/309806479">12-15</a></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/306611987">15-7</a></td> <!--Meiling-->
       <td><a href="https://www.twitch.tv/videos/312851255?t=00h24m11s">3-15</a></td> <!--Nick-->
@@ -231,7 +231,7 @@ title: (D) League Matchups
       <td>-67</td>
     </tr>
     <tr>
-      <td>(4) MSon</td>
+      <td>(3) MSon</td>
       <td><a href="https://www.twitch.tv/videos/311900875">9-15</a></td> <!--Blaarg-->
       <td> </td> <!--Meiling-->
       <td>15-4</td> <!--Nick-->
@@ -246,7 +246,7 @@ title: (D) League Matchups
       <td>+22</td>
     </tr>
     <tr>
-      <td>(7) onizuka777</td>
+      <td>(6) onizuka777</td>
       <td> </td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/308835458">14-15</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
