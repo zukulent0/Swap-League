@@ -111,7 +111,7 @@ title: (F) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(4) wizard944</td>
+      <td>(3) wizard944</td>
       <td> </td> <!--wizard944-->
       <td> <a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">15-5</a> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -126,7 +126,7 @@ title: (F) League Matchups
       <td> +29 </td>
     </tr>
     <tr>
-      <td>(7) BOBtheman2000</td>
+      <td>(6) BOBtheman2000</td>
       <td><a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">5-15</a></td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> 15-5</td> <!--Blank-->
@@ -171,7 +171,7 @@ title: (F) League Matchups
       <td> +70 </td>
     </tr>
     <tr>
-      <td>(5) EpicYoshi</td>
+      <td>(4) EpicYoshi</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> 15-5</td> <!--Blank-->
@@ -216,7 +216,7 @@ title: (F) League Matchups
       <td>+40</td>
     </tr>
     <tr>
-      <td>(3) PichuFreak</td>
+      <td>(5) PichuFreak</td>
       <td>15-14 </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td>15-3</td> <!--Blank-->
@@ -231,7 +231,7 @@ title: (F) League Matchups
       <td>+7</td>
     </tr>
     <tr>
-      <td>(6) 52_bloodeyes</td>
+      <td>(7) 52_bloodeyes</td>
       <td> 4-15</td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td>15-2 </td> <!--Blank-->
