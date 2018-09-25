@@ -111,7 +111,7 @@ title: (F) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>wizard944</td>
+      <td>(4) wizard944</td>
       <td> </td> <!--wizard944-->
       <td> <a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">15-5</a> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -126,7 +126,7 @@ title: (F) League Matchups
       <td> +18 </td>
     </tr>
     <tr>
-      <td>BOBtheman2000</td>
+      <td>(7) BOBtheman2000</td>
       <td><a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">5-15</a></td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -141,7 +141,7 @@ title: (F) League Matchups
       <td>-19</td>
     </tr>
     <tr>
-      <td>Blank</td>
+      <td>(10) Blank</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -156,7 +156,7 @@ title: (F) League Matchups
       <td>-45</td>
     </tr>
     <tr>
-      <td>XeaL</td>
+      <td><b>(1)</b> XeaL</td>
       <td> 15-6 </td> <!--wizard944-->
       <td> <a href="https://www.youtube.com/watch?v=LQA8h32bJoE">15-2</a></td> <!--BOBtheman2000-->
       <td> <a href="https://www.youtube.com/watch?v=WuRLBiVcSzY">15-0</a> </td> <!--Blank-->
@@ -171,7 +171,7 @@ title: (F) League Matchups
       <td> +70 </td>
     </tr>
     <tr>
-      <td>EpicYoshi</td>
+      <td>(5) EpicYoshi</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -186,7 +186,7 @@ title: (F) League Matchups
       <td>+5</td>
     </tr>
     <tr>
-      <td>Neo7</td>
+      <td>(9) Neo7</td>
       <td><a href="https://www.youtube.com/watch?v=HwEtlqInR60&t=6m40s">7-15</a></td> <!--wizard944-->
       <td><a href="https://www.youtube.com/watch?v=X2T16WCxzoo">6-15</a></td> <!--BOBtheman2000-->
       <td><a href="https://www.youtube.com/watch?v=PG8WbFZlQwI">15-10</a></td> <!--Blank-->
@@ -201,7 +201,7 @@ title: (F) League Matchups
       <td>-36</td>
     </tr>
     <tr>
-      <td>Haxel59</td>
+      <td>(2) Haxel59</td>
       <td> </td> <!--wizard944-->
       <td><a href="https://youtu.be/1kPv1_qKGLg"> 15-6</a></td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -216,7 +216,7 @@ title: (F) League Matchups
       <td>+40</td>
     </tr>
     <tr>
-      <td>PichuFreak</td>
+      <td>(3) PichuFreak</td>
       <td>15-14 </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td>15-3</td> <!--Blank-->
@@ -231,7 +231,7 @@ title: (F) League Matchups
       <td>+7</td>
     </tr>
     <tr>
-      <td>52_bloodeyes</td>
+      <td>(6) 52_bloodeyes</td>
       <td> </td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
       <td>15-2 </td> <!--Blank-->
@@ -246,7 +246,7 @@ title: (F) League Matchups
       <td>-5</td>
     </tr>
     <tr>
-      <td>Qlex</td>
+      <td>(8) Qlex</td>
       <td>5-15 </td> <!--wizard944-->
       <td>11-15</td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -259,6 +259,59 @@ title: (F) League Matchups
       <td> </td> <!--Qlex-->
       <td>1-4</td>
       <td>-19</td>
+    </tr>
+  </tbody>
+</table>
+
+## (F) Week 4 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wizard944 vs Haxel59</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52_bloodeyes vs EpicYoshi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qlex vs Blank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PichuFreak vs BOBtheman2000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Neo7 vs XaeL</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>wizard944 vs EpicYoshi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Haxel59 vs Blank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52_bloodeyes vs BOBtheman2000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qlex vs Xeal</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PichuFreak vs Neo7</td>
+    <td></td>
     </tr>
   </tbody>
 </table>
