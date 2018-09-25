@@ -139,7 +139,7 @@ title: (E) League Matchups
       <td> </td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
       <td> </td> <!--Oblivion-->
-      <td>15-7</td> <!--Hanna-->
+      <td><a href="https://www.twitch.tv/videos/313862357?t=20m25s">15-7</a></td> <!--Hanna-->
       <td>5-0</td>
       <td>+47</td>
     </tr>
@@ -147,26 +147,26 @@ title: (E) League Matchups
       <td>(11) Allete</td>
       <td>4-15</td> <!--Shizu-->
       <td> </td> <!--Allete-->
-      <td>7-15</td> <!--Lozofan-->
+      <td><a href="https://www.twitch.tv/videos/313164389">7-15</a></td> <!--Lozofan-->
       <td> </td> <!--124san-->
       <td> </td> <!--Fyzzl-->
       <td>9-15</td> <!--Luminsen-->
-      <td> </td> <!--player-->
+      <td><a href="https://www.twitch.tv/videos/312849527?t=01m24s">3-15</a></td> <!--player-->
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
       <td><a href="https://www.twitch.tv/videos/310886707">7-15</a></td> <!--Oblivion-->
       <td> </td> <!--Hanna-->
-      <td>0-4</td>
-      <td>-33</td>
+      <td>0-5</td>
+      <td>-45</td>
     </tr>
     <tr>
       <td>(5) Lozofan</td>
       <td> </td> <!--Shizu-->
-      <td>15-7</td> <!--Allete-->
+      <td><a href="https://www.twitch.tv/videos/313164389">15-7</a></td> <!--Allete-->
       <td> </td> <!--Lozofan-->
       <td>15-4</td> <!--124san-->
-      <td>12-15</td> <!--Fyzzl-->
+      <td><a href="https://www.twitch.tv/videos/312671907?t=06m25s">12-15</a></td> <!--Fyzzl-->
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td>12-15</td> <!--amie-->
@@ -198,11 +198,11 @@ title: (E) League Matchups
       <td>(10) Fyzzl</td>
       <td> </td> <!--Shizu-->
       <td> </td> <!--Allete-->
-      <td>15-12</td> <!--Lozofan-->
-      <td>15-12</td> <!--124san-->
+      <td><a href="https://www.twitch.tv/videos/312671907?t=06m25s">15-12</a></td> <!--Lozofan-->
+      <td><a href="https://www.twitch.tv/videos/313534555">15-12</a></td> <!--124san-->
       <td> </td> <!--Fyzzl-->
       <td>7-15</td> <!--Luminsen-->
-      <td>9-15</td> <!--player-->
+      <td><a href="https://www.twitch.tv/videos/310429883?t=21m23s">9-15</a></td> <!--player-->
       <td> </td> <!--amie-->
       <td> </td> <!--SimpleFlips-->
       <td><del>15-4</del></td> <!--elijah-->
@@ -231,10 +231,10 @@ title: (E) League Matchups
     <tr>
       <td>(2) player</td>
       <td> </td> <!--Shizu-->
-      <td> </td> <!--Allete-->
+      <td><a href="https://www.twitch.tv/videos/312849527?t=01m24s">15-3</a></td> <!--Allete-->
       <td> </td> <!--Lozofan-->
       <td> </td> <!--124san-->
-      <td>15-9</td> <!--Fyzzl-->
+      <td><a href="https://www.twitch.tv/videos/310429883?t=21m23s">15-9</a></td> <!--Fyzzl-->
       <td>15-4</td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td>15-9</td> <!--amie-->
@@ -242,8 +242,8 @@ title: (E) League Matchups
       <td>X</td> <!--elijah-->
       <td> </td> <!--Oblivion-->
       <td>15-4</td> <!--Hanna-->
-      <td>4-0</td>
-      <td>+34</td>
+      <td>5-0</td>
+      <td>+46</td>
     </tr>
     <tr>
       <td>(6) amie</td>
@@ -315,7 +315,7 @@ title: (E) League Matchups
     </tr>
     <tr>
       <td>(3) Hanna</td>
-      <td>7-15</td> <!--Shizu-->
+      <td><a href="https://www.twitch.tv/videos/313862357?t=20m25s">7-15</a></td> <!--Shizu-->
       <td> </td> <!--Allete-->
       <td>15-10</td> <!--Lozofan-->
       <td><a href="https://youtu.be/4_8PA0uftF8">15-8</a></td> <!--124san-->
