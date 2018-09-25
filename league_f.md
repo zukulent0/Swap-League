@@ -129,7 +129,7 @@ title: (F) League Matchups
       <td>(6) BOBtheman2000</td>
       <td><a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">5-15</a></td> <!--wizard944-->
       <td> </td> <!--BOBtheman2000-->
-      <td> 15-5</td> <!--Blank-->
+      <td><a href="https://youtu.be/Jss1OUGzXhw">15-5</a></td> <!--Blank-->
       <td><a href="https://www.youtube.com/watch?v=LQA8h32bJoE"> 2-15 </a></td> <!--XeaL-->
       <td> </td> <!--EpicYoshi-->
       <td><a href="https://www.youtube.com/watch?v=X2T16WCxzoo">15-6</a></td> <!--Neo7-->
@@ -143,7 +143,7 @@ title: (F) League Matchups
     <tr>
       <td>(10) Blank</td>
       <td> </td> <!--wizard944-->
-      <td> 5-15</td> <!--BOBtheman2000-->
+      <td> <a href="https://youtu.be/Jss1OUGzXhw">5-15</a></td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
       <td> <a href="https://www.youtube.com/watch?v=WuRLBiVcSzY">0-15</a></td> <!--XeaL-->
       <td> 5-15</td> <!--EpicYoshi-->
@@ -344,7 +344,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>BOBtheman2000 vs Blank</td>
-      <td>Played</td>
+      <td><a href="https://youtu.be/Jss1OUGzXhw">Played</a></td>
     </tr>
     <tr>
       <td>wizard944 vs 52_bloodeyes</td>
