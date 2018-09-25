@@ -156,7 +156,7 @@ title: (D) League Matchups
       <td>+17</td>
     </tr>
     <tr>
-      <td>(2) Donorgyll</td>
+      <td><b>(2)</b> Donorgyll</td>
       <td><a href="https://www.twitch.tv/videos/306012064">15-9</a></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/311820626?t=00h34m34s">15-7</a></td> <!--Meiling-->
       <td><a href="https://www.twitch.tv/videos/307464851">13-15</a></td> <!--Nick-->
@@ -168,7 +168,7 @@ title: (D) League Matchups
       <td><a href="https://www.twitch.tv/videos/309001046">15-10</a></td> <!--MSon-->
       <td> </td> <!--onizuka777-->
       <td>5-1</td>
-      <td>+32</td>
+      <td>+33</td>
     </tr>
     <tr>
       <td>(7) wait_what</td>
@@ -201,7 +201,7 @@ title: (D) League Matchups
       <td>-11</td>
     </tr>
     <tr>
-      <td><b>(1)</b> t-block</td>
+      <td>(2) t-block</td>
       <td> </td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/310160497">15-9</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
