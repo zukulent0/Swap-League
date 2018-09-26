@@ -170,7 +170,7 @@ title: (E) League Matchups
       <td> </td> <!--Luminsen-->
       <td> </td> <!--player-->
       <td>12-15</td> <!--amie-->
-      <td>15-2</td> <!--SimpleFlips-->
+      <td>15-12</td> <!--SimpleFlips-->
       <td>X</td> <!--elijah-->
       <td> </td> <!--Oblivion-->
       <td>10-15</td> <!--Hanna-->

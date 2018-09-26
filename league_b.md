@@ -119,7 +119,7 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(3) Ting</td>
+      <td>(4) Ting</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/305341567?t=00h41m30s">8-15</a></td> <!--Hua-->
       <td><del>15-9</del></td> <!--SiaMeS2E-->
@@ -167,20 +167,20 @@ title: (B) League Matchups
       <td><del>+2</del></td>
     </tr>
     <tr>
-      <td>(7) RJ</td>
+      <td>(8) RJ</td>
       <td><a href="https://www.twitch.tv/videos/313288957">12-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td>14-15</td> <!--OkeyDokey-->
       <td><a href="https://www.twitch.tv/videos/313533426">12-15</a></td> <!--ookamisuketoudara-->
-      <td> </td> <!--garbo-->
+      <td><a href="https://www.twitch.tv/videos/314341005">11-15</a></td> <!--garbo-->
       <td> </td> <!--Dazer-->
       <td><a href="https://www.twitch.tv/videos/310653292?t=3206s">15-8</a></td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/305636565">13-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/310184429">15-14</a></td> <!--saltedbread-->
-      <td>2-4</td>
-      <td>-1</td>
+      <td>2-5</td>
+      <td>-5</td>
     </tr>
     <tr>
       <td>(9) OkeyDokey</td>
@@ -215,11 +215,11 @@ title: (B) League Matchups
       <td>+30</td>
     </tr>
     <tr>
-      <td>(6) garbo</td>
+      <td>(3) garbo</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/310321761">8-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
-      <td> </td> <!--RJ-->
+      <td><a href="https://www.twitch.tv/videos/314341005">15-11</a></td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
@@ -227,7 +227,7 @@ title: (B) League Matchups
       <td> </td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/305648977">4-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/314025189">15-8</a></td> <!--saltedbread-->
-      <td>3-2</td>
+      <td>4-2</td>
       <td>-7</td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@ title: (B) League Matchups
       <td>-47</td>
     </tr>
     <tr>
-      <td>(5) CooJ</td>
+      <td>(6) CooJ</td>
       <td> </td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s"><del>8-15</del></a></td> <!--SiaMeS2E-->
@@ -263,7 +263,7 @@ title: (B) League Matchups
       <td>+0</td>
     </tr>
     <tr>
-      <td>(4) Casey.GV</td>
+      <td>(5) Casey.GV</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/312739578">6-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -279,7 +279,7 @@ title: (B) League Matchups
       <td>+5</td>
     </tr>
     <tr>
-      <td>(8) saltedbread</td>
+      <td>(7) saltedbread</td>
       <td><a href="https://www.twitch.tv/videos/312044748">3-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -347,7 +347,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>saltedbread vs RJ</td>
-      <td></td>
+      <td>9/14 8:00PM</td>
     </tr>
     <tr>
       <td>Ting vs BYE</td>
@@ -404,51 +404,51 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Casey.GV vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>RJ vs OkeyDokey</td>
-      <td></td>
+      <td>9/15 12:00PM</td>
     </tr>
     <tr>
       <td>garbo vs Hua</td>
-      <td></td>
+      <td>9/15 3:30AM</td>
     </tr>
     <tr>
       <td>saltedbread vs CooJ</td>
-      <td></td>
+      <td>9/12 8:30PM</td>
     </tr>
     <tr>
       <td>Ting vs Dazer</td>
-      <td></td>
+      <td>9/12 12:00PM</td>
     </tr>
     <tr>
       <td>SiaMeS2E vs ookamisuketoudara</td>
-      <td></td>
+      <td>9/16 1:00PM</td>
     </tr>
     <tr>
       <td>Casey.GV vs OkeyDokey</td>
-      <td></td>
+      <td>9/10 5:30PM</td>
     </tr>
     <tr>
       <td>Hua vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>RJ vs CooJ</td>
-      <td></td>
+      <td>9/15 8:30PM</td>
     </tr>
     <tr>
       <td>garbo vs Dazer</td>
-      <td></td>
+      <td>9/10 7:30PM</td>
     </tr>
     <tr>
       <td>saltedbread vs ookamisuketoudara</td>
-      <td></td>
+      <td>9/16 9:30PM</td>
     </tr>
     <tr>
       <td>Ting vs SiaMeS2E</td>
-      <td></td>
+      <td>9/14 7:00PM</td>
     </tr>
   </tbody>
 </table>
@@ -465,51 +465,51 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Casey.GV vs Hua</td>
-      <td></td>
+      <td>9/20 11:30PM</td>
     </tr>
     <tr>
       <td>OkeyDokey vs CooJ</td>
-      <td></td>
+      <td>9/22 1:00AM</td>
     </tr>
     <tr>
       <td>Dazer vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>RJ vs ookamisuketoudara</td>
-      <td></td>
+      <td>9/23 8:30PM</td>
     </tr>
     <tr>
       <td>garbo vs SiaMeS2E</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>saltedbread vs Ting</td>
-      <td></td>
+      <td>9/19 10:00AM</td>
     </tr>
     <tr>
       <td>Casey.GV vs CooJ</td>
-      <td></td>
+      <td>9/22 10:30PM</td>
     </tr>
     <tr>
       <td>Hua vs Dazer</td>
-      <td></td>
+      <td>9/22 12:30PM</td>
     </tr>
     <tr>
       <td>OkeyDokey vs ookamisuketoudara</td>
-      <td></td>
+      <td>9/23 4:00PM</td>
     </tr>
     <tr>
       <td>SiaMeS2E vs BYE</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>RJ vs Ting</td>
-      <td></td>
+      <td>9/22 10:00AM</td>
     </tr>
     <tr>
       <td>garbo vs saltedbread</td>
-      <td></td>
+      <td>9/23 9:00PM</td>
     </tr>
   </tbody>
 </table>
@@ -546,7 +546,7 @@ title: (B) League Matchups
     </tr>
     <tr>
       <td>RJ vs garbo</td>
-      <td></td>
+      <td>9/24 7:00PM</td>
     </tr>
     <tr>
       <td>Casey.GV vs ookamisuketoudara</td>
