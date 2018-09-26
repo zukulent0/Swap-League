@@ -156,7 +156,7 @@ title: (D) League Matchups
       <td>+17</td>
     </tr>
     <tr>
-      <td><b>(2)</b> Donorgyll</td>
+      <td>(3) Donorgyll</td>
       <td><a href="https://www.twitch.tv/videos/306012064">15-9</a></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/311820626?t=00h34m34s">15-7</a></td> <!--Meiling-->
       <td><a href="https://www.twitch.tv/videos/307464851">13-15</a></td> <!--Nick-->
