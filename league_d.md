@@ -111,7 +111,7 @@ title: (D) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(3) Blaarg</td>
+      <td><b>(1)</b> Blaarg</td>
       <td></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/306033418">15-3</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
@@ -121,9 +121,9 @@ title: (D) League Matchups
       <td> </td> <!--t-block-->
       <td>15-1</td> <!--Jonas Neubauer-->
       <td><a href="https://www.twitch.tv/videos/311900875">15-9</a></td> <!--MSon-->
-      <td> </td> <!--onizuka777-->
-      <td>4-1</td>
-      <td>+29</td>
+      <td><a href="https://www.twitch.tv/videos/314710329">15-11</a></td> <!--onizuka777-->
+      <td>5-1</td>
+      <td>+33</td>
     </tr>
     <tr>
       <td>(9) Meiling</td>
@@ -166,9 +166,9 @@ title: (D) League Matchups
       <td> </td> <!--t-block-->
       <td>15-1</td> <!--Jonas Neubauer-->
       <td><a href="https://www.twitch.tv/videos/309001046">15-10</a></td> <!--MSon-->
-      <td> </td> <!--onizuka777-->
-      <td>5-1</td>
-      <td>+33</td>
+      <td><a href="https://www.twitch.tv/videos/314696801?t=02h05m31s">13-15</a></td> <!--onizuka777-->
+      <td>5-2</td>
+      <td>+31</td>
     </tr>
     <tr>
       <td>(7) wait_what</td>
@@ -247,18 +247,18 @@ title: (D) League Matchups
     </tr>
     <tr>
       <td>(8) onizuka777</td>
-      <td> </td> <!--Blaarg-->
+      <td><a href="https://www.twitch.tv/videos/314710329">11-15</a></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/308835458">14-15</a></td> <!--Meiling-->
       <td> </td> <!--Nick-->
-      <td> </td> <!--Donorgyll-->
+      <td><a href="https://www.twitch.tv/videos/314696801?t=02h05m31s">15-13</a></td> <!--Donorgyll-->
       <td>15-11</td> <!--wait_what-->
       <td><a href="https://www.twitch.tv/videos/310412035?t=13m23s">13-15</a></td> <!--Helomair-->
       <td>11-15</td> <!--t-block-->
       <td> </td> <!--Jonas Neubauer-->
       <td>11-15</td> <!--MSon-->
       <td> </td> <!--onizuka777-->
-      <td>1-4</td>
-      <td>-7</td>
+      <td>2-5</td>
+      <td>-9</td>
     </tr>
   </tbody>
 </table>
