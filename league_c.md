@@ -275,11 +275,11 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>lawren vs Scottobozo</td>
-      <td> </td>
+      <td>9/6 7:00PM</td>
     </tr>
     <tr>
       <td>Shard Nguyễn vs acliv</td>
-      <td> </td>
+      <td>9/3 9:00AM</td>
     </tr>
     <tr>
       <td>it was all a dream vs Circu1ation</td>
@@ -328,39 +328,39 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>lawren vs Circu1ation</td>
-      <td> </td>
+      <td>9/14 9:00AM</td>
     </tr>
     <tr>
       <td>acliv vs WD</td>
-      <td> </td>
+      <td>9/16 10:30AM</td>
     </tr>
     <tr>
       <td>Scottobozo vs Dorothy</td>
-      <td> </td>
+      <td>9/13 12:30PM</td>
     </tr>
     <tr>
       <td>Shard Nguyễn vs grayxkxa</td>
-      <td> </td>
+      <td>9/15 10:00AM</td>
     </tr>
     <tr>
       <td>it was all a dream vs Shana</td>
-      <td> </td>
+      <td>9/13 12:00AM</td>
     </tr>
     <tr>
       <td>lawren vs WD</td>
-      <td> </td>
+      <td>9/13 11:00AM</td>
     </tr>
     <tr>
       <td>Circu1ation vs Dorothy</td>
-      <td> </td>
+      <td>9/12 8:30AM</td>
     </tr>
     <tr>
       <td>acliv vs grayxkxa</td>
-      <td> </td>
+      <td>9/12 10:30AM</td>
     </tr>
     <tr>
       <td>Scottobozo vs Shana</td>
-      <td> </td>
+      <td>9/12 10:30AM</td>
     </tr>
     <tr>
       <td>Shard Nguyễn vs it was all a dream</td>
@@ -381,43 +381,43 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>lawren vs Dorothy</td>
-      <td> </td>
+      <td>9/17 11:00AM</td>
     </tr>
     <tr>
       <td>WD vs grayxkxa</td>
-      <td> </td>
+      <td>9/20 10:00AM</td>
     </tr>
     <tr>
       <td>Circu1ation vs Shana</td>
-      <td> </td>
+      <td>9/17 10:30PM</td>
     </tr>
     <tr>
       <td>acliv vs it was all a dream</td>
-      <td> </td>
+      <td>9/23 1:00AM</td>
     </tr>
     <tr>
       <td>Scottobozo vs Shard Nguyễn</td>
-      <td> </td>
+      <td>9/22 1:00AM</td>
     </tr>
     <tr>
       <td>lawren vs grayxkxa</td>
-      <td> </td>
+      <td>9/18 10:00AM</td>
     </tr>
     <tr>
       <td>Dorothy vs Shana</td>
-      <td> </td>
+      <td>9/17 8:00AM</td>
     </tr>
     <tr>
       <td>WD vs it was all a dream</td>
-      <td> </td>
+      <td>9/20 7:30AM</td>
     </tr>
     <tr>
       <td>Circu1ation vs Shard Nguyễn</td>
-      <td> </td>
+      <td>9/18 10:00AM</td>
     </tr>
     <tr>
       <td>acliv vs Scottobozo</td>
-      <td> </td>
+      <td>9/22 12:00AM</td>
     </tr>
   </tbody>
 </table>
@@ -434,11 +434,11 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>lawren vs Shana</td>
-      <td> </td>
+      <td>9/24 9:00AM</td>
     </tr>
     <tr>
       <td>grayxkxa vs it was all a dream</td>
-      <td> </td>
+      <td>9/26 7:00AM</td>
     </tr>
     <tr>
       <td>Dorothy vs Shard Nguyễn</td>
@@ -470,7 +470,7 @@ title: (C) League Matchups
     </tr>
     <tr>
       <td>Circu1ation vs WD</td>
-      <td> </td>
+      <td>9/25 9:00AM</td>
     </tr>
   </tbody>
 </table>
