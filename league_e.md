@@ -596,3 +596,64 @@ title: (E) League Matchups
   </tbody>
 </table>
 
+## (E) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shizu vs player</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SimpleFlips vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oblivion vs Lozofan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hanna vs Allete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124san vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs Luminsen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shizu vs Fyzzl</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>player vs Lozofan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SimpleFlips vs Allete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oblivion vs 124san</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Luminsen vs Hanna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>amie vs BYE</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+

@@ -263,6 +263,39 @@ title: (F) League Matchups
   </tbody>
 </table>
 
+## (F) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wizard944 vs Blank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>EpicYoshi vs BOBtheman2000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hazel59 vs XaeL</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52_bloodeyes vs Neo7</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qlex vs PichuFreak</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## (F) Week 4 Schedule ##
 
 <table>
