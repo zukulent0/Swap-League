@@ -582,3 +582,64 @@ title: (A) League Matchups
   </tbody>
 </table>
 
+## (A) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>z2sam vs kress</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gamster_death vs BYE</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>ZeroT vs Yoshi100_AUS</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>Pokedialga vs popte</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>baseballboy vs BYE</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>soulmiracle1 vs Bronze V Tetris</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>z2sam vs BYE</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>kress vs Yoshi100_AUS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gamster_death vs popte</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>ZeroT vs BYE</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>Pokedialga vs soulmiracle1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>baseballboy vs Bronze V Tetris</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
