@@ -294,3 +294,40 @@ title: (S) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (S) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aruni084 vs Wumbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Iljain vs JPN Hiroki</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Doremy vs OnePunMan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>aruni084 vs Iljain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Doremy vs Wumbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>JPN Hiroki vs OnePunMan</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

@@ -574,3 +574,64 @@ title: (B) League Matchups
     </tr>
   </tbody>
 </table>
+
+## (B) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casey.GV vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ting vs ookamisuketoudara</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dazer vs saltedbread</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CooJ vs garbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs RJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OkeyDokey vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Casey.GV vs Ting</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>saltedbread vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ookamisuketoudara vs garbo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dazer vs RJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CooJ vs BYE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hua vs OkeyDokey</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

@@ -475,3 +475,36 @@ title: (D) League Matchups
   </tbody>
 </table>
 
+## (D) Week 5 Schedule ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Date and time (UTC-4)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaarg vs Nick</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>wait_what vs Meiling</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>tblock vs Donorgyll</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>MSon vs Helomair</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>onizuka777 vs BYE</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
