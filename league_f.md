@@ -111,7 +111,7 @@ title: (F) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(3) wizard944</td>
+      <td>(2) wizard944</td>
       <td> </td> <!--wizard944-->
       <td> <a href="https://www.youtube.com/watch?v=DjKD1WaBi_s&t=1m49s">15-5</a> </td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
@@ -201,7 +201,7 @@ title: (F) League Matchups
       <td>-57</td>
     </tr>
     <tr>
-      <td>(2) Haxel59</td>
+      <td>(3) Haxel59</td>
       <td><a href="https://www.youtube.com/watch?v=9SIfWNajU2A"> 7-15 </a></td> <!--wizard944-->
       <td><a href="https://youtu.be/1kPv1_qKGLg"> 15-6</a></td> <!--BOBtheman2000-->
       <td> </td> <!--Blank-->
