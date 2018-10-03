@@ -297,6 +297,7 @@ title: (C) League Matchups
       <td>lawren vs acliv</td>
       <td>9/6 8:00AM</td>
     </tr>
+      <td>Scottobozo vs Circu1ation</td>
       <td>9/5 7:00AM</td>
     </tr>
     <tr>
