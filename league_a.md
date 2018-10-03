@@ -167,7 +167,7 @@ title: (A) League Matchups
       <td>15-14</td> <!--kress-->
       <td>15-7</td> <!--Bronze V Tetris-->
       <td><a href="https://www.twitch.tv/videos/310248251">15-6</a></td> <!--Gamster_Death-->
-      <td><a href="https://www.twitch.tv/videos/314946016?t=26m41s">9-15</b></td> <!--baseballboy-->
+      <td><a href="https://www.twitch.tv/videos/314946016?t=26m41s">9-15</a></td> <!--baseballboy-->
       <td> </td> <!--ZeroT-->
       <td><a href="https://www.twitch.tv/videos/310842615">8-15</a></td> <!--Pokedialga-->
       <td>5-2</td>
