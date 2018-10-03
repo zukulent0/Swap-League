@@ -308,7 +308,7 @@ title: (F) League Matchups
   <tbody>
     <tr>
       <td>wizard944 vs Haxel59</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>52_bloodeyes vs EpicYoshi</td>
@@ -385,7 +385,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Qlex vs Haxel59</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>PichuFreak vs EpicYoshi</td>
