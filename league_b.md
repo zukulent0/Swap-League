@@ -119,7 +119,7 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(4) Ting</td>
+      <td>(3) Ting</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/305341567?t=00h41m30s">8-15</a></td> <!--Hua-->
       <td><del>15-9</del></td> <!--SiaMeS2E-->
@@ -167,7 +167,7 @@ title: (B) League Matchups
       <td><del>+2</del></td>
     </tr>
     <tr>
-      <td>(8) RJ</td>
+      <td>(7) RJ</td>
       <td><a href="https://www.twitch.tv/videos/313288957">12-15</a></td> <!-- Ting -->
       <td> </td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -215,7 +215,7 @@ title: (B) League Matchups
       <td>+49</td>
     </tr>
     <tr>
-      <td>(3) garbo</td>
+      <td>(4) garbo</td>
       <td> </td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/310321761">8-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
@@ -279,7 +279,7 @@ title: (B) League Matchups
       <td>+11</td>
     </tr>
     <tr>
-      <td>(7) saltedbread</td>
+      <td>(8) saltedbread</td>
       <td><a href="https://www.twitch.tv/videos/312044748">3-15</a></td> <!-- Ting -->
       <td>3-15</td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
