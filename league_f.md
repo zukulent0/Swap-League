@@ -287,7 +287,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>52_bloodeyes vs Neo7</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>Qlex vs PichuFreak</td>
