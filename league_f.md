@@ -312,11 +312,11 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>52_bloodeyes vs EpicYoshi</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>Qlex vs Blank</td>
-      <td></td>
+      <td><a href="https://www.youtube.com/watch?v=1IpaZ27JFb4"> Played</a></td>
     </tr>
     <tr>
       <td>PichuFreak vs BOBtheman2000</td>
@@ -328,7 +328,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>wizard944 vs EpicYoshi</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>Haxel59 vs Blank</td>
@@ -336,7 +336,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>52_bloodeyes vs BOBtheman2000</td>
-      <td></td>
+      <td>Played</td>
     </tr>
     <tr>
       <td>Qlex vs Xeal</td>
@@ -344,7 +344,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>PichuFreak vs Neo7</td>
-    <td></td>
+    <td>Played</td>
     </tr>
   </tbody>
 </table>
