@@ -126,7 +126,7 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(4) z2sam</td>
+      <td>(5) z2sam</td>
       <td> </td> <!--z2sam-->
       <td><a href="https://www.youtube.com/watch?v=v-xeYvML-0g">15-7</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
@@ -142,7 +142,7 @@ title: (A) League Matchups
       <td>+8</td>
     </tr>
     <tr>
-      <td>(10) popte</td>
+      <td>(9) popte</td>
       <td><a href="https://www.twitch.tv/videos/308143292">7-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td><a href="https://www.twitch.tv/videos/313271803">10-15</a></td> <!--Yoshi100_AUS-->
@@ -190,7 +190,7 @@ title: (A) League Matchups
       <td><del>+16</del></td>
     </tr>
     <tr>
-      <td>(5) soulmiracle1</td>
+      <td>(7) soulmiracle1</td>
       <td><a href="https://www.youtube.com/watch?v=ckSVXPdhTCY">12-15</a></td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/306191963">15-5</a></td> <!--popte-->
       <td></td> <!--Yoshi100_AUS-->
@@ -238,7 +238,7 @@ title: (A) League Matchups
       <td>-36</td>
     </tr>
     <tr>
-      <td>(9) Gamster_Death</td>
+      <td>(10) Gamster_Death</td>
       <td><a href="https://www.youtube.com/watch?v=TyklYXQNoPU">0-15</a></td> <!--z2sam-->
       <td> </td> <!--popte-->
       <td>6-15</td> <!--Yoshi100_AUS-->
@@ -270,7 +270,7 @@ title: (A) League Matchups
       <td>+45</td>
     </tr>
     <tr>
-      <td>(7) ZeroT</td>
+      <td>(4) ZeroT</td>
       <td><a href="https://www.twitch.tv/videos/316370372">15-13</a></td> <!--z2sam-->
       <td><a href="https://www.twitch.tv/videos/309804687">15-14</a></td> <!--popte-->
       <td> </td> <!--Yoshi100_AUS-->
