@@ -226,9 +226,9 @@ title: (F) League Matchups
       <td><a href="https://www.youtube.com/watch?v=oK3NE40ECxo&t=41s">15-8</a></td> <!--Haxel59-->
       <td> </td> <!--PichuFreak-->
       <td> 15-8 </td> <!--52_bloodeyes-->
-      <td> </td> <!--Qlex-->
-      <td>4-2</td>
-      <td>+7</td>
+      <td> 15-10</td> <!--Qlex-->
+      <td>6-2</td>
+      <td>+12</td>
     </tr>
     <tr>
       <td>(7) 52_bloodeyes</td>
@@ -254,11 +254,11 @@ title: (F) League Matchups
       <td><a href="https://www.youtube.com/watch?v=vFA3lq9uITc&t=4m20s">8-15</a></td> <!--EpicYoshi-->
       <td><a href="https://www.youtube.com/watch?v=vbilTnZ7guI"> 15-11</a></td> <!--Neo7-->
       <td>6-15</td> <!--Haxel59-->
-      <td> </td> <!--PichuFreak-->
+      <td>10-15 </td> <!--PichuFreak-->
       <td>13-15</td> <!--52_bloodeyes-->
       <td> </td> <!--Qlex-->
-      <td>2-6</td>
-      <td>-32</td>
+      <td>2-7</td>
+      <td>-37</td>
     </tr>
   </tbody>
 </table>
@@ -291,7 +291,7 @@ title: (F) League Matchups
     </tr>
     <tr>
       <td>Qlex vs PichuFreak</td>
-      <td></td>
+      <td>Played</td>
     </tr>
   </tbody>
 </table>
