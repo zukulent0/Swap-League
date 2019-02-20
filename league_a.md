@@ -4,7 +4,7 @@ title: (A) League Matchups
 ---
 
 
-## (A) Participants before gatekeeper ##
+## (A) Participants  ##
 
 <table>
   <thead>
@@ -92,92 +92,44 @@ title: (A) League Matchups
   </tbody>
 </table>
 
-## (A) Participants after gatekeeper ##
+## (A) Match table
 
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-	    <th>Tetris 40L sprint</th> 
-	    <th>Max puyo chain(30 secs)</th>
-	    <th>Stream Channel</th>
-	    <th>Rating</th>
-	</tr>
+      <th> </th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
   </thead>
-	
-<tbody>
+  <tbody>
     <tr>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-       <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
       <td></td>
       <td></td>
     </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    
-  </tbody>
 </table>
 	
 ## (A) Week 1 Schedule ##
