@@ -95,4 +95,3 @@ title: Rules
   </tbody>
 </table>
 
-**Note that the table is just primarily for suggestion and your league placement could change depending on the results of other players**
