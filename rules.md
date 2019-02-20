@@ -94,3 +94,5 @@ title: Rules
   </tbody>
 </table>
 
+## note ##  
+rating on the table are used as example your league will be defined with the score Vs the gatekeeper
