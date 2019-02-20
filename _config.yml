@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Salty Cup
-tagline:          'PPT Competitive Tetris League'
+title:            Swap League
+tagline:          'PPT Competitive Swap League'
 description:      'Organized by <a href="https://twitter.com/saltedbread" target="_blank">@saltedbread</a>.'
 url:              saltedbread.github.io
 baseurl:          '/'
