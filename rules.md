@@ -61,28 +61,39 @@ title: Rules
     <tr>
       <th>League</th>
       <th>Vs zukulent0 (20,500)</th>
+	    <th>Tetris 40l sprint</th>
+	    <th>Max puyo chain(30secs)</th>
 	  <th>Online Rating</th>
+	    
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>S League</td>
       <td>15-6 or better</td>
+	    <td>  Sub 44 or better </td>
+	    <td>  13+ chain  </td>
       <td>20,000 or more</td>
     </tr>
     <tr>
       <td>A League</td>
       <td>11-15 or better</td>
+	    <td>  sub 50 or better </td>
+	    <td>  10+ chain </td>
       <td>15,000-19,999</td>
     </tr>
     <tr>
       <td>B League</td>
       <td>6-15 to 10-15 </td>
+	    <td>  sub 60 or better </td>
+	    <td>  7+ chain </td>
       <td>10,000-14,999</td>
     </tr>
     <tr>
       <td>C League</td>
       <td>5-15 or lower</td>
+	    <td> sub 1:15 or better </td>
+	    <td>  4+ chain </td>
       <td>10,000-14,999</td>
     </tr>
   </tbody>
@@ -90,6 +101,8 @@ title: Rules
     <tr>
       <td>D League</td>
       <td>N/A</td>
+	    <td> N/A  </td>
+	    <td>  N/A </td>
       <td>under 10,000</td>
     </tr>
   </tbody>
