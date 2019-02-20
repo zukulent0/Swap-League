@@ -10,9 +10,9 @@ title:            Swap League
 tagline:          'PPT Competitive Swap League'
 description:      'Organized by zukulent0.'
 url:              https://zukulent0.github.io/Swap-League/
-baseurl:          '/'
+baseurl:          'https://zukulent0.github.io/Swap-League/'
 
-github:           
+github:           https://zukulent0.github.io/Swap-League/
   repo:           https://github.com/zukulent0/Swap-League
 
 plugins:
