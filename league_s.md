@@ -13,6 +13,7 @@ title: (S) League Matchups
       <th>Stream Channel</th>
 	  <th>Sprint Time</th>
 	  <th>Rating</th>
+	</tr>
   </thead>
 </table>
 	
