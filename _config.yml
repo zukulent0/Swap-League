@@ -29,3 +29,5 @@ plugins:
  - jekyll-gist
  - redcarpet
  - pygments.rb
+
+theme: jekyll-theme-minimal
