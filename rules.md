@@ -67,7 +67,7 @@ title: Rules
   <tbody>
     <tr>
       <td>S League</td>
-      <td>15-7 or better</td>
+      <td>15-6 or better</td>
       <td>>20,000</td>
     </tr>
     <tr>
@@ -77,12 +77,12 @@ title: Rules
     </tr>
     <tr>
       <td>B League</td>
-      <td>7-15 or better</td>
+      <td>6-15 to 10-15 </td>
       <td>10,000-14,999</td>
     </tr>
     <tr>
       <td>C League</td>
-      <td>6-15 or lower</td>
+      <td>5-15 or lower</td>
       <td>10,000-14,999</td>
     </tr>
   </tbody>
