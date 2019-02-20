@@ -182,6 +182,58 @@ title: (A) League Matchups
 	
 ## (A) Week 1 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+       <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td></td>
+      <td></td>
+    </tr>
+	
+  </tbody>
+</table>
 
 ## (A) Week 2 Schedule ##
 
