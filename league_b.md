@@ -10,9 +10,7 @@ title: (B) League Matchups
   <thead>
     <tr>
       <th>Name</th>
-      <th>Twitter</th>
       <th>Stream Channel</th>
-	  <th>Sprint Time</th>
 	  <th>Rating</th>
 	</tr>
   </thead>
