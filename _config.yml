@@ -30,4 +30,4 @@ plugins:
  - redcarpet
  - pygments.rb
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
