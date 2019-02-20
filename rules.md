@@ -48,7 +48,7 @@ title: Rules
 - Based on the League you wish to join (S,A,B,C,D), you will fight the league gatekeeper to determine your placement
 - The gatekeeper will be zukulent0
 - S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
-- D League entrants will play a FT3 set with <a href="https://twitter.com/saltedbread">@saltedbread</a>
+- D League entrants will play a FT3 set with Zukulent0.
 - ~~Leagues will fill up on a first come / first serve basis. If a higher league is filled, then you will get put in the lower league. In the case of the lower league filling up first, The highest qualified in the league will get pushed up to the higher league.~~
 - **To determine league placement, everyone will be ranked based on their gatekeeper match results. After registration period is over the entrants will be split into their respective leagues**
 - **For example, #1-6 goes to S League. #7-16 A League, #17-26 B League, etc... adding leagues until everyone has been placed in one.**
