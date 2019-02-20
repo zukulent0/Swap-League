@@ -8,7 +8,7 @@ title: Rules
 - Hello world! my name is **zukulent0** im organizing this PPT Swap League!
 - A lot of people wanted me to make a swap league and sure why no
 - You may contact me on Discord (zukulent0#7655)
-- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling.
+- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #tourneys. Ideally you may use this channel to contact me for things specific to the league like scheduling.
 
 ## League Overview ##
 - Game used is Puyo Puyo Tetris for the PC (Steam)
@@ -29,7 +29,7 @@ title: Rules
 - The overall schedule of the league should be determined by the time the league starts
 - This means that each person's weekly matchup for Weeks 1-4 will be on display and it is up to the players to contact their opponent to schedule a good time to match
 - Scheduling for D League will be different if it runs Swiss since the current round needs to finish before determining the schedule for the next round
-- Please message the Tournament Organizer (me) when you and your opponent have agreed on a match time. Ideally use the HD #pptleague channel.
+- Please message the Tournament Organizer (me) when you and your opponent have agreed on a match time. Ideally use the HD #tourneys channel.
 - Since this league is an international one, we do not have a default match time because it may not be ideal for all players
 - **If you do not set up a time to play your opponent, you will forfeit that match! If you do not schedule your match a second time then you will be disqualified from the league!**
 - DO NOT BE LATE for your matches. If you are late for more than 15 minutes you forfeit the set. 
