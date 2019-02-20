@@ -3,7 +3,7 @@ layout: page
 title: Qualifier Results
 ---
 
-## Vs Blink (S/A) ##
+## Vs Zukulent0 (S/A) ##
 
 <table>
   <thead>
@@ -15,111 +15,62 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
-      <td>aruni084</td>
-      <td>15-6</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>Wumbo</td>
-      <td>15-9</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>Iljain</td>
-      <td>10-15</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Doremy</td>
-      <td>9-15</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>Pokedialga</td>
-      <td>8-15</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>ZeroT</td>
-      <td>8-15</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>CrazyHIKO</td>
-      <td>7-15</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>popte</td>
-      <td>6-15</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>Yoshi100_AUS</td>
-      <td>6-15</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Jason0107</td>
-      <td>6-15</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>yida9900</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>soulmiracle1</td>
-      <td>3-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>gamster_death</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Casey.GV</td>
-      <td>2-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>baseballboy</td>
-      <td>2-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Ting</td>
-      <td>0-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Clockworker</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>z2sam</td>
-      <td> </td>
-      <td> </td>
-    </tr
-    <tr>
-      <td>OnePunMan</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>JPN Hiroki</td>
-      <td> </td>
-      <td></td>
-    </tr>
+
     
   </tbody>
 </table>
 
 
-## Vs saltedbread (B/C) ##
+## Vs zukulent0 (B/C) ##
 
 <table>
   <thead>
@@ -136,320 +87,56 @@ title: Qualifier Results
       <td></td>
     </tr>
     <tr>
-      <td>kress</td>
-      <td>15-7</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Bronze V Tetris</td>
-      <td>15-7</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Hua</td>
-      <td>15-9</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>MyNameOG</td>
-      <td>15-9</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>SiaMeS2E</td>
-      <td>15-11</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>RJ</td>
-      <td>15-12</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>OkeyDokey</td>
-      <td>15-12</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>ookamisuketoudara</td>
-      <td>15-13</td>
+      <td></td>
+      <td></td>
       <td> </td>
     </tr>
     <tr>
-      <td>garbo</td>
-      <td>15-14</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Dazer</td>
-      <td>14-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>CooJ</td>
-      <td>13-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>ろーれん</td>
-      <td>11-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Scottobozo</td>
-      <td>11-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Shard Nguyễn</td>
-      <td>11-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>acliv</td>
-      <td>11-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>it was all a dream</td>
-      <td>9-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Circu1ation</td>
-      <td>9-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Shana</td>
-      <td>9-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>WD</td>
-      <td>9-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>grayxkxa</td>
-      <td>9-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dorothy</td>
-      <td>9-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>NA Aim-</td>
-      <td>7-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Meiling</td>
-      <td>7-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nick</td>
-      <td>7-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Donorgyll</td>
-      <td>7-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>wait_what</td>
-      <td>7-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Helomair</td>
-      <td>6-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>t-block</td>
-      <td>6-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lester Caldwell</td>
-      <td>6-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>zukulent0</td>
-      <td>5-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MSon</td>
-      <td>5-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>onizuka777</td>
-      <td>5-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Allete</td>
-      <td>5-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>124san</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fyzzl</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lozofan</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Luminsen</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>player</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>amie</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>SimpleFlips</td>
-      <td>4-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>MIKAMI</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gallean</td>
-      <td>3-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Oblivion</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Blank</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Hanna</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>wizard944</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>BOBtheman2000</td>
-      <td>3-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>XeaL</td>
-      <td>2-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EpicYoshi</td>
-      <td>1-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Neo7</td>
-      <td>1-15</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Haxel59</td>
-      <td>1-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>PichuFreak</td>
-      <td>0-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>52_bloodeyes</td>
-      <td>0-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Qlex</td>
-      <td>0-15</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>AceArrow</td>
-      <td>0-15</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Claux_Carrera</td>
-      <td>0-15</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>PantsForHire</td>
-      <td>0-15</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Minalinsky</td>
-      <td>0-15</td>
-      <td>D</td>
-    <tr>
-      <td>Ethoe</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>Theycallmesachi</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    </tr>
-    <tr>
-      <td>Akira Sora</td>
-      <td> </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>fatedistro</td>
-      <td> </td>
-      <td></td>
-    </tr>
+    
   </tbody>
 </table>
 
 
-## Vs saltedbread (D) ##
+## Vs zukulent0 (D) ##
 
 <table>
   <thead>
@@ -461,184 +148,50 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
-      <td>davdav1233</td>
-      <td>3-2</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>eggu</td>
-      <td>2-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Pop Magoot</td>
-      <td>2-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Shizu</td>
-      <td>2-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Ham★</td>
-      <td>1-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>gomidesu</td>
-      <td>1-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Zerolightz</td>
-      <td>1-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>DHK007</td>
-      <td>1-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Schwefel24</td>
-      <td>1-3</td>
-      <td>D</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
-    <tr>
-      <td>koumyouguren</td>
-      <td>1-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Jelledot</td>
-      <td>1-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>DocStrangelove</td>
-      <td>1-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Repow</td>
-      <td>1-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Explo</td>
-      <td>1-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Gameraid453</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>ImSorryJulia</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Tetri</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Lerart</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>-Unknow</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>shuantsu</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Owl</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>alenico8</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>NukeExplosions</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Tanarus</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>SegFault</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>makotoadmirer</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>TheBoxerZ</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>AllanCat</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Scamper</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Cap</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>DocStrangelove</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Skyo</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Shira</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Bbforky</td>
-      <td>0-3</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Pi</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td>Kedzip</td>
-      <td> </td>
-      <td>D</td>
-    </tr>
+
   </tbody>
 </table>
