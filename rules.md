@@ -40,6 +40,7 @@ title: Rules
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
 - Ideally try to have your match recorded and uploaded on a video streaming service (Youtube, Twitch, Niconico, etc...)
 - Using cheats will forfeit your match and disqualify you from this league and any future leagues made by me.
+- **Dont use any opener of 4 wide** 4 wide opener is really op on swap mode. 4 wide will be allowed on midgame setups or downstack but not for openers. 
 - Recorded video will be used to settle score disputes, cheat/lag accusations
 
 ## Joining the League ##
