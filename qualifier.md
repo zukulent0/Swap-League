@@ -82,8 +82,8 @@ title: Qualifier Results
   </thead>
   <tbody>
     <tr>
-      <td>Ting</td>
-      <td>15-4</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
