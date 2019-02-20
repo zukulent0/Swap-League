@@ -4,7 +4,20 @@ title: (A) League Matchups
 ---
 
 
-## (A) Participants ##
+## (A) Participants before gatekeeper ##
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+	    <th>Tetris 40L sprint</th> 
+	    <th>Max puyo chain(30 secs)</th>
+	    <th>Stream Channel</th>
+	    <th>Rating</th>
+	</tr>
+  </thead>
+</table>
+## (A) Participants after gatekeeper ##
 
 <table>
   <thead>
