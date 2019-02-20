@@ -12,12 +12,6 @@ description:      'Organized by zukulent0.'
 url:              zukulent0.github.io
 baseurl:          '/'
 
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
 github:           
   repo:           https://github.com/zukulent0/Swap-League
 
