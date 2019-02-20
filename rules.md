@@ -70,28 +70,28 @@ title: Rules
   <tbody>
     <tr>
       <td>S League</td>
-      <td>15-6 or better</td>
+      <td>15-5 or better</td>
 	    <td>  Sub 44 or better </td>
 	    <td>  13+ chain  </td>
       <td>20,000 or more</td>
     </tr>
     <tr>
       <td>A League</td>
-      <td>11-15 or better</td>
+      <td>9-15 or better</td>
 	    <td>  sub 50 or better </td>
 	    <td>  10+ chain </td>
       <td>15,000-19,999</td>
     </tr>
     <tr>
       <td>B League</td>
-      <td>6-15 to 10-15 </td>
+      <td>4-15 to 8-15 </td>
 	    <td>  sub 60 or better </td>
 	    <td>  7+ chain </td>
       <td>10,000-14,999</td>
     </tr>
     <tr>
       <td>C League</td>
-      <td>5-15 or lower</td>
+      <td>3-15 or lower</td>
 	    <td> sub 1:15 or better </td>
 	    <td>  4+ chain </td>
       <td>10,000-14,999</td>
