@@ -103,9 +103,7 @@ title: Qualifier Results
       <td>z2sam</td>
       <td> </td>
       <td> </td>
-    </tr>
-    
-    
+    </tr
     <tr>
       <td>OnePunMan</td>
       <td> </td>
