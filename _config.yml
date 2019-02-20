@@ -8,21 +8,18 @@ permalink:        pretty
 # Setup
 title:            Swap League
 tagline:          'PPT Competitive Swap League'
-description:      'Organized by <a href="https://twitter.com/saltedbread" target="_blank">@saltedbread</a>.'
-url:              saltedbread.github.io
+description:      'Organized by zukulent0.'
+url:              zukulent0.github.io
 baseurl:          '/'
 
-author:
-  name:           'saltedbread'
-  url:            https://twitter.com/saltedbread
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/saltedbread/saltedbread.github.io.git
+github:           
+  repo:           https://github.com/zukulent0/Swap-League
 
 plugins:
  - jekyll-paginate
