@@ -10,8 +10,10 @@ title: (A) League Matchups
   <thead>
     <tr>
       <th>Name</th>
-      <th>Stream Channel</th>
-	  <th>Rating</th>
+	    <th>Tetris 40L sprint</th> 
+	    <th>Max puyo chain(30 secs)</th>
+	    <th>Stream Channel</th>
+	    <th>Rating</th>
 	</tr>
   </thead>
 </table>
