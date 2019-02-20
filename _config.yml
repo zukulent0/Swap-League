@@ -9,12 +9,17 @@ permalink:        pretty
 title:            Swap League
 tagline:          'PPT Competitive Swap League'
 description:      'Organized by zukulent0.'
-url:              https://zukulent0.github.io/Swap-League/
-baseurl:          'https://zukulent0.github.io/Swap-League/'
+url:              zukulent0.github.io
+baseurl:          '/'
 
-github:           https://zukulent0.github.io/Swap-League/
-  repo:           https://github.com/zukulent0/Swap-League
 
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://zukulent0.github.io/Swap-League/
 plugins:
  - jekyll-paginate
  - jekyll-gist
