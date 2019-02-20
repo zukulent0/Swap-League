@@ -60,47 +60,35 @@ title: Rules
   <thead>
     <tr>
       <th>League</th>
-      <th>Aruni League</th>
-      <th>Vs Blink (21,000)</th>
-      <th>Vs saltedbread (18,000)</th>
+      <th>Vs zukulent0(20,500)</th>
 	  <th>Online Rating</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>S League</td>
-      <td>A League</td>
-      <td>15-10 or better</td>
-      <td>N/A</td>
-      <td>>25,000</td>
+      <td>15-7 or better</td>
+      <td>>20,000</td>
     </tr>
     <tr>
       <td>A League</td>
-      <td>B League</td>
-      <td>3-15 to 9-15</td>
-      <td>15-3 or better</td>
-      <td>20,000-24,999</td>
-    </tr>
-    <tr>
-      <td>B League</td>
-      <td>C League</td>
-      <td>0-15 to 3-15</td>
-      <td>15-4 to 12-15</td>
+      <td>11-15 or better</td>
       <td>15,000-19,999</td>
     </tr>
     <tr>
+      <td>B League</td>
+      <td>7-15 or better</td>
+      <td>10,000-14,999</td>
+    </tr>
+    <tr>
       <td>C League</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>11-15 or lower</td>
+      <td>6-15 or lower</td>
       <td>10,000-14,999</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>D League</td>
-      <td>N/A</td>
-      <td>N/A</td>
       <td>N/A</td>
       <td><10,000</td>
     </tr>
