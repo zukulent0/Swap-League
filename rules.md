@@ -71,8 +71,8 @@ title: Rules
     <tr>
       <td>S League</td>
       <td>15-5 or better</td>
-	    <td>  Sub 44 or better </td>
-	    <td>  13+ chain  </td>
+	    <td>  Sub 45 or better </td>
+	    <td>  12+ chain  </td>
       <td>20,000 or more</td>
     </tr>
     <tr>
