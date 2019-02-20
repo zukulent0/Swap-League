@@ -108,4 +108,4 @@ title: Rules
 </table>
 
 ## note ##  
-Tertris sprint, Puyo max chain and rating on the table are used as example your league will be defined with the score Vs the gatekeeper
+Tetris sprint, Puyo max chain and rating on the table are used as example your league will be defined with the score Vs the gatekeeper
