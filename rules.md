@@ -40,6 +40,7 @@ title: Rules
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
 - Ideally try to have your match recorded and uploaded on a video streaming service (Youtube, Twitch, Niconico, etc...)
 - Using cheats will forfeit your match and disqualify you from this league and any future leagues made by me.
+- ## Please dont use any kind of 4 wide setup. ## everyone know that 4 wide is not fun and i made this league for friendly matches.
 - Recorded video will be used to settle score disputes, cheat/lag accusations
 
 ## Joining the League ##
