@@ -69,7 +69,7 @@ title: Rules
     <tr>
       <td>S League</td>
       <td>15-6 or better</td>
-      <td>>20,000</td>
+      <td>20,000 or more</td>
     </tr>
     <tr>
       <td>A League</td>
