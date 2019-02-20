@@ -40,7 +40,6 @@ title: Rules
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
 - Ideally try to have your match recorded and uploaded on a video streaming service (Youtube, Twitch, Niconico, etc...)
 - Using cheats will forfeit your match and disqualify you from this league and any future leagues made by me.
-- **Do not use a 4-Wide Combo setup during the first two Tetris segments of a round.** 4-Wide Combo in early-game Tetris is seriously broken and overpowered and it makes games unfair and uninteresting. For this reason we do not allow usage of it during the early-game. You are allowed downstack combo whenever, or to 4-Wide mid-game (after the first two Tetris segments).
 - Recorded video will be used to settle score disputes and cheat/lag accusations. Save your replays people.
 
 ## Joining the League ##
