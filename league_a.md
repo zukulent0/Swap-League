@@ -16,6 +16,17 @@ title: (A) League Matchups
 	    <th>Rating</th>
 	</tr>
   </thead>
+	
+<tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
 </table>
 ## (A) Participants after gatekeeper ##
 
