@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Swap League
-tagline:          'PPT Competitive Swap League'
-description:      'Organized by zukulent0.'
+title:            PPT Swap League
+tagline:          'Puyo Puyo Tetris Competitive Swap League'
+description:      'Organized by zukulent0'
 url:              zukulent0.github.io
 baseurl:          '/'
 
