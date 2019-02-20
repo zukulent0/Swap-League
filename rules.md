@@ -5,33 +5,34 @@ title: Rules
 
 
 ## Contact Information ##
-- Hello! My name is **zukulent0** and I'm organizing this PPT Swap League!
-- You may contact me directly on Discord via my tag **zukulent0#7655**.
-- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will host a specific channel for the League at **#tourneys**. We will use this channel to communicate tournament matters such as scheduling matches.
+- I am the Tournament Organizer, zukulent0.
+- You may contact me via Discord @zukulent0#7655
+- The #tourneys channel on the  <a href="https://discord.gg/harddrop">Hard Drop Discord</a> will be used for scheduling matches and contacting me or your opponents.
 
 ## League Overview ##
-- Game used is Puyo Puyo Tetris for the PC (Steam)
-- Players will be placed on leagues that will contain players who belong in the same skill level
+- Games will be played on the PC version of Puyo Puyo Tetris, available through Steam.
+- Game will be played on Swap Mode.
+- Players will be placed in lettered leagues that roughly correspond to their skill levels.
 - The different leagues are given letters (S, A, B, C, D) with S league containing the strongest players
-- Maximum player count for S League is 6 players
-- Maximum player count for A, B, and C Leagues is 10 players
-- D League has NO PLAYER LIMIT!
+- The maximum player count for the S league is six (6). 
+- The maximum player count for the A, B, and C leagues is ten (10). 
+- The D league has no player limit. 
 - League size or count may be increased depending on demand
-- Leagues will run on a Round Robin bracket: S League will play every player in the league twice while the other leagues (A/B/C) will play every player in the league only once
-- Depending on size, D League will either run as Round Robin (10 or less) or Swiss format (11 or more)
-- The run time for this League Season is 4 weeks
+- The league will use a Round Robin tournament format. Players in the S league will match with every other player twice. Players in the A, B, and C leagues will match with every other player only once. If the D league contains ten (10) or fewer players, it will use the Round Robin tournament format. If it contains eleven (11) or more players, it will use the Swiss tournament format.
+- Season one of the league will run for four (4) weeks.
 
 
 ## Scheduling ##
-- Players are expected to play **2 FT15 sets** a week
-- A **FT15 set** is defined as 2 players having a 1v1 match where the first player to win 15 individual games is the winner
-- The overall schedule of the league should be determined by the time the league starts
+- Players will be expected to complete two (2) sets every week.
+- One set is a one-on-one match that ends when one player reaches fifteen (15) wins. In other words, the first player to earn 15 stars in a one-on-one match is the winner of the set.
+- League matchups will be determined when the league begins on March 8, 2019 and will be publicly available. It is your responsibility to find out who your next opponent is and schedule a match with them.
 - This means that each person's weekly matchup for Weeks 1-4 will be on display and it is up to the players to contact their opponent to schedule a good time to match
-- Scheduling for D League will be different if it runs Swiss since the current round needs to finish before determining the schedule for the next round
-- Please message the Tournament Organizer (me) when you and your opponent have agreed on a match time. Ideally use the HD #tourneys channel.
+- If the D league contains more than ten (10) players, scheduling will change, as each round must conclude before the next round can begin in a Swiss tournament format.
+- Please post to the #tourneys channel on the Hard Drop Discord Server or message me when you and your opponent have agreed upon a time to begin your set. My contact information and a link to the Hard Drop Discord Server can be found at the top of this page.
 - Since this league is an international one, we do not have a default match time because it may not be ideal for all players
 - **If you do not set up a time to play your opponent, you will forfeit that match! If you do not schedule your match a second time then you will be disqualified from the league!**
-- DO NOT BE LATE for your matches. If you are late for more than 15 minutes you forfeit the set. 
+- **DO NOT BE LATE!** If you are late by fifteen (15) minutes or more, you forfeit the set.
+**If you do not contact your opponent and agree on a time to begin the set, you will forfeit the set. Failing to do so a second time will result in DISQUALIFICATION.**
 
 ## Match-specific Rules ##
 - The recommended ruleset when making a Free Play room is: 1v1, 3 game set
