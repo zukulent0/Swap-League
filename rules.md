@@ -5,12 +5,12 @@ title: Rules
 
 
 ## Contact Information ##
-- Hello everyone! I am **saltedbread** and I will be organizing this Puyo Puyo Tetris League!
-- You may contact me via Twitter <a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>, and on Discord (saltedbread#3722)
-- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling. If you do not want to use Discord or can't, contact via Twitter is fine too!
+- Hello world! my name is **zukulent0** im organizing this PPT Swap League!
+- A lot of people wanted me to make a swap league and sure why no
+- You may contact me on Discord (zukulent0#7655)
+- The <a href="https://discord.gg/harddrop">Hard Drop Discord</a> channel will have a specific channel for this league at #pptleague. Ideally you may use this channel to contact me for things specific to the league like scheduling.
 
 ## League Overview ##
-- THIS IS A TETRIS LEAGUE!
 - Game used is Puyo Puyo Tetris for the PC (Steam)
 - Players will be placed on leagues that will contain players who belong in the same skill level
 - The different leagues are given letters (S,A,B,C,D) with S league containing the strongest players
@@ -20,7 +20,7 @@ title: Rules
 - League size may be increased based on demand
 - Leagues will run on a Round Robin bracket: S league will play every player in the league twice while the other leagues (A/B/C) will play every player in the league only once
 - Depending on size, D League will either run as Round Robin (10 or less) or Swiss format (11 or more)
-- The run time for this League season is 5 Weeks
+- The run time for this League season is 4 Weeks
 
 
 ## Scheduling ##
@@ -35,7 +35,7 @@ title: Rules
 - DO NOT BE LATE for your matches. If you are late for more than 15 minutes you forfeit the set. 
 
 ## Match Specifics ##
-- The recommended ruleset when making a Free Play room is: 1v1, Tetris Only, 3 game set
+- The recommended ruleset when making a Free Play room is: 1v1, 3 game set
 - The players can use other game counts for the set (1,2) if they agree on it
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
 - Ideally try to have your match recorded and uploaded on a video streaming service (Youtube, Twitch, Niconico, etc...)
@@ -43,9 +43,9 @@ title: Rules
 - Recorded video will be used to settle score disputes, cheat/lag accusations
 
 ## Joining the League ##
-- Please use this <a href="https://goo.gl/forms/ufoIOwyj3x2opccX2">FORM</a> to sign up for the league
+- Please use this <a href="https://goo.gl/forms/gyppupQobeH50ATK2">FORM</a> to sign up for the league
 - Based on the League you wish to join (S,A,B,C,D), you will fight the league gatekeeper to determine your placement
-- The S/A gatekeeper is Blink (<a href="https://twitter.com/harddrop">@harddrop</a>, <a href="https://steamcommunity.com/id/Brinku/">Steam</a>) while the B/C gatekeeper is saltedbread (<a href="https://twitter.com/saltedbread">@saltedbread</a>, <a href="https://steamcommunity.com/id/saltedbread/">Steam</a>)
+- The gatekeeper will be zukulent0
 - S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
 - D League entrants will play a FT3 set with <a href="https://twitter.com/saltedbread">@saltedbread</a>
 - ~~Leagues will fill up on a first come / first serve basis. If a higher league is filled, then you will get put in the lower league. In the case of the lower league filling up first, The highest qualified in the league will get pushed up to the higher league.~~
