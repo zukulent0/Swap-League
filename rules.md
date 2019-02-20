@@ -33,7 +33,7 @@ title: Rules
 - **If you do not set up a time to play your opponent, you will forfeit that match! If you do not schedule your match a second time then you will be disqualified from the league!**
 - DO NOT BE LATE for your matches. If you are late for more than 15 minutes you forfeit the set. 
 
-## Match-specific Rules##
+## Match-specific Rules ##
 - The recommended ruleset when making a Free Play room is: 1v1, 3 game set
 - The players can use other game counts for the set (1,2) if they agree on it
 - The winner must report the result of the match to the Tournament Organizer, loser does not have to
