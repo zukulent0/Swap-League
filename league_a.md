@@ -15,14 +15,13 @@ title: (A) League Matchups
 	    <th>Stream Channel</th>
 	    <th>Rating</th>
 	</tr>
-  </thead>
-	
+  </thead>	
 <tbody>
     <tr>
       <td>Fug_ebin_meme</td>
       <td>1:01</td>
       <td>6</td>
-      <td><a>href="https://www.twitch.tv/fug_ebin_meme">Fug_ebin_meme</a</td>
+       <td><a href="https://www.twitch.tv/fug_ebin_meme">twitch.tv/fug_ebin_meme</a></td>
       <td>~15k</td>
     </tr>
        <tr>
