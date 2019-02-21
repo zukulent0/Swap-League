@@ -129,6 +129,7 @@ title: (C) League Matchups
       <td></td>
       <td></td>
     </tr>
+	</tbody>
 </table>
 	
 ## (C) Week 1 Schedule ##
