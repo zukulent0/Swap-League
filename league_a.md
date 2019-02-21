@@ -31,25 +31,13 @@ title: (A) League Matchups
       <td></td>
       <td></td>
       <td></td>
+	       <td></td>
       <td></td>
     </tr>
 	   <tr>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
+		   <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -58,6 +46,7 @@ title: (A) League Matchups
       <td></td>
       <td></td>
       <td></td>
+		   <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -66,6 +55,7 @@ title: (A) League Matchups
       <td></td>
       <td></td>
       <td></td>
+		   <td></td>
       <td></td>
     </tr>
 	   <tr>
@@ -73,6 +63,7 @@ title: (A) League Matchups
       <td></td>
       <td></td>
       <td></td>
+		   <td></td>
       <td></td>
     </tr>
 	   <tr>
@@ -80,11 +71,29 @@ title: (A) League Matchups
       <td></td>
       <td></td>
       <td></td>
+		   <td></td>
       <td></td>
     </tr>
 	   <tr>
       <td></td>
       <td></td>
+      <td></td>
+		   <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+		   <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td></td>
+      <td></td>
+		   <td></td>
       <td></td>
       <td></td>
       <td></td>
