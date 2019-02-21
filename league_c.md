@@ -91,7 +91,7 @@ title: (C) League Matchups
   </tbody>
 </table>
 
-## (A) Match table ##
+## (C) Match table ##
 
 <table>
   <thead>
