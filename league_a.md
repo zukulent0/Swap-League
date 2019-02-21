@@ -14,6 +14,7 @@ title: (A) League Matchups
 	    <th>Max puyo chain(30 secs)</th>
 	    <th>Stream Channel</th>
 	    <th>Rating</th>
+	    <th>score</th>
 	</tr>
   </thead>	
 <tbody>
@@ -23,6 +24,7 @@ title: (A) League Matchups
       <td>6</td>
        <td><a href="https://www.twitch.tv/fug_ebin_meme">twitch.tv/fug_ebin_meme</a></td>
       <td>~15k</td>
+     <td>10-15</td>
     </tr>
        <tr>
       <td></td>
