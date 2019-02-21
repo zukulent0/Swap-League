@@ -96,7 +96,7 @@ title: (A) League Matchups
 <table>
   <thead>
     <tr>
-      <th> </th>
+      <th></th>
       <th>Fug_ebin_meme</th>
       <th></th>
       <th></th>
@@ -129,6 +129,7 @@ title: (A) League Matchups
       <td></td>
       <td></td>
     </tr>
+	</tbody>
 </table>
 	
 ## (A) Week 1 Schedule ##
