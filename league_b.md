@@ -126,7 +126,23 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Modest_Tomato</td>
-      <td>Chewy</td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>Chewy</td>
+      <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
