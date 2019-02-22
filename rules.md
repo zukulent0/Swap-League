@@ -48,6 +48,7 @@ title: Rules
 - The gatekeeper will be zukulent0
 - S/A/B/C league entrants will play a FT15 qualifier match with their respective gatekeeper 
 - D League entrants will play a FT3 set with zukulent0. If you win the set you can decide if you want to ascend to higher leagues doing a FT15 using the same score from the FT3.
+- **You can claim a rematch once** if you think you could be able to get a better score you can ask zukulent0 for a rematch and try to get a better score!.
 - **To determine league placement, everyone will be ranked based on their gatekeeper match results. After registration period is over the entrants will be split into their respective leagues**
 - **For example, #1-6 goes to S League. #7-16 A League, #17-26 B League, etc... adding leagues until everyone has been placed in one.**
 - D LEAGUE HAS NO LIMIT ON PLAYER COUNT!!!
