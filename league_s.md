@@ -78,7 +78,7 @@ title: (S) League Matchups
   </tbody>
 </table>
 
-## (A) Match table
+## (S) Match table
 
 <table>
   <thead>
