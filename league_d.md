@@ -25,7 +25,7 @@ title: (D) League Matchups
       <td>2892</td>
      <td>0-3</td>
     </tr>
-  </thead>
+  </tbody>
 </table>
 ## (D) Match table
 
