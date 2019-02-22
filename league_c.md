@@ -18,11 +18,11 @@ title: (C) League Matchups
 	
 <tbody>
     <tr>
-      <td>Modest_tomato</td>
-      <td>1:15</td>
-      <td>5</td>
-      <td><a href="https://www.twitch.tv/modest_tomato">twitch.tv/modest_tomato</a></td>
-      <td>9,100</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
        <tr>
       <td></td>
@@ -97,7 +97,7 @@ title: (C) League Matchups
   <thead>
     <tr>
       <th></th>
-      <th>Modest_tomato</th>
+      <th></th>
       <th></th>
       <th></th>
       <th></th>
@@ -114,7 +114,7 @@ title: (C) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Modest_Tomato</td>
+      <td></td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
