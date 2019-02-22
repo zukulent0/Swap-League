@@ -35,12 +35,12 @@ title: (B) League Matchups
       <td>5-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>aftermoon</td>
+      <td>58</td>		
+      <td>7</td>
+      <td>N/A</td>
+      <td>16,000</td>
+      <td>5-15</td>
     </tr>
 	   <tr>
       <td></td>
@@ -110,7 +110,7 @@ title: (B) League Matchups
       <th></th>
       <th>Modest_Tomato</th>
       <th>Chewy</th>
-      <th></th>
+      <th>Aftermoon</th>
       <th></th>
       <th></th>
       <th></th>
@@ -142,6 +142,22 @@ title: (B) League Matchups
     </tr>
 	  <tr>
       <td>Chewy</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>Aftermoon</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
