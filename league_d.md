@@ -27,6 +27,7 @@ title: (D) League Matchups
     </tr>
   </tbody>
 </table>
+
 ## (D) Match table
 
 <table>
