@@ -108,7 +108,7 @@ title: (A) League Matchups
   <thead>
     <tr>
       <th></th>
-      <th>Fug_ebin_meme</th>
+      <th>slayers_boner420 </th>
       <th></th>
       <th></th>
       <th></th>
@@ -125,7 +125,7 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Fug_ebin_meme</td>
+      <td>slayers_boner420 </td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
