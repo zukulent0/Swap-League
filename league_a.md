@@ -109,8 +109,8 @@ title: (A) League Matchups
     <tr>
       <th></th>
       <th>Fug_ebin_meme </th>
-      <th></th>
-      <th></th>
+      <th>KirbyCombo</th>
+      <th>VgoldenV</th>
       <th></th>
       <th></th>
       <th></th>
