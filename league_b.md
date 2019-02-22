@@ -31,7 +31,7 @@ title: (B) League Matchups
       <td>N/A</td>
       <td>9</td>
       <td><a href="https://twitch.tv/chewy9755">twitch.tv/chewy9755</a></td>
-      <td>5000</td>
+      <td>5,000</td>
       <td>5-15</td>
     </tr>
 	   <tr>
