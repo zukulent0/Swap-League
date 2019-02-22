@@ -27,12 +27,12 @@ title: (B) League Matchups
      <td>4-15</td>
     </tr>
        <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-	       <td></td>
-      <td></td>
+      <td>Chewy</td>
+      <td>N/A</td>
+      <td>9</td>
+      <td><a href="https://twitch.tv/chewy9755">twitch.tv/chewy9755</a></td>
+      <td>5000</td>
+      <td>5-15</td>
     </tr>
 	   <tr>
       <td></td>
@@ -109,7 +109,7 @@ title: (B) League Matchups
     <tr>
       <th></th>
       <th>Modest_Tomato</th>
-      <th></th>
+      <th>Chewy</th>
       <th></th>
       <th></th>
       <th></th>
@@ -126,7 +126,7 @@ title: (B) League Matchups
   <tbody>
     <tr>
       <td>Modest_Tomato</td>
-      <td> </td> <!---->
+      <td>Chewy</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
