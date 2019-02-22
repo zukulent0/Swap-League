@@ -23,24 +23,24 @@ title: (A) League Matchups
       <td>1:01</td>
       <td>6</td>
        <td><a href="https://www.twitch.tv/fug_ebin_meme">twitch.tv/fug_ebin_meme</a></td>
-      <td>~15k</td>
+      <td>~15,000</td>
      <td>10-15</td>
     </tr>
        <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-	       <td></td>
-      <td></td>
+      <td>KirbyCombo35</td>
+      <td>1:17</td>
+      <td>12</td>
+      <td><a href="https://twitch.tv/kirbycombo35">twitch.tv/kirbycombo35</a></td>
+      <td>15,270</td>
+      <td>11-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>VGoldenV</td>
+      <td>1:05</td>
+      <td>11</td>
+      <td><a href="https://twitch.tv/vgoldenv">twitch.tv/vgoldenv</a></td>
+      <td>15,500</td>
+      <td>8-9</td>
     </tr>
 	   <tr>
       <td></td>
