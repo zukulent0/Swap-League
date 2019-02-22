@@ -102,7 +102,7 @@ title: (B) League Matchups
   </tbody>
 </table>
 
-## (A) Match table
+## (B) Match table
 
 <table>
   <thead>
