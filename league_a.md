@@ -43,12 +43,12 @@ title: (A) League Matchups
       <td>8-9</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>Mat1jaczyyy</td>
+      <td>47</td>
+      <td>6</td>
+		   <td><a href="https://www.twitch.tv/mat1jaczyyy">twitch.tv/mat1jaczyyy</a></td>
+      <td>15,000</td>
+      <td>15-7</td>
     </tr>
 	   <tr>
       <td></td>
@@ -111,7 +111,7 @@ title: (A) League Matchups
       <th>Fug_ebin_meme </th>
       <th>KirbyCombo</th>
       <th>VgoldenV</th>
-      <th></th>
+      <th>Mat1jaczyyy</th>
       <th></th>
       <th></th>
       <th></th>
@@ -158,6 +158,22 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>VgoldenV</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td>Mat1jaczyyy</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
