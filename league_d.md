@@ -25,6 +25,15 @@ title: (D) League Matchups
       <td>2892</td>
      <td>0-3</td>
     </tr>
+	<tr>
+      <td>Noobnot</td>
+      <td>1:15</td>
+      <td>N/A</td>
+       <td><a href="For replays: https://m.youtube.com/channel/UCj7UuNmSX_cewp0BvkwFbzA
+">Noobnot</a></td>
+      <td>30,000</td>
+     <td>1-15</td>
+    </tr>
   </tbody>
 </table>
 
@@ -35,7 +44,7 @@ title: (D) League Matchups
     <tr>
       <th></th>
       <th>Cheep</th>
-      <th></th>
+      <th>Noobnot</th>
       <th></th>
       <th></th>
       <th></th>
@@ -52,6 +61,22 @@ title: (D) League Matchups
   <tbody>
     <tr>
       <td>Cheep</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>Noobnot</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
