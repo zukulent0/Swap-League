@@ -29,8 +29,7 @@ title: (D) League Matchups
       <td>Noobnot</td>
       <td>1:15</td>
       <td>N/A</td>
-       <td><a href="For replays: https://m.youtube.com/channel/UCj7UuNmSX_cewp0BvkwFbzA
-">Noobnot</a></td>
+       <td><a href="For replays: https://m.youtube.com/channel/UCj7UuNmSX_cewp0BvkwFbzA">Noobnot</a></td>
       <td>30,000</td>
      <td>1-15</td>
     </tr>
