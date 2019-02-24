@@ -51,28 +51,28 @@ title: (A) League Matchups
       <td>15-7</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>4tw EpicYoshi</td>
+      <td>55.10</td>
+      <td>13</td>
+      <td><a href="http://twitch.tv/4twepicyoshi">http://twitch.tv/4twepicyoshi</a></td>
+		   <td>20,000</td>
+      <td>15-6</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>SadColor</td>
+      <td>1:11</td>
+      <td>13</td>
+      <td><a href="https://www.twitch.tv/sadcolor">https://www.twitch.tv/sadcolor</a></td>
+		   <td>19,500</td>
+      <td>15-13</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>おおかみすけとうだら</td>
+      <td>43.98</td>
+      <td>5</td>
+      <td>N/A</td>
+		   <td>26,700</td>
+      <td>9-15</td>
     </tr>
 	   <tr>
       <td></td>
@@ -112,9 +112,9 @@ title: (A) League Matchups
       <th>KirbyCombo</th>
       <th>VgoldenV</th>
       <th>Mat1jaczyyy</th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>4tw EpicYoshi</th>
+      <th>Sadcolor</th>
+      <th>おおかみすけとうだら</th>
       <th></th>
       <th></th>
       <th></th>
@@ -174,6 +174,54 @@ title: (A) League Matchups
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>4tw EpicYoshi</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>Sadcolor</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>おおかみすけとうだら</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
