@@ -13,12 +13,11 @@ title: Rules
 - Games will be played on the PC version of Puyo Puyo Tetris, available through Steam.
 - Game will be played on Swap Mode.
 - Players will be placed in lettered leagues that roughly correspond to their skill levels.
-- The different leagues are given letters (S, A, B, C, D) with S league containing the strongest players
+- The different leagues are given letters (S, A, B, C) with S league containing the strongest players
 - The maximum player count for the S league is six (6). 
-- The maximum player count for the A, B, and C leagues is ten (10). 
-- The D league has no player limit. 
+- The maximum player count for the A, B, and C leagues is ten (10).  
 - League size or count may be increased depending on demand
-- The league will use a Round Robin tournament format. Players in the S league will match with every other player twice. Players in the A, B, and C leagues will match with every other player only once. If the D league contains ten (10) or fewer players, it will use the Round Robin tournament format. If it contains eleven (11) or more players, it will use the Swiss tournament format.
+- The league will use a Round Robin tournament format. Players in the S league will match with every other player twice. Players in the A, B, and C leagues will match with every other player only once.
 - Season one of the league will run for four (4) weeks.
 
 
@@ -27,7 +26,6 @@ title: Rules
 - One set is a one-on-one match that ends when one player reaches fifteen (15) wins. In other words, the first player to earn 15 stars in a one-on-one match is the winner of the set.
 - League matchups will be determined when the league begins on March 8, 2019 and will be publicly available. It is your responsibility to find out who your next opponent is and schedule a match with them.
 - This means that each person's weekly matchup for Weeks 1-4 will be on display and it is up to the players to contact their opponent to schedule a good time to match
-- If the D league contains more than ten (10) players, scheduling will change, as each round must conclude before the next round can begin in a Swiss tournament format.
 - Please post to the #tourneys channel on the Hard Drop Discord Server or message me when you and your opponent have agreed upon a time to begin your set. My contact information and a link to the Hard Drop Discord Server can be found at the top of this page.
 - Since this league is an international one, we do not have a default match time because it may not be ideal for all players
 - **If you do not set up a time to play your opponent, you will forfeit that match! If you do not schedule your match a second time then you will be disqualified from the league!**
@@ -50,7 +48,6 @@ title: Rules
 - **You can claim a rematch once** if you think you could be able to get a better score you can ask zukulent0 for a rematch and try to get a better score!.
 - **To determine league placement, everyone will be ranked based on their gatekeeper match results. After registration period is over the entrants will be split into their respective leagues**
 - **For example, #1-6 goes to S League. #7-16 A League, #17-26 B League, etc... adding leagues until everyone has been placed in one.**
-- D LEAGUE HAS NO LIMIT ON PLAYER COUNT!!!
 - This league is available for anyone in the world to join! But....
 - If you are determined to be unplayable due to lag, then you may not enter the League at our own discretion.
 - If you do not know which league you should sign up for, please use the table below:
