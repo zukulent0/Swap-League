@@ -1,9 +1,9 @@
 ---
 layout: page
-title: (D) League Matchups
+title: (C) League Matchups
 ---
 
-## (D) Participants ##
+## (C) Participants ##
 
 <table>
   <thead>
@@ -32,11 +32,11 @@ title: (D) League Matchups
        <td><a href="https://m.youtube.com/channel/UCj7UuNmSX_cewp0BvkwFbzA">Noobnot</a></td>
       <td>30,000</td>
      <td>1-15</td>
-    </tr>
+	</tr>
   </tbody>
 </table>
 
-## (D) Match table
+## (C) Match table
 
 <table>
   <thead>
@@ -94,16 +94,16 @@ title: (D) League Matchups
 </table>
 	
 	
-## (D) Week 1 Schedule ##
+## (C) Week 1 Schedule ##
 
 
 
-## (D) Week 2 Schedule ##
+## (C) Week 2 Schedule ##
 
 
-## (D) Week 3 Schedule ##
+## (C) Week 3 Schedule ##
 
 
-## (D) Week 4 Schedule ##
+## (C) Week 4 Schedule ##
 
 
