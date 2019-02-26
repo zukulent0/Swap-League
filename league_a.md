@@ -70,7 +70,7 @@ title: (A) League Matchups
       <td>おおかみすけとうだら</td>
       <td>43.98</td>
       <td>5</td>
-      <td>N/A</td>
+      <td><a href="https://www.twitch.tv/ookamisuketoudara">https://www.twitch.tv/ookamisuketoudara</a></td>
 		   <td>26,700</td>
       <td>9-15</td>
     </tr>
