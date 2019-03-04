@@ -33,8 +33,24 @@ title: (C) League Matchups
       <td>30,000</td>
      <td>1-15</td>
 	</tr>
+	<tr>
+      <td>Skeeeth</td>
+      <td>1:07</td>
+      <td>4</td>
+       <td><a href="https://www.twitch.tv/skeeeth">https://www.twitch.tv/skeeeth</a></td>
+      <td>10,007</td>
+     <td>3-15</td>
+	</tr>
+	<td>FlamingShuriken</td>
+      <td>1:09</td>
+      <td>9</td>
+       <td><a href="https://www.twitch.tv/flamingshuriken873">https://www.twitch.tv/flamingshuriken873</a></td>
+      <td>15,000</td>
+     <td>1-15</td>
+	</tr>
   </tbody>
 </table>
+
 
 ## (C) Match table
 
@@ -44,8 +60,8 @@ title: (C) League Matchups
       <th></th>
       <th>Cheep</th>
       <th>Noobnot</th>
-      <th></th>
-      <th></th>
+      <th>Skeeeth</th>
+      <th>FlamingShuriken</th>
       <th></th>
       <th></th>
       <th></th>
@@ -76,6 +92,38 @@ title: (C) League Matchups
     </tr>
 	  <tr>
       <td>Noobnot</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td>Skeeeth</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td>FlamingShuriken</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
