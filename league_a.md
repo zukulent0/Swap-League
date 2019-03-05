@@ -45,9 +45,9 @@ title: (A) League Matchups
 	   <tr>
       <td>Mat1jaczyyy</td>
       <td>47</td>
-      <td>6</td>
+      <td>8</td>
 		   <td><a href="https://www.twitch.tv/mat1jaczyyy">twitch.tv/mat1jaczyyy</a></td>
-      <td>15,000</td>
+      <td>16,000</td>
       <td>15-7</td>
     </tr>
 	   <tr>
