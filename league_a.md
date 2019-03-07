@@ -75,12 +75,12 @@ title: (A) League Matchups
       <td>9-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>RJ</td>
+      <td>51.03</td>
+      <td>7</td>
+		   <td>N/A</td>
+      <td>19,823</td>
+      <td>15-14</td>
     </tr>
 	   <tr>
       <td></td>
