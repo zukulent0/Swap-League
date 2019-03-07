@@ -26,12 +26,12 @@ title: (S) League Matchups
      <td>15-1</td>
     </tr>
        <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-	       <td></td>
-      <td></td>
+      <td>Doremy</td>
+      <td>34.95</td>
+      <td>13</td>
+             <td><a href="https://www.twitch.tv/prism_waterfall">https://www.twitch.tv/prism_waterfall</a></td>
+	       <td>50k</td>
+      <td>15-1</td>
     </tr>
 	   <tr>
       <td></td>
@@ -102,7 +102,7 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>slayers_boner420 </td>
-      <td> </td> <!---->
+      <td>Doremy</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
