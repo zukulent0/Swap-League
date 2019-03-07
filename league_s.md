@@ -85,7 +85,7 @@ title: (S) League Matchups
     <tr>
       <th></th>
       <th>slayers_boner420 </th>
-      <th></th>
+      <th>Doremy</th>
       <th></th>
       <th></th>
       <th></th>
@@ -102,7 +102,23 @@ title: (S) League Matchups
   <tbody>
     <tr>
       <td>slayers_boner420 </td>
-      <td>Doremy</td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	   <tr>
+      <td>Doremy </td>
+      <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
