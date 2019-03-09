@@ -115,16 +115,12 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	  <tr>
       <td>KirbyCombo</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -143,16 +139,12 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -172,8 +164,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	  <tr>
       <td>RJ</td>
@@ -186,16 +176,12 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	  <tr>
       <td>Amie</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
