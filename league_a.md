@@ -204,31 +204,31 @@ title: (A) League Matchups
 	
 <tbody>
     <tr>
-      <td></td>
+      <td>KirbyCombo vs RJ</td>
       <td></td>
     </tr>
        <tr>
-      <td></td>
-      <td></td>
-    </tr>
-	 <tr>
-      <td></td>
+      <td>RJ vs VgoldenV</td>
       <td></td>
     </tr>
 	 <tr>
-      <td></td>
-      <td></td>
-    </tr>
-	 <tr>
-      <td></td>
+      <td>Amie vs matt1jaczyyy</td>
       <td></td>
     </tr>
 	 <tr>
-      <td></td>
+      <td>KirbyCombo vs Fug_Ebin_Meme</td>
       <td></td>
     </tr>
 	 <tr>
+      <td>Amie vs おおかみすけとうだら</td>
       <td></td>
+    </tr>
+	 <tr>
+      <td>Fug_Ebin_Meme vs おおかみすけとうだら</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>VgoldenV vs Matt1jaczyyy</td>
       <td></td>
     </tr>
 	 <tr>
