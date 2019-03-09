@@ -118,6 +118,7 @@ title: (A) League Matchups
       <th>RJ</th>
       <th>Amie</th>
       <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -134,8 +135,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>KirbyCombo</td>
@@ -150,8 +149,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>VgoldenV</td>
@@ -166,8 +163,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
@@ -182,8 +177,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>4tw EpicYoshi</td>
@@ -214,8 +207,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>おおかみすけとうだら</td>
@@ -230,8 +221,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>RJ</td>
@@ -246,8 +235,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>Amie</td>
@@ -262,8 +249,6 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	</tbody>
 </table>
