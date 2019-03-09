@@ -231,19 +231,6 @@ title: (A) League Matchups
       <td>VgoldenV vs Matt1jaczyyy</td>
       <td></td>
     </tr>
-	 <tr>
-      <td></td>
-      <td></td>
-    </tr>
-	 <tr>
-      <td></td>
-      <td></td>
-    </tr>
-	 <tr>
-      <td></td>
-      <td></td>
-    </tr>
-	
   </tbody>
 </table>
 
