@@ -57,24 +57,6 @@ title: (S) League Matchups
 		   <td></td>
       <td></td>
     </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-    </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-    </tr>
-	
-    
   </tbody>
 </table>
 
@@ -90,13 +72,7 @@ title: (S) League Matchups
       <th>Sadcolor</th>
       <th></th>
       <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
+
     </tr>
   </thead>
   <tbody>
