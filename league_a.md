@@ -83,12 +83,12 @@ title: (A) League Matchups
       <td>15-14</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>Amie</td>
+      <td>42.40</td>
+      <td>12</td>
+		   <td>N/A</td>
+      <td>16,236</td>
+      <td>13-15</td>
     </tr>
 	   <tr>
       <td></td>
@@ -115,8 +115,8 @@ title: (A) League Matchups
       <th>4tw EpicYoshi</th>
       <th>Sadcolor</th>
       <th>おおかみすけとうだら</th>
-      <th></th>
-      <th></th>
+      <th>RJ</th>
+      <th>Amie</th>
       <th></th>
       <th></th>
       <th></th>
