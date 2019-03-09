@@ -131,7 +131,6 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <
     </tr>
 	  <tr>
       <td>Chewy</td>
