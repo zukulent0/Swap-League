@@ -42,7 +42,7 @@ title: (B) League Matchups
       <td>16,000</td>
       <td>5-15</td>
     </tr>
-	   <tr>
+  <tr>
       <td>Grass_</td>
       <td>1:10</td>
       <td>8</td>
@@ -50,7 +50,7 @@ title: (B) League Matchups
       <td>8,000</td>
       <td>6-15</td>
     </tr>
-	   <tr>
+	<tr>
       <td>Fyzzl</td>
       <td>55.11</td>
       <td>4</td>
@@ -58,7 +58,7 @@ title: (B) League Matchups
 		   <td>15,653</td>
       <td>7-15</td>
     </tr>
-	   <tr>
+	 <tr>
       <td>Nameless</td>
       <td>1:23</td>
       <td>7</td>
@@ -169,6 +169,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
     </tr>
+	   <tr>
 	  <td>Fyzzl</td>
       <td></td> <!---->
       <td></td> <!---->
@@ -180,6 +181,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
     </tr>
+	   <tr>
     <td>Nameless</td>
       <td></td> <!---->
       <td></td> <!---->
