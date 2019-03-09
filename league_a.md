@@ -96,8 +96,6 @@ title: (A) League Matchups
       <th>KirbyCombo</th>
       <th>VgoldenV</th>
       <th>Mat1jaczyyy</th>
-      <th>4tw EpicYoshi</th>
-      <th>Sadcolor</th>
       <th>おおかみすけとうだら</th>
       <th>RJ</th>
       <th>Amie</th>
