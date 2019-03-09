@@ -48,6 +48,14 @@ title: (C) League Matchups
       <td>15,000</td>
      <td>1-15</td>
 	</tr>
+		</tr>
+	<td>321MrHaatz</td>
+      <td>1:18</td>
+      <td>5</td>
+       <td><a href="https://www.twitch.tv/321mrhaatz">https://www.twitch.tv/321mrhaatz</a></td>
+      <td>6,200</td>
+     <td>0-15</td>
+	</tr>
   </tbody>
 </table>
 
@@ -62,10 +70,7 @@ title: (C) League Matchups
       <th>Noobnot</th>
       <th>Skeeeth</th>
       <th>FlamingShuriken</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>321MrHaatz</th>
       <th></th>
       <th></th>
       <th></th>
@@ -86,9 +91,6 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>Noobnot</td>
@@ -102,9 +104,6 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	   <tr>
       <td>Skeeeth</td>
@@ -118,9 +117,6 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	   <tr>
       <td>FlamingShuriken</td>
@@ -134,9 +130,19 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+    </tr>
+	  	   <tr>
+      <td>321MrHaatz</td>
+      <td> </td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	</tbody>
 </table>
