@@ -118,9 +118,6 @@ title: (A) League Matchups
       <th>RJ</th>
       <th>Amie</th>
       <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -222,6 +219,38 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>おおかみすけとうだら</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>RJ</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td>Amie</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
