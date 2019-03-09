@@ -40,7 +40,7 @@ title: (C) League Matchups
        <td><a href="https://www.twitch.tv/skeeeth">https://www.twitch.tv/skeeeth</a></td>
       <td>10,007</td>
      <td>3-15</td>
-	</tr>
+	<tr>
 	<td>FlamingShuriken</td>
       <td>1:09</td>
       <td>9</td>
@@ -48,7 +48,7 @@ title: (C) League Matchups
       <td>15,000</td>
      <td>1-15</td>
 	</tr>
-		</tr>
+		<tr>
 	<td>321MrHaatz</td>
       <td>1:18</td>
       <td>5</td>
