@@ -51,20 +51,20 @@ title: (B) League Matchups
       <td>6-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>Fyzzl</td>
+      <td>55.11</td>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/fyzzl">https://www.twitch.tv/fyzzl</a></td>
+		   <td>15,653</td>
+      <td>7-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>Nameless</td>
+      <td>1:23</td>
+      <td>7</td>
+      <td><a href="https://www.twitch.tv/gdnameless">https://www.twitch.tv/gdnameless</a></td>
+		   <td>14,924</td>
+      <td>4-15</td>
     </tr>
 	   <tr>
       <td></td>
@@ -112,8 +112,8 @@ title: (B) League Matchups
       <th>Chewy</th>
       <th>Aftermoon</th>
       <th>Grass_</th>
-      <th></th>
-      <th></th>
+      <th>Fyzzl</th>
+      <th>Nameless</th>
       <th></th>
       <th></th>
       <th></th>
@@ -135,10 +135,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
+      <
     </tr>
 	  <tr>
       <td>Chewy</td>
@@ -151,10 +148,6 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  <tr>
       <td>Aftermoon</td>
@@ -167,10 +160,6 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
     </tr>
 	  	  <tr>
       <td>Grass_</td>
@@ -183,10 +172,29 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+    </tr>
+	  <td>Fyzzl</td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+    <td>Nameless</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+   
     </tr>
 	</tbody>
 </table>
