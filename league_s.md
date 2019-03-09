@@ -33,21 +33,21 @@ title: (S) League Matchups
 	       <td>50k</td>
       <td>15-1</td>
     </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+	      <tr>
+      <td>4tw EpicYoshi</td>
+      <td>55.10</td>
+      <td>13</td>
+      <td><a href="http://twitch.tv/4twepicyoshi">http://twitch.tv/4twepicyoshi</a></td>
+		   <td>20,000</td>
+      <td>15-6</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>SadColor</td>
+      <td>1:11</td>
+      <td>13</td>
+      <td><a href="https://www.twitch.tv/sadcolor">https://www.twitch.tv/sadcolor</a></td>
+		   <td>19,500</td>
+      <td>15-13</td>
     </tr>
 	   <tr>
       <td></td>
@@ -86,8 +86,8 @@ title: (S) League Matchups
       <th></th>
       <th>slayers_boner420 </th>
       <th>Doremy</th>
-      <th></th>
-      <th></th>
+      <th>4twEpicyoshi</th>
+      <th>Sadcolor</th>
       <th></th>
       <th></th>
       <th></th>
@@ -104,33 +104,37 @@ title: (S) League Matchups
       <td>slayers_boner420 </td>
       <td></td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td>
-      <td></td>
-    </tr>
+  </tr>
 	   <tr>
       <td>Doremy </td>
       <td></td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	  <tr>
+      <td>4twEpicYoshi </td>
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+    </tr>
+	  <tr>
+      <td>Sadcolor </td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td>
-      <td></td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	</tbody>
 </table>
