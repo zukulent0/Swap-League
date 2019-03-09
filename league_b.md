@@ -191,7 +191,6 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-   
     </tr>
 	</tbody>
 </table>
