@@ -50,8 +50,7 @@ title: (A) League Matchups
       <td>16,000</td>
       <td>15-7</td>
     </tr>
-	
-	   <tr>
+	  <tr>
       <td>おおかみすけとうだら</td>
       <td>43.98</td>
       <td>5</td>
@@ -164,7 +163,7 @@ title: (A) League Matchups
       <td></td> <!---->
     </tr>
 
-	  <tr>
+ <tr>
       <td>おおかみすけとうだら</td>
       <td> </td> <!---->
       <td></td> <!---->
