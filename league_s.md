@@ -135,6 +135,14 @@ title: (S) League Matchups
       <td>Sadcolor vs Doremy</td>
       <td></td>
     </tr>
+	 <tr>
+      <td>Sadcolor vs slayers_boner420</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>4twEpicYoshi vs Doremy</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
