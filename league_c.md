@@ -161,35 +161,27 @@ title: (C) League Matchups
 	
 <tbody>
     <tr>
-      <td>Fug_ebin_meme	 vs RJ</td>
+      <td>Cheep	 vs Skeeeth</td>
       <td></td>
     </tr>
        <tr>
-      <td>KirbyCombo25 vs Ookami</td>
+      <td>Noobnot vs 321MrHaatz</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>VgoldenV vs Amie</td>
+      <td>Skeeeth vs FlamingShuriken</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Matt1jaczyyy vs RJ</td>
+      <td>FlamingShuriken vs 321MrHaatz</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Ookami vs Neko_Nyaa</td>
+      <td>Ccnut vs Noobnot</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Amie vs Matt1jaczyyy</td>
-      <td></td>
-    </tr>
-	 <tr>
-      <td>Neko_nyaa vs KirbyCombo35</td>
-      <td></td>
-    </tr>
-		 <tr>
-      <td>Fug_Ebin_Meme vs VgoldenV</td>
+      <td>Ccnut vs Cheep</td>
       <td></td>
     </tr>
   </tbody>
