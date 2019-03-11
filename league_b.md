@@ -313,10 +313,6 @@ title: (B) League Matchups
       <td></td>
     </tr>
 			 <tr>
-      <td>Shard Nguyễn vs Modest_Tomato</td>
-      <td></td>
-    </tr>
-			 <tr>
       <td>Chewy vs Leetroll</td>
       <td></td>
     </tr>
