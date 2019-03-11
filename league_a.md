@@ -51,7 +51,7 @@ title: (A) League Matchups
       <td>15-7</td>
     </tr>
 	  <tr>
-      <td>おおかみすけとうだら</td>
+      <td>Ookami</td>
       <td>43.98</td>
       <td>5</td>
       <td><a href="https://www.twitch.tv/ookamisuketoudara">https://www.twitch.tv/ookamisuketoudara</a></td>
@@ -96,7 +96,7 @@ title: (A) League Matchups
       <th>KirbyCombo</th>
       <th>VgoldenV</th>
       <th>Mat1jaczyyy</th>
-      <th>おおかみすけとうだら</th>
+      <th>Ookami</th>
       <th>RJ</th>
       <th>Amie</th>
       <th>Neko_Nyaa</th>
@@ -154,7 +154,7 @@ title: (A) League Matchups
     </tr>
 
  <tr>
-      <td>おおかみすけとうだら</td>
+      <td>Ookami</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
@@ -216,31 +216,35 @@ title: (A) League Matchups
 	
 <tbody>
     <tr>
-      <td>KirbyCombo vs RJ</td>
+      <td>Fug_ebin_meme	 vs RJ</td>
       <td></td>
     </tr>
        <tr>
-      <td>RJ vs VgoldenV</td>
+      <td>KirbyCombo25 vs Ookami</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Amie vs matt1jaczyyy</td>
+      <td>VgoldenV vs Amie</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>KirbyCombo vs Fug_Ebin_Meme</td>
+      <td>Matt1jaczyyy vs RJ</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Amie vs おおかみすけとうだら</td>
+      <td>Ookami vs Neko_Nyaa</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Fug_Ebin_Meme vs おおかみすけとうだら</td>
+      <td>Amie vs Matt1jaczyyy</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>VgoldenV vs Matt1jaczyyy</td>
+      <td>Neko_nyaa vs KirbyCombo35</td>
+      <td></td>
+    </tr>
+		 <tr>
+      <td>Fug_Ebin_Meme vs VgoldenV</td>
       <td></td>
     </tr>
   </tbody>
