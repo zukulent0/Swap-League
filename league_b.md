@@ -94,8 +94,7 @@ title: (B) League Matchups
       <td>Shard Nguyễn</td>
       <td>52.36</td>
       <td>5</td>
-      <td><a href="https://www.youtube.com/channel/UComPnvhf92TKdIdWAsPUD9Q?view_as=subscriber
-"></a>Shard Nguyễn</td>
+      <td><a href="https://www.youtube.com/channel/UComPnvhf92TKdIdWAsPUD9Q?view_as=subscriber"></a>Shard Nguyễn</td>
       <td>20,278</td>
       <td> - </td>
     </tr>
