@@ -135,12 +135,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  <tr>
       <td>Chewy</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -163,12 +165,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  	  <tr>
       <td>Grass_</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -191,12 +195,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Nameless</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -219,12 +225,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Meiling</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -247,9 +255,11 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Shard Nguyễn</td>
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
