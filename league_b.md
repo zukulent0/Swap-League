@@ -118,6 +118,7 @@ title: (B) League Matchups
       <th>Meiling</th>
       <th>Leetroll</th>
       <th>Shard Nguyễn</th>
+      <th>W/L</th>
       <th>Scores</th>
     </tr>
   </thead>
