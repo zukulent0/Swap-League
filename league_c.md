@@ -56,8 +56,7 @@ title: (C) League Matchups
       <td>6,200</td>
      <td>0-15</td>
 	</tr>
-  </tbody>
-			<tr>
+	<tr>
 	<td>Ccnut</td>
       <td>N/A</td>
       <td>N/A</td>
