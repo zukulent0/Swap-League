@@ -62,8 +62,8 @@ title: (S) League Matchups
       <th>Doremy</th>
       <th>4twEpicyoshi</th>
       <th>Sadcolor</th>
-      <th></th>
-      <th></th>
+      <th>W/L</th>
+      <th>Score</th>
 
     </tr>
   </thead>
