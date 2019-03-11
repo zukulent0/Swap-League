@@ -118,6 +118,7 @@ title: (B) League Matchups
       <th>Meiling</th>
       <th>Leetroll</th>
       <th>Shard Nguyễn</th>
+      <th>Scores</th>
     </tr>
   </thead>
   <tbody>
@@ -126,6 +127,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -146,12 +148,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
      <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  <tr>
       <td>Aftermoon</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -172,12 +176,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
 	  <td>Fyzzl</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -198,12 +204,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Egguu</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -224,6 +232,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Leetroll</td>
@@ -237,12 +246,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Shard Nguyễn</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
