@@ -49,14 +49,6 @@ title: (S) League Matchups
 		   <td>19,500</td>
       <td>15-13</td>
     </tr>
-	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
@@ -118,7 +110,33 @@ title: (S) League Matchups
 	
 ## (S) Week 1 Schedule ##
 
-
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>slayers_boner420 vs 4twEpicYoshi</td>
+      <td></td>
+    </tr>
+       <tr>
+      <td>Doremy vs slayers_boner420</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>4twEpicYoshi vs Sadcolor</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Sadcolor vs Doremy</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (S) Week 2 Schedule ##
 
