@@ -57,6 +57,15 @@ title: (C) League Matchups
      <td>0-15</td>
 	</tr>
   </tbody>
+			<tr>
+	<td>Ccnut</td>
+      <td>N/A</td>
+      <td>N/A</td>
+       <td>N/A</td>
+      <td>N/A</td>
+     <td> - </td>
+	</tr>
+  </tbody>
 </table>
 
 
@@ -71,11 +80,8 @@ title: (C) League Matchups
       <th>Skeeeth</th>
       <th>FlamingShuriken</th>
       <th>321MrHaatz</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>Cnut</th>
+      <th>Score</th>
     </tr>
   </thead>
   <tbody>
@@ -84,9 +90,6 @@ title: (C) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -101,18 +104,12 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	   <tr>
       <td>Skeeeth</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -127,9 +124,6 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
     </tr>
 	  	   <tr>
       <td>321MrHaatz</td>
@@ -139,6 +133,13 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	   <tr>
+      <td>Ccnut</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -150,6 +151,49 @@ title: (C) League Matchups
 	
 ## (C) Week 1 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Fug_ebin_meme	 vs RJ</td>
+      <td></td>
+    </tr>
+       <tr>
+      <td>KirbyCombo25 vs Ookami</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>VgoldenV vs Amie</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Matt1jaczyyy vs RJ</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Ookami vs Neko_Nyaa</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Amie vs Matt1jaczyyy</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Neko_nyaa vs KirbyCombo35</td>
+      <td></td>
+    </tr>
+		 <tr>
+      <td>Fug_Ebin_Meme vs VgoldenV</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## (C) Week 2 Schedule ##
