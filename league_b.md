@@ -267,7 +267,49 @@ title: (B) League Matchups
 	
 	
 ## (B) Week 1 Schedule ##
-
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Fug_ebin_meme	 vs RJ</td>
+      <td></td>
+    </tr>
+       <tr>
+      <td>KirbyCombo25 vs Ookami</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>VgoldenV vs Amie</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Matt1jaczyyy vs RJ</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Ookami vs Neko_Nyaa</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Amie vs Matt1jaczyyy</td>
+      <td></td>
+    </tr>
+	 <tr>
+      <td>Neko_nyaa vs KirbyCombo35</td>
+      <td></td>
+    </tr>
+		 <tr>
+      <td>Fug_Ebin_Meme vs VgoldenV</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (B) Week 2 Schedule ##
 
