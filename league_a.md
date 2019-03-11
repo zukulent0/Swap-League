@@ -100,6 +100,7 @@ title: (A) League Matchups
       <th>RJ</th>
       <th>Amie</th>
       <th>Neko_Nyaa</th>
+      <th>W/L</th>
       <th>Scores</th>
     </tr>
   </thead>
@@ -109,6 +110,7 @@ title: (A) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -127,6 +129,7 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  <tr>
       <td>VgoldenV</td>
@@ -139,12 +142,14 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -164,12 +169,14 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  <tr>
       <td>RJ</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -188,10 +195,12 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
       <tr>
       <td>Neko_Nyaa</td>
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
