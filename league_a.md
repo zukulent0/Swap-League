@@ -75,12 +75,12 @@ title: (A) League Matchups
       <td>13-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Neko_nyaa</td>
+      <td>1:03</td>
+		   <td>6</td>
+      <td><a href="https://www.youtube.com/channel/UCDEoz0vM7yIOF15jDy16_fQ">Neko_nyaa</a></td>
+      <td>16,409</td>
+      <td> - </td>
     </tr>
     
   </tbody>
@@ -99,8 +99,8 @@ title: (A) League Matchups
       <th>おおかみすけとうだら</th>
       <th>RJ</th>
       <th>Amie</th>
-      <th></th>
-      <th></th>
+      <th>Neko_Nyaa</th>
+      <th>Scores</th>
     </tr>
   </thead>
   <tbody>
@@ -179,6 +179,18 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>Amie</td>
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+      <tr>
+      <td>Neko_Nyaa</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
