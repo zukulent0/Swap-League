@@ -81,6 +81,7 @@ title: (C) League Matchups
       <th>FlamingShuriken</th>
       <th>321MrHaatz</th>
       <th>Cnut</th>
+      <th>W/L</th>
       <th>Score</th>
     </tr>
   </thead>
@@ -92,6 +93,7 @@ title: (C) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->    
       <td></td> <!---->
       <td></td> <!---->
     </tr>
@@ -102,6 +104,7 @@ title: (C) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->  
       <td></td> <!---->
       <td></td> <!---->
     </tr>
@@ -110,6 +113,7 @@ title: (C) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -124,6 +128,7 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	  	   <tr>
       <td>321MrHaatz</td>
@@ -134,12 +139,14 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
       <td>Ccnut</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
