@@ -277,37 +277,54 @@ title: (B) League Matchups
 	
 <tbody>
     <tr>
-      <td>Fug_ebin_meme	 vs RJ</td>
+      <td>Modest_tomato	vs Shard Nguyễn</td>
       <td></td>
     </tr>
        <tr>
-      <td>KirbyCombo25 vs Ookami</td>
+      <td>Chewy vs Leetroll</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>VgoldenV vs Amie</td>
+      <td>aftermoon vs Modest_Tomato</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Matt1jaczyyy vs RJ</td>
+      <td>Grass_w vs Nameless</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Ookami vs Neko_Nyaa</td>
+      <td>Fyzzl vs Chewy</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Amie vs Matt1jaczyyy</td>
+      <td>Nameless vs Fyzzl</td>
       <td></td>
     </tr>
 	 <tr>
-      <td>Neko_nyaa vs KirbyCombo35</td>
+      <td>Egguu vs Grass_</td>
       <td></td>
     </tr>
 		 <tr>
-      <td>Fug_Ebin_Meme vs VgoldenV</td>
+      <td>Meiling vs Aftermoon</td>
       <td></td>
     </tr>
+			 <tr>
+      <td>Leetroll vs Shard Nguyễn</td>
+      <td></td>
+    </tr>
+			 <tr>
+      <td>Shard Nguyễn vs Modest_Tomato</td>
+      <td></td>
+    </tr>
+			 <tr>
+      <td>Chewy vs Leetroll</td>
+      <td></td>
+    </tr>
+			 <tr>
+      <td>Egguu vs Meiling</td>
+      <td></td>
+    </tr>
+	
   </tbody>
 </table>
 
