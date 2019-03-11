@@ -36,7 +36,7 @@ title: (B) League Matchups
     </tr>
 	   <tr>
       <td>aftermoon</td>
-      <td>58</td>		
+      <td>0:58</td>		
       <td>7</td>
       <td>N/A</td>
       <td>16,000</td>
@@ -67,36 +67,37 @@ title: (B) League Matchups
       <td>4-15</td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
+      <td>egguu</td>
+      <td>1:05</td>
+      <td>10</td>
+      <td><a href="https://www.twitch.tv/egguu">https://www.twitch.tv/egguu</a></td>
+      <td>2,000</td>
+      <td> - </td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>Meiling</td>
+      <td>0:43</td>
+      <td>7</td>
+      <td>N/A</td>
+      <td>17,000</td>
+      <td> - </td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
+      <td>Leetroll</td>
+      <td>58.73</td>
+      <td> 8 </td>
+      <td><a href="https://www.twitch.tv/L33tr0ll">https://www.twitch.tv/L33tr0ll</a></td>
+      <td>10,500</td>
+      <td> - </td>
     </tr>
 	   <tr>
-      <td></td>
-      <td></td>
-		   <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Shard Nguyễn</td>
+      <td>52.36</td>
+      <td>5</td>
+      <td><a href="https://www.youtube.com/channel/UComPnvhf92TKdIdWAsPUD9Q?view_as=subscriber
+"></a>Shard Nguyễn</td>
+      <td>20,278</td>
+      <td> - </td>
     </tr>
     
   </tbody>
@@ -114,9 +115,10 @@ title: (B) League Matchups
       <th>Grass_</th>
       <th>Fyzzl</th>
       <th>Nameless</th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>Egguu</th>
+      <th>Meiling</th>
+      <th>Leetroll</th>
+      <th>Shard Nguyễn</th>
     </tr>
   </thead>
   <tbody>
@@ -125,6 +127,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -143,12 +146,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+     <td></td> <!---->
     </tr>
 	  <tr>
       <td>Aftermoon</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -167,6 +172,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
 	  <td>Fyzzl</td>
@@ -179,12 +185,66 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td></td> <!---->
     </tr>
 	   <tr>
     <td>Nameless</td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	   <tr>
+    <td>Egguu</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	   <tr>
+    <td>Meiling</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	   <tr>
+    <td>Leetroll</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+    </tr>
+	   <tr>
+    <td>Shard Nguyễn</td>
+      <td></td> <!---->
+      <td></td> <!---->
+      <td> </td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
