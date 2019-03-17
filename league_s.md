@@ -73,9 +73,9 @@ title: (S) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+10</td> <!---->
   </tr>
 	   <tr>
       <td>Doremy </td>
@@ -97,12 +97,12 @@ title: (S) League Matchups
     </tr>
 	  <tr>
       <td>Sadcolor </td>
+      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-10</td> <!---->
     </tr>
 	</tbody>
 </table>
