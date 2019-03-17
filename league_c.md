@@ -94,8 +94,8 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>13-15</td> <!---->    
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-2</td> <!---->
     </tr>
 	  <tr>
       <td>Noobnot</td>
@@ -149,8 +149,8 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+2</td> <!---->
     </tr>
 	</tbody>
 </table>
