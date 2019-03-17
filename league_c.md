@@ -88,12 +88,12 @@ title: (C) League Matchups
   <tbody>
     <tr>
       <td>Cheep</td>
+      <td></td> <!---->
+      <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->    
+      <td>13-15</td> <!---->    
       <td></td> <!---->
       <td></td> <!---->
     </tr>
@@ -189,7 +189,7 @@ title: (C) League Matchups
     </tr>
 	 <tr>
       <td>Ccnut vs Cheep</td>
-      <td></td>
+      <td>Played on March 11th</td>
     </tr>
   </tbody>
 </table>
