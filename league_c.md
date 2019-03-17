@@ -143,7 +143,7 @@ title: (C) League Matchups
     </tr>
 	   <tr>
       <td>Ccnut</td>
-      <td> </td> <!---->
+      <td>15-13</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
