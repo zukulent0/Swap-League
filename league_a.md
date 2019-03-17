@@ -107,16 +107,16 @@ title: (A) League Matchups
   <tbody>
     <tr>
       <td>Fug_ebin_meme </td>
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>3-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-12</td> <!---->
     </tr>
 	  <tr>
       <td>KirbyCombo</td>
@@ -133,7 +133,7 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>VgoldenV</td>
-      <td> </td> <!---->
+      <td>15-3</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
@@ -141,8 +141,8 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+12</td> <!---->
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
