@@ -133,7 +133,7 @@ title: (S) League Matchups
     </tr>
 	 <tr>
       <td>Sadcolor vs slayers_boner420</td>
-      <td></td>
+      <td>Played on March 13th</td>
     </tr>
   </tbody>
 </table>
