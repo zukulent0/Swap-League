@@ -146,16 +146,16 @@ title: (A) League Matchups
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>1-15</td> <!---->
       <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-14</td> <!---->
     </tr>
 
  <tr>
@@ -186,16 +186,16 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>Amie</td>
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>15-1</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+14</td> <!---->
     </tr>
       <tr>
       <td>Neko_Nyaa</td>
