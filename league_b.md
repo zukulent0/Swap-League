@@ -115,7 +115,7 @@ title: (B) League Matchups
       <th>Fyzzl</th>
       <th>Nameless</th>
       <th>Egguu</th>
-      <th>~Meiling~</th>
+      <th><del>Meiling</del></th>
       <th>Leetroll</th>
       <th>Shard Nguyễn</th>
       <th>W/L</th>
