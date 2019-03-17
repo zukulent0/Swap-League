@@ -148,10 +148,10 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>9-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-     <td></td> <!---->
-      <td></td> <!---->
+     <td>0-1</td> <!---->
+      <td>-6</td> <!---->
     </tr>
 	  <tr>
       <td>Aftermoon</td>
@@ -246,7 +246,7 @@ title: (B) League Matchups
 	   <tr>
     <td>Leetroll</td>
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-9</td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -255,8 +255,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+6</td> <!---->
     </tr>
 	   <tr>
     <td>Shard Nguyễn</td>
@@ -289,7 +289,7 @@ title: (B) League Matchups
 <tbody>
     <tr>
       <td>Modest_tomato	vs Shard Nguyễn</td>
-      <td></td>
+      <td>Played on March 13th</td>
     </tr>
        <tr>
       <td>Chewy vs Leetroll</td>
@@ -297,7 +297,7 @@ title: (B) League Matchups
     </tr>
 	 <tr>
       <td>aftermoon vs Modest_Tomato</td>
-      <td></td>
+      <td>Played on March 13th</td>
     </tr>
 	 <tr>
       <td>Grass_w vs Nameless</td>
@@ -309,7 +309,7 @@ title: (B) League Matchups
     </tr>
 	 <tr>
       <td>Nameless vs Fyzzl</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Egguu vs Grass_</td>
@@ -325,7 +325,7 @@ title: (B) League Matchups
     </tr>
 			 <tr>
       <td>Chewy vs Leetroll</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 			 <tr>
       <td>Egguu vs Meiling</td>
