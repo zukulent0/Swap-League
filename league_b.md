@@ -229,7 +229,7 @@ title: (B) League Matchups
       <td></td> <!---->
     </tr>
 	   <tr>
-    <td>~~Meiling~~</td>
+		   <td><del>Meiling</del></td>
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
