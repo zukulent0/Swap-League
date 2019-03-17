@@ -155,7 +155,7 @@ title: (B) League Matchups
     </tr>
 	  <tr>
       <td>Aftermoon</td>
-      <td></td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">15-9</a></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
@@ -165,8 +165,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+6</td> <!---->
     </tr>
 	  	  <tr>
       <td>Grass_</td>
