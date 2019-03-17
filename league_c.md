@@ -121,25 +121,25 @@ title: (C) League Matchups
     </tr>
 	   <tr>
       <td>FlamingShuriken</td>
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>15-2</td> <!---->
       <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+13</td> <!---->
     </tr>
 	  	   <tr>
       <td>321MrHaatz</td>
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>2-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-13</td> <!---->
     </tr>
 	   <tr>
       <td>Ccnut</td>
