@@ -305,7 +305,7 @@ title: (B) League Matchups
     </tr>
 	 <tr>
       <td>Fyzzl vs Chewy</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Nameless vs Fyzzl</td>
