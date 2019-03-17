@@ -260,7 +260,7 @@ title: (B) League Matchups
     </tr>
 	   <tr>
     <td>Shard Nguyễn</td>
-      <td></td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">15-1</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
