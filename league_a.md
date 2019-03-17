@@ -127,9 +127,9 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>15-5</td> <!---->
+      <td>1-0</td> <!---->
+      <td>+10</td> <!---->
     </tr>
 	  <tr>
       <td>VgoldenV</td>
@@ -200,15 +200,15 @@ title: (A) League Matchups
       <tr>
       <td>Neko_Nyaa</td>
       <td> </td> <!---->
-      <td></td> <!---->
+      <td>5-15</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-1</td> <!---->
+      <td>-10</td> <!---->
     </tr>
 	</tbody>
 </table>
