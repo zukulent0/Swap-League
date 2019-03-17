@@ -226,7 +226,7 @@ title: (A) League Matchups
 <tbody>
     <tr>
       <td>Fug_ebin_meme	 vs RJ</td>
-      <td></td>
+      <td>Played on March 15th</td>
     </tr>
        <tr>
       <td>KirbyCombo25 vs Ookami</td>
@@ -234,11 +234,11 @@ title: (A) League Matchups
     </tr>
 	 <tr>
       <td>VgoldenV vs Amie</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Matt1jaczyyy vs RJ</td>
-      <td></td>
+      <td>Played on March 15th</td>
     </tr>
 	 <tr>
       <td>Ookami vs Neko_Nyaa</td>
@@ -246,15 +246,15 @@ title: (A) League Matchups
     </tr>
 	 <tr>
       <td>Amie vs Matt1jaczyyy</td>
-      <td></td>
+      <td>Played on March 14th</td>
     </tr>
 	 <tr>
       <td>Neko_nyaa vs KirbyCombo35</td>
-      <td></td>
+      <td>Played on march 15th</td>
     </tr>
 		 <tr>
       <td>Fug_Ebin_Meme vs VgoldenV</td>
-      <td></td>
+      <td>Played on march 12th</td>
     </tr>
   </tbody>
 </table>
