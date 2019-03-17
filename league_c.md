@@ -104,9 +104,9 @@ title: (C) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->  
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>2-15</td> <!---->  
+      <td>0-1</td> <!---->
+      <td>-13</td> <!---->
     </tr>
 	   <tr>
       <td>Skeeeth</td>
@@ -144,13 +144,13 @@ title: (C) League Matchups
 	   <tr>
       <td>Ccnut</td>
       <td>15-13</td> <!---->
-      <td></td> <!---->
+      <td>15-2</td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+2</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+15</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -173,7 +173,7 @@ title: (C) League Matchups
     </tr>
        <tr>
       <td>Noobnot vs 321MrHaatz</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Skeeeth vs FlamingShuriken</td>
@@ -181,11 +181,11 @@ title: (C) League Matchups
     </tr>
 	 <tr>
       <td>FlamingShuriken vs 321MrHaatz</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Ccnut vs Noobnot</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>Ccnut vs Cheep</td>
