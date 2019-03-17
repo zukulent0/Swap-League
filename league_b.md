@@ -126,8 +126,8 @@ title: (B) League Matchups
     <tr>
       <td>Modest_Tomato</td>
       <td></td> <!---->
+      <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">9-15</a></td> <!---->
-      <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -135,8 +135,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">1-15</a></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-2</td> <!---->
+      <td>-20</td> <!---->
     </tr>
 	  <tr>
       <td>Chewy</td>
@@ -270,8 +270,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>1-0</td> <!---->
+      <td>+14</td> <!---->
     </tr>
 	</tbody>
 </table>
