@@ -287,7 +287,7 @@ title: (A) League Matchups
       <td></td>
     </tr>
 	<tr>
-      <td>Amie vs Kirbycombo35</td>
+      <td>VgoldenV vs Kirbycombo35</td>
       <td></td>
     </tr>
 	<tr>
