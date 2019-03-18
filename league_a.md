@@ -261,6 +261,50 @@ title: (A) League Matchups
 
 ## (A) Week 2 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Matt1jaczyyy vs Ookami</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Ookami vs VgoldenV</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Kirbycombo35 vs Matt1jaczyyy</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Fug_ebin_meme vs Kirbycombo35</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Amie vs Kirbycombo35</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>RJ vs Neko_nyaaa</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>VgoldenV vs Neko_nyaaa</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>RJ vs Amie</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## (A) Week 3 Schedule ##
 
