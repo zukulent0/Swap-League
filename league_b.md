@@ -378,6 +378,7 @@ title: (B) League Matchups
 	<tr>
       <td>Grass_ vs Modest_Tomato</td>
       <td></td>
+	</tr>
 	<tr>
       <td>Chewy vs Modest_Tomato</td>
       <td></td>
