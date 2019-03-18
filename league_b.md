@@ -330,7 +330,6 @@ title: (B) League Matchups
 <td>Egguu vs <del>Meiling</del></td>
       <td>-</td>
     </tr>
-	
   </tbody>
 </table>
 
