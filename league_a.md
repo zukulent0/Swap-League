@@ -279,7 +279,7 @@ title: (A) League Matchups
       <td></td>
     </tr>
 	<tr>
-      <td>Kirbycombo35 vs Matt1jaczyyy</td>
+      <td>Neko_nyaaa vs Matt1jaczyyy</td>
       <td></td>
     </tr>
 	<tr>
@@ -295,11 +295,11 @@ title: (A) League Matchups
       <td></td>
     </tr>
 	<tr>
-      <td>VgoldenV vs Neko_nyaaa</td>
+      <td>Amie vs RJ</td>
       <td></td>
     </tr>
 	<tr>
-      <td>RJ vs Amie</td>
+      <td>Fug_ebin_meme vs Amie</td>
       <td></td>
     </tr>
   </tbody>
