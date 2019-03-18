@@ -354,7 +354,7 @@ title: (B) League Matchups
       <td></td>
     </tr>
 	<tr>
-      <td>Aftermoon vs Chewy</td>
+      <td>Aftermoon vs Leetroll</td>
       <td></td>
     </tr>
 	<tr>
