@@ -122,14 +122,14 @@ title: (A) League Matchups
       <td>KirbyCombo</td>
       <td> </td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>15-5</td> <!---->
-      <td>1-0</td> <!---->
-      <td>+10</td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
+      <td>15-5</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+20</td> <!---->
     </tr>
 	  <tr>
       <td>VgoldenV</td>
@@ -139,10 +139,10 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>15-12</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+12</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+15</td> <!---->
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
@@ -161,15 +161,15 @@ title: (A) League Matchups
  <tr>
       <td>Ookami</td>
       <td> </td> <!---->
-      <td></td> <!---->
+      <td>5-15</td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>15-12</td> <!---->
+      <td>1-1</td> <!---->
+      <td>-7</td> <!---->
     </tr>
 	  <tr>
       <td>RJ</td>
@@ -188,14 +188,14 @@ title: (A) League Matchups
       <td>Amie</td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>12-15</td> <!---->
       <td>15-1</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+14</td> <!---->
+      <td>1-1</td> <!---->
+      <td>+11</td> <!---->
     </tr>
       <tr>
       <td>Neko_Nyaa</td>
@@ -203,12 +203,12 @@ title: (A) League Matchups
       <td>5-15</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td>12-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-1</td> <!---->
-      <td>-10</td> <!---->
+      <td>0-2</td> <!---->
+      <td>-13</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -229,8 +229,8 @@ title: (A) League Matchups
       <td>Played on March 15th</td>
     </tr>
        <tr>
-      <td>KirbyCombo25 vs Ookami</td>
-      <td></td>
+      <td>KirbyCombo35 vs Ookami</td>
+      <td>Played on march 16th</td>
     </tr>
 	 <tr>
       <td>VgoldenV vs Amie</td>
@@ -242,7 +242,7 @@ title: (A) League Matchups
     </tr>
 	 <tr>
       <td>Ookami vs Neko_Nyaa</td>
-      <td></td>
+      <td>Played on march 16th</td>
     </tr>
 	 <tr>
       <td>Amie vs Matt1jaczyyy</td>
