@@ -72,37 +72,37 @@ title: (S) League Matchups
       <td>slayers_boner420 </td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-5</td> <!---->
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+10</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+20</td> <!---->
   </tr>
 	   <tr>
       <td>Doremy </td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>15-1</td> <!---->
+      <td>15-2</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+27</td> <!---->
     </tr>
 	  <tr>
       <td>4twEpicYoshi </td>
+      <td>5-15</td> <!---->
+      <td>1-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-2</td> <!---->
+      <td>-24</td> <!---->
     </tr>
 	  <tr>
       <td>Sadcolor </td>
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
+      <td>2-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-1</td> <!---->
-      <td>-10</td> <!---->
+      <td>0-2</td> <!---->
+      <td>-23</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -121,15 +121,15 @@ title: (S) League Matchups
 <tbody>
     <tr>
       <td>slayers_boner420 vs 4twEpicYoshi</td>
-      <td></td>
+      <td>Played on march 16th</td>
     </tr>
        <tr>
       <td>Doremy vs 4twEpicYoshi</td>
-      <td></td>
+      <td>Played on march 16th</td>
     </tr>
 	 <tr>
       <td>Sadcolor vs Doremy</td>
-      <td></td>
+      <td>Played on march 16th</td>
     </tr>
 	 <tr>
       <td>Sadcolor vs slayers_boner420</td>
