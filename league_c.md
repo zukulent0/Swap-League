@@ -90,12 +90,12 @@ title: (C) League Matchups
       <td>Cheep</td>
       <td></td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
+      <td>15-4</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>13-15</td> <!---->    
-      <td>0-1</td> <!---->
-      <td>-2</td> <!---->
+      <td>1-1</td> <!---->
+      <td>+9</td> <!---->
     </tr>
 	  <tr>
       <td>Noobnot</td>
@@ -103,43 +103,43 @@ title: (C) League Matchups
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-9</td> <!---->
       <td>2-15</td> <!---->  
-      <td>0-1</td> <!---->
-      <td>-13</td> <!---->
+      <td>1-1</td> <!---->
+      <td>-7</td> <!---->
     </tr>
 	   <tr>
       <td>Skeeeth</td>
-      <td> </td> <!---->
+      <td>4-15</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
+      <td>4-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
+      <td>0-2</td> <!---->
+      <td>-22</td> <!---->
     </tr>
 	   <tr>
       <td>FlamingShuriken</td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-4</td> <!---->
       <td></td> <!---->
       <td>15-2</td> <!---->
       <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+13</td> <!---->
+      <td>2-0</td> <!---->
+      <td>+24</td> <!---->
     </tr>
 	  	   <tr>
       <td>321MrHaatz</td>
       <td></td> <!---->
-      <td></td> <!---->
+      <td>9-15</td> <!---->
       <td></td> <!---->
       <td>2-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>0-1</td> <!---->
-      <td>-13</td> <!---->
+      <td>0-2</td> <!---->
+      <td>-19</td> <!---->
     </tr>
 	   <tr>
       <td>Ccnut</td>
@@ -169,7 +169,7 @@ title: (C) League Matchups
 <tbody>
     <tr>
       <td>Cheep	 vs Skeeeth</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
        <tr>
       <td>Noobnot vs 321MrHaatz</td>
@@ -177,7 +177,7 @@ title: (C) League Matchups
     </tr>
 	 <tr>
       <td>Skeeeth vs FlamingShuriken</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 	 <tr>
       <td>FlamingShuriken vs 321MrHaatz</td>
