@@ -52,7 +52,7 @@ title: (S) League Matchups
   </tbody>
 </table>
 
-## (S) Match table
+## (S) Match table 1
 
 <table>
   <thead>
@@ -64,7 +64,6 @@ title: (S) League Matchups
       <th>Sadcolor</th>
       <th>W/L</th>
       <th>Score</th>
-
     </tr>
   </thead>
   <tbody>
