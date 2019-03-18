@@ -285,7 +285,6 @@ title: (B) League Matchups
 	    <th>Time and Date</th> 
 	</tr>
   </thead>
-	
 <tbody>
     <tr>
       <td>Modest_tomato	vs Shard Nguyễn</td>
@@ -343,7 +342,6 @@ title: (B) League Matchups
 	    <th>Time and Date</th> 
 	</tr>
   </thead>
-	
 <tbody>
     <tr>
       <td>Aftermoon vs Egguu</td>
