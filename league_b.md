@@ -336,7 +336,56 @@ title: (B) League Matchups
 </table>
 
 ## (B) Week 2 Schedule ##
-
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Aftermoon vs Egguu</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Aftermoon vs Egguu (to fill week 1 meiling drop) </td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Aftermoon vs Chewy</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Chewy vs Nameless</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Fyzzl vs Egguu</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Leetroll vs Nameless</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Grass_ vs Shard Nguyễn</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Fyzzl vs Shard Nguyễn</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Grass_ vs Modest_Tomato</td>
+      <td></td>
+	<tr>
+      <td>Chewy vs Modest_Tomato</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (B) Week 3 Schedule ##
 
