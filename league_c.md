@@ -196,7 +196,29 @@ title: (C) League Matchups
 
 
 ## (C) Week 2 Schedule ##
-
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Noobnot vs Skeeeth</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>321MrHaatz vs Ccnut</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>FlamingShuriken vs Cheep</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (C) Week 3 Schedule ##
 
