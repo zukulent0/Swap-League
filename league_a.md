@@ -173,9 +173,9 @@ title: (A) League Matchups
     </tr>
 	  <tr>
       <td>RJ</td>
-      <td> </td> <!---->
-      <td></td> <!---->
       <td>15-2</td> <!---->
+      <td></td> <!---->
+      <td></td> <!---->
       <td>12-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
