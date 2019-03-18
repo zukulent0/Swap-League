@@ -52,7 +52,7 @@ title: (S) League Matchups
   </tbody>
 </table>
 
-## (S) Match table 1
+## (S) Match table
 
 <table>
   <thead>
@@ -139,6 +139,33 @@ title: (S) League Matchups
 
 ## (S) Week 2 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>slayers_boner420 vs Doremy</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>slayers_boner420 vs 4twEpicYoshi</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>4twEpicYoshi vs Sadcolor</td>
+      <td></td>
+    </tr>
+	<tr>
+      <td>Sadcolor vs Doremy</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (S) Week 3 Schedule ##
 
