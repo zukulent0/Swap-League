@@ -316,7 +316,7 @@ title: (B) League Matchups
       <td>Played on march 16th</td>
     </tr>
 		 <tr>
-      <td><del>Meiling vs Aftermoon</del></td>
+      <td><del>Meiling</del> vs Aftermoon</td>
       <td>-</td>
     </tr>
 			 <tr>
