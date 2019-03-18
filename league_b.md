@@ -232,7 +232,7 @@ title: (B) League Matchups
 		   <td><del>Meiling</del></td>
       <td>x</td> <!---->
       <td>x</td> <!---->
-      <td>x </td> <!---->
+      <td>x</td> <!---->
       <td>x</td> <!---->
       <td>x</td> <!---->
       <td>x</td> <!---->
@@ -254,7 +254,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>14-14</td> <!---->
       <td>1-0</td> <!---->
       <td>+6</td> <!---->
     </tr>
@@ -269,7 +269,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>14-14</td> <!---->
       <td>1-0</td> <!---->
       <td>+14</td> <!---->
     </tr>
@@ -300,7 +300,7 @@ title: (B) League Matchups
       <td>Played on March 13th</td>
     </tr>
 	 <tr>
-      <td>Grass_w vs Nameless</td>
+      <td>Grass_ vs Nameless</td>
       <td></td>
     </tr>
 	 <tr>
@@ -321,7 +321,7 @@ title: (B) League Matchups
     </tr>
 			 <tr>
       <td>Leetroll vs Shard Nguyễn</td>
-      <td></td>
+      <td>Played on March 16th</td>
     </tr>
 			 <tr>
       <td>Chewy vs Leetroll</td>
