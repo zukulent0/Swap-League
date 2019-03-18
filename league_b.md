@@ -335,6 +335,7 @@ title: (B) League Matchups
 </table>
 
 ## (B) Week 2 Schedule ##
+
 <table>
   <thead>
     <tr>
