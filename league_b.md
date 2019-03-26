@@ -128,15 +128,15 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">9-15</a></td> <!---->
-      <td></td> <!---->
+      <td><a href="https://www.twitch.tv/videos/399543346?t=03h18m38s">8-15</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">1-15</a></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-20</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-27</td> <!---->
     </tr>
 	  <tr>
       <td>Chewy</td>
@@ -161,16 +161,16 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>15,9 15-13</td> <!---->
       <td></td> <!---->
+      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">10-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+6</td> <!---->
+      <td>3-1</td> <!---->
+      <td>+9</td> <!---->
     </tr>
 	  	  <tr>
       <td>Grass_</td>
-      <td></td> <!---->
+      <td><a href="https://www.twitch.tv/videos/399543346?t=03h18m38s">15-8</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -179,9 +179,9 @@ title: (B) League Matchups
       <td>15-11</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>1-0</td> <!---->
-      <td>+4</td> <!---->
+      <td>3-15</td> <!---->
+      <td>2-1</td> <!---->
+      <td>-1</td> <!---->
     </tr>
 	   <tr>
 	  <td>Fyzzl</td>
@@ -191,12 +191,12 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>15-5</td> <!---->
+      <td>7-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>2-0</td> <!---->
-      <td>+25</td> <!---->
+      <td>2-1</td> <!---->
+      <td>+18</td> <!---->
     </tr>
 	   <tr>
     <td>Nameless</td>
@@ -208,25 +208,25 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>3-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-1</td> <!---->
-      <td>-10</td> <!---->
+      <td>0-2</td> <!---->
+      <td>-22</td> <!---->
     </tr>
 	   <tr>
     <td>Egguu</td>
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>9-15, 13-15</td> <!---->
       <td>11-15</td> <!---->
+      <td>15-7</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-1</td> <!---->
-      <td>-4</td> <!---->
+      <td>1-3</td> <!---->
+      <td>-4<td> <!---->
     </tr>
 	   <tr>
 		   <td><del>Meiling</del></td>
@@ -248,30 +248,30 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15-9</td> <!---->
       <td> </td> <!---->
+      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
+      <td>15-3</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td>14-14</td> <!---->
-      <td>1-0</td> <!---->
-      <td>+6</td> <!---->
+      <td>15-14</td> <!---->
+      <td>4-0</td> <!---->
+      <td>+24</td> <!---->
     </tr>
 	   <tr>
     <td>Shard Nguyễn</td>
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">15-1</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
+      <td>15-3</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>14-14</td> <!---->
-      <td>1-0</td> <!---->
-      <td>+14</td> <!---->
+      <td>14-15</td> <!---->
+      <td>2-1</td> <!---->
+      <td>+25</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -345,15 +345,15 @@ title: (B) League Matchups
 <tbody>
     <tr>
       <td>Aftermoon vs Egguu</td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
 	<tr>
       <td>Aftermoon vs Egguu (to fill week 1 meiling drop) </td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
 	<tr>
       <td>Aftermoon vs Leetroll</td>
-      <td></td>
+      <td>Played on March 24th</td>
     </tr>
 	<tr>
       <td>Chewy vs Nameless</td>
@@ -361,15 +361,15 @@ title: (B) League Matchups
     </tr>
 	<tr>
       <td>Fyzzl vs Egguu</td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
 	<tr>
       <td>Leetroll vs Nameless</td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
 	<tr>
       <td>Grass_ vs Shard Nguyễn</td>
-      <td></td>
+      <td>Played on March 21th</td>
     </tr>
 	<tr>
       <td>Fyzzl vs Shard Nguyễn</td>
@@ -377,7 +377,7 @@ title: (B) League Matchups
     </tr>
 	<tr>
       <td>Grass_ vs Modest_Tomato</td>
-      <td></td>
+      <td>Played on March 22th</td>
 	</tr>
 	<tr>
       <td>Chewy vs Modest_Tomato</td>
