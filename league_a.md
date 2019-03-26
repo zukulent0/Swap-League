@@ -113,10 +113,10 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>2-15</td> <!---->
+      <td>0-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-25</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-40</td> <!---->
     </tr>
 	  <tr>
       <td>KirbyCombo</td>
@@ -136,13 +136,13 @@ title: (A) League Matchups
       <td>15-3</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
-      <td></td> <!---->
+      <td>15-12</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>15-12</td> <!---->
       <td></td> <!---->
-      <td>2-0</td> <!---->
-      <td>+15</td> <!---->
+      <td>3-0</td> <!---->
+      <td>+18</td> <!---->
     </tr>
 	   <tr>
       <td>Mat1jaczyyy</td>
@@ -150,26 +150,26 @@ title: (A) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-10</td> <!---->
       <td>15-12</td> <!---->
       <td>1-15</td> <!---->
       <td></td> <!---->
-      <td>1-1</td> <!---->
-      <td>-11</td> <!---->
+      <td>2-1</td> <!---->
+      <td>-6</td> <!---->
     </tr>
 
  <tr>
       <td>Ookami</td>
       <td> </td> <!---->
       <td>5-15</td> <!---->
-      <td> </td> <!---->
-      <td></td> <!---->
+      <td>12-15</td> <!---->
+      <td>10-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>15-12</td> <!---->
-      <td>1-1</td> <!---->
-      <td>-7</td> <!---->
+      <td>1-3</td> <!---->
+      <td>-15</td> <!---->
     </tr>
 	  <tr>
       <td>RJ</td>
@@ -179,23 +179,23 @@ title: (A) League Matchups
       <td>12-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td></td> <!---->
-      <td>1-1</td> <!---->
-      <td>+10</td> <!---->
+      <td>15-14</td> <!---->
+      <td>15-5</td> <!---->
+      <td>3-1</td> <!---->
+      <td>+21</td> <!---->
     </tr>
 	  <tr>
       <td>Amie</td>
-      <td></td> <!---->
+      <td>15-0</td> <!---->
       <td></td> <!---->
       <td>12-15</td> <!---->
       <td>15-1</td> <!---->
       <td></td> <!---->
+      <td>14-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>1-1</td> <!---->
-      <td>+11</td> <!---->
+      <td>2-2</td> <!---->
+      <td>+25</td> <!---->
     </tr>
       <tr>
       <td>Neko_Nyaa</td>
@@ -204,11 +204,11 @@ title: (A) League Matchups
       <td></td> <!---->
       <td> </td> <!---->
       <td>12-15</td> <!---->
+      <td>5-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-13</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-23</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -272,11 +272,11 @@ title: (A) League Matchups
 <tbody>
     <tr>
       <td>Matt1jaczyyy vs Ookami</td>
-      <td></td>
+      <td>Played on March 24th</td>
     </tr>
 	<tr>
       <td>Ookami vs VgoldenV</td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
 	<tr>
       <td>Neko_nyaaa vs Matt1jaczyyy</td>
@@ -292,15 +292,15 @@ title: (A) League Matchups
     </tr>
 	<tr>
       <td>RJ vs Neko_nyaaa</td>
-      <td></td>
+      <td>Played on March 24th</td>
     </tr>
 	<tr>
       <td>Amie vs RJ</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
 	<tr>
       <td>Fug_ebin_meme vs Amie</td>
-      <td></td>
+      <td>Played on March 23th</td>
     </tr>
   </tbody>
 </table>
