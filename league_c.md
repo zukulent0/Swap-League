@@ -91,44 +91,44 @@ title: (C) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>15-4</td> <!---->
-      <td></td> <!---->
+      <td>5-15</td> <!---->
       <td></td> <!---->
       <td>13-15</td> <!---->    
-      <td>1-1</td> <!---->
-      <td>+9</td> <!---->
+      <td>1-2</td> <!---->
+      <td>-1</td> <!---->
     </tr>
 	  <tr>
       <td>Noobnot</td>
       <td> </td> <!---->
       <td></td> <!---->
-      <td> </td> <!---->
+      <td>14-15</td> <!---->
       <td></td> <!---->
       <td>15-9</td> <!---->
       <td>2-15</td> <!---->  
-      <td>1-1</td> <!---->
-      <td>-7</td> <!---->
+      <td>1-2</td> <!---->
+      <td>-8</td> <!---->
     </tr>
 	   <tr>
       <td>Skeeeth</td>
       <td>4-15</td> <!---->
-      <td></td> <!---->
+      <td>15-14</td> <!---->
       <td> </td> <!---->
       <td>4-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-22</td> <!---->
+      <td>1-2</td> <!---->
+      <td>-21</td> <!---->
     </tr>
 	   <tr>
       <td>FlamingShuriken</td>
-      <td></td> <!---->
+      <td>15-5</td> <!---->
       <td></td> <!---->
       <td>15-4</td> <!---->
       <td></td> <!---->
       <td>15-2</td> <!---->
       <td></td> <!---->
-      <td>2-0</td> <!---->
-      <td>+24</td> <!---->
+      <td>3-0</td> <!---->
+      <td>+34</td> <!---->
     </tr>
 	  	   <tr>
       <td>321MrHaatz</td>
@@ -137,9 +137,9 @@ title: (C) League Matchups
       <td></td> <!---->
       <td>2-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-19</td> <!---->
+      <td>4-15</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-30</td> <!---->
     </tr>
 	   <tr>
       <td>Ccnut</td>
@@ -147,10 +147,10 @@ title: (C) League Matchups
       <td>15-2</td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
+      <td>15-4</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>2-0</td> <!---->
-      <td>+15</td> <!---->
+      <td>3-0</td> <!---->
+      <td>+26</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -211,11 +211,11 @@ title: (C) League Matchups
     </tr>
 	<tr>
       <td>321MrHaatz vs Ccnut</td>
-      <td></td>
+      <td>Played on March 24th</td>
     </tr>
 	<tr>
       <td>FlamingShuriken vs Cheep</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
   </tbody>
 </table>
