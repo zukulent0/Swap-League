@@ -90,9 +90,9 @@ title: (S) League Matchups
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a>, 2-15</td> <!---->
       <td>1-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>0-3</td> <!---->
-      <td>-37</td> <!---->
+      <td>15-10</td> <!---->
+      <td>1-3</td> <!---->
+      <td>-32</td> <!---->
     </tr>
 	  <tr>
       <td>Sadcolor </td>
@@ -100,8 +100,8 @@ title: (S) League Matchups
       <td>2-15, 1-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>0-3</td> <!---->
-      <td>-37</td> <!---->
+      <td>0-4</td> <!---->
+      <td>-42</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -158,7 +158,7 @@ title: (S) League Matchups
     </tr>
 	<tr>
       <td>4twEpicYoshi vs Sadcolor</td>
-      <td></td>
+      <td>Played on March 21th</td>
     </tr>
 	<tr>
       <td>Sadcolor vs Doremy</td>
