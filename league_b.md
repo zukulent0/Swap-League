@@ -126,7 +126,7 @@ title: (B) League Matchups
     <tr>
       <td>Modest_Tomato</td>
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-5</td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">9-15</a></td> <!---->
       <td><a href="https://www.twitch.tv/videos/399543346?t=03h18m38s">8-15</a></td> <!---->
       <td></td> <!---->
@@ -135,23 +135,23 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">1-15</a></td> <!---->
-      <td>0-3</td> <!---->
-      <td>-27</td> <!---->
+      <td>1-3</td> <!---->
+      <td>-17</td> <!---->
     </tr>
 	  <tr>
       <td>Chewy</td>
-      <td></td> <!---->
+      <td>5-15</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td>0-15</td> <!---->
-      <td></td> <!---->
+      <td>15-6</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>9-15</td> <!---->
       <td></td> <!---->
-     <td>0-2</td> <!---->
-      <td>-21</td> <!---->
+     <td>1-3</td> <!---->
+      <td>-22</td> <!---->
     </tr>
 	  <tr>
       <td>Aftermoon</td>
@@ -357,7 +357,7 @@ title: (B) League Matchups
     </tr>
 	<tr>
       <td>Chewy vs Nameless</td>
-      <td></td>
+      <td>Played on March 24th</td>
     </tr>
 	<tr>
       <td>Fyzzl vs Egguu</td>
@@ -381,7 +381,7 @@ title: (B) League Matchups
 	</tr>
 	<tr>
       <td>Chewy vs Modest_Tomato</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
   </tbody>
 </table>
