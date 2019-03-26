@@ -207,7 +207,7 @@ title: (C) League Matchups
 <tbody>
     <tr>
       <td>Noobnot vs Skeeeth</td>
-      <td></td>
+      <td>Played on March 21th</td>
     </tr>
 	<tr>
       <td>321MrHaatz vs Ccnut</td>
