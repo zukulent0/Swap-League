@@ -70,38 +70,38 @@ title: (S) League Matchups
     <tr>
       <td>slayers_boner420 </td>
       <td></td> <!---->
-      <td></td> <!---->
+      <td>0-15</td> <!---->
       <td>15-5</td> <!---->
-      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a></td> <!---->
-      <td>2-0</td> <!---->
-      <td>+20</td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a>, 15-2</td> <!---->
+      <td>3-1</td> <!---->
+      <td>+18</td> <!---->
   </tr>
 	   <tr>
       <td>Doremy </td>
-      <td></td> <!---->
+      <td>15-0</td> <!---->
       <td></td> <!---->
       <td>15-1</td> <!---->
-      <td>15-2</td> <!---->
-      <td>2-0</td> <!---->
-      <td>+27</td> <!---->
+      <td>15-2, 15-1</td> <!---->
+      <td>4-0</td> <!---->
+      <td>+56</td> <!---->
     </tr>
 	  <tr>
       <td>4twEpicYoshi </td>
-      <td>5-15</td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a>, 2-15</td> <!---->
       <td>1-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-24</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-37</td> <!---->
     </tr>
 	  <tr>
       <td>Sadcolor </td>
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
-      <td>2-15</td> <!---->
+      <td>2-15, 1-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-23</td> <!---->
+      <td>0-3</td> <!---->
+      <td>-37</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -150,11 +150,11 @@ title: (S) League Matchups
 <tbody>
     <tr>
       <td>slayers_boner420 vs Doremy</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
 	<tr>
       <td>slayers_boner420 vs 4twEpicYoshi</td>
-      <td></td>
+      <td>Played on March 21th</td>
     </tr>
 	<tr>
       <td>4twEpicYoshi vs Sadcolor</td>
@@ -162,7 +162,7 @@ title: (S) League Matchups
     </tr>
 	<tr>
       <td>Sadcolor vs Doremy</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
   </tbody>
 </table>
