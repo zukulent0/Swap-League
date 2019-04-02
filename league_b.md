@@ -162,7 +162,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15,9 15-13</td> <!---->
       <td></td> <!---->
-      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">10-15</td> <!---->
+		  <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">10-15</a></td> <!---->
       <td></td> <!---->
       <td>3-1</td> <!---->
       <td>+9</td> <!---->
@@ -396,11 +396,11 @@ title: (B) League Matchups
   </thead>
 <tbody>
     <tr>
-      <td></td>
+      <td>Modest_Tomato vs Egguu</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>Modest_Tomato vs </td>
       <td></td>
     </tr>
     <tr>
