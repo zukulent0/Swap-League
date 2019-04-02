@@ -136,8 +136,8 @@ title: (A) League Matchups
       <td>15-3</td> <!---->
       <td>12-15</td> <!---->
       <td></td> <!---->
-      <td>15-12</td> <!---->
       <td></td> <!---->
+      <td>15-12</td> <!---->
       <td></td> <!---->
       <td>15-12</td> <!---->
       <td></td> <!---->
@@ -308,6 +308,49 @@ title: (A) League Matchups
 
 ## (A) Week 3 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Fug_ebin_meme vs Mat1jaczyyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Neko_nyaa vs Fug_ebin_meme</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>VgoldenV vs Mat1jaczyyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>KirbyCombo vs RJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Amie vs KirbyCombo</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>VgoldenV vs Neko_Nyaa</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ookami vs RJ</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Amie vs Ookami</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (A) Week 4 Schedule ##
 
