@@ -180,19 +180,19 @@ title: (S) League Matchups
 <tbody>
     <tr>
       <td>slayers_boner420 vs Doremy</td>
-      <td>Played on March 22th</td>
+      <td></td>
     </tr>
 	<tr>
       <td>Doremy vs 4twEpicYoshi</td>
-      <td>Played on March 21th</td>
+      <td></td>
     </tr>
 	<tr>
       <td>4twEpicYoshi vs Sadcolor</td>
-      <td>Played on March 21th</td>
+      <td></td>
     </tr>
 	<tr>
       <td>Sadcolor vs slayers_boner420</td>
-      <td>Played on March 22th</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
