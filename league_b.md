@@ -247,8 +247,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15-9</td> <!---->
       <td> </td> <!---->
-      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</a></td> <!---->
       <td></td> <!---->
+      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</a></td> <!---->
       <td>15-3</td> <!---->
       <td></td> <!---->
       <td>x</td> <!---->
@@ -400,11 +400,11 @@ title: (B) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Modest_Tomato vs </td>
+      <td>Chewy vs Aftermoon</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>Modest_Tomato vs Fyzzl</td>
       <td></td>
     </tr>
     <tr>
