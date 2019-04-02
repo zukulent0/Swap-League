@@ -98,8 +98,8 @@ title: (S) League Matchups
       <td>Sadcolor </td>
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
       <td>2-15, 1-15</td> <!---->
-      <td></td> <!---->
       <td>10-15</td> <!---->
+      <td></td> <!---->
       <td>0-4</td> <!---->
       <td>-42</td> <!---->
     </tr>
@@ -191,7 +191,7 @@ title: (S) League Matchups
       <td>Played on March 21th</td>
     </tr>
 	<tr>
-      <td>Sadcolor vs Doremy</td>
+      <td>Sadcolor vs slayers_boner420</td>
       <td>Played on March 22th</td>
     </tr>
   </tbody>
