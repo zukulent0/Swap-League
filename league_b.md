@@ -145,13 +145,13 @@ title: (B) League Matchups
       <td> </td> <!---->
       <td></td> <!---->
       <td>0-15</td> <!---->
-      <td>15-6</td> <!---->
+      <td>6-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>9-15</td> <!---->
       <td></td> <!---->
-     <td>1-3</td> <!---->
-      <td>-22</td> <!---->
+     <td>0-4</td> <!---->
+      <td>-40</td> <!---->
     </tr>
 	  <tr>
       <td>Aftermoon</td>
@@ -194,14 +194,14 @@ title: (B) League Matchups
       <td>7-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
-      <td>2-1</td> <!---->
-      <td>+18</td> <!---->
+      <td>3-15</td> <!---->
+      <td>2-2</td> <!---->
+      <td>+6</td> <!---->
     </tr>
 	   <tr>
     <td>Nameless</td>
       <td></td> <!---->
-      <td></td> <!---->
+      <td>15-6</td> <!---->
       <td> </td> <!---->
       <td></td> <!---->
       <td>5-15</td> <!---->
@@ -210,8 +210,8 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>3-15</td> <!---->
       <td></td> <!---->
-      <td>0-2</td> <!---->
-      <td>-22</td> <!---->
+      <td>1-2</td> <!---->
+      <td>-16</td> <!---->
     </tr>
 	   <tr>
     <td>Egguu</td>
@@ -250,8 +250,8 @@ title: (B) League Matchups
       <td> </td> <!---->
       <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</a></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
       <td>15-3</td> <!---->
+      <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>15-14</td> <!---->
@@ -264,14 +264,14 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>15-3</td> <!---->
-      <td></td> <!---->
+      <td>15-3</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>14-15</td> <!---->
-      <td>2-1</td> <!---->
-      <td>+25</td> <!---->
+      <td>3-1</td> <!---->
+      <td>+37</td> <!---->
     </tr>
 	</tbody>
 </table>
@@ -388,5 +388,59 @@ title: (B) League Matchups
 
 ## (B) Week 3 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+<tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (B) Week 4 Schedule ##
