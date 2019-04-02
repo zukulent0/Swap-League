@@ -99,7 +99,7 @@ title: (S) League Matchups
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
       <td>2-15, 1-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>10-15</td> <!---->
       <td>0-4</td> <!---->
       <td>-42</td> <!---->
     </tr>
@@ -169,5 +169,30 @@ title: (S) League Matchups
 
 ## (S) Week 3 Schedule ##
 
-
-## (S) Week 4 Schedule ##
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>slayers_boner420 vs Doremy</td>
+      <td>Played on March 22th</td>
+    </tr>
+	<tr>
+      <td>Doremy vs 4twEpicYoshi</td>
+      <td>Played on March 21th</td>
+    </tr>
+	<tr>
+      <td>4twEpicYoshi vs Sadcolor</td>
+      <td>Played on March 21th</td>
+    </tr>
+	<tr>
+      <td>Sadcolor vs Doremy</td>
+      <td>Played on March 22th</td>
+    </tr>
+  </tbody>
+</table>
