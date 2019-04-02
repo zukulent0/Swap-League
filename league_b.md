@@ -226,7 +226,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>1-3</td> <!---->
-      <td>-4<td> <!---->
+      <td>-4</td> <!---->
     </tr>
 	   <tr>
 		   <td><del>Meiling</del></td>
@@ -248,7 +248,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15-9</td> <!---->
       <td> </td> <!---->
-      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</td> <!---->
+      <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>15-3</td> <!---->
@@ -373,7 +373,7 @@ title: (B) League Matchups
     </tr>
 	<tr>
       <td>Fyzzl vs Shard Nguyễn</td>
-      <td></td>
+      <td>Played on March 22th</td>
     </tr>
 	<tr>
       <td>Grass_ vs Modest_Tomato</td>
