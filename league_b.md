@@ -98,7 +98,6 @@ title: (B) League Matchups
       <td>20,278</td>
       <td> - </td>
     </tr>
-    
   </tbody>
 </table>
 
