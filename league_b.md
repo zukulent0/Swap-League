@@ -114,7 +114,7 @@ title: (B) League Matchups
       <th>Fyzzl</th>
       <th>Nameless</th>
       <th>Egguu</th>
-      <th>Meiling</th>
+      <th><del>Meiling</del></th>
       <th>Leetroll</th>
       <th>Shard Nguyễn</th>
       <th>W/L</th>
@@ -131,7 +131,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">1-15</a></td> <!---->
       <td>1-3</td> <!---->
@@ -146,7 +146,7 @@ title: (B) League Matchups
       <td>0-15</td> <!---->
       <td>6-15</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td>9-15</td> <!---->
       <td></td> <!---->
      <td>0-4</td> <!---->
@@ -161,7 +161,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td></td> <!---->
       <td>15,9 15-13</td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
 		  <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">10-15</a></td> <!---->
       <td></td> <!---->
       <td>3-1</td> <!---->
@@ -176,7 +176,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>x</td> <!---->
       <td>15-11</td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td>3-15</td> <!---->
       <td>2-1</td> <!---->
@@ -191,7 +191,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15-5</td> <!---->
       <td>7-15</td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td>3-15</td> <!---->
       <td>2-2</td> <!---->
@@ -206,7 +206,7 @@ title: (B) League Matchups
       <td>5-15</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td>3-15</td> <!---->
       <td></td> <!---->
       <td>1-2</td> <!---->
@@ -221,7 +221,7 @@ title: (B) League Matchups
       <td>15-7</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
       <td>1-3</td> <!---->
@@ -251,7 +251,7 @@ title: (B) League Matchups
       <td></td> <!---->
       <td>15-3</td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td>15-14</td> <!---->
       <td>4-0</td> <!---->
@@ -266,7 +266,7 @@ title: (B) League Matchups
       <td>15-3</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
-      <td></td> <!---->
+      <td>x</td> <!---->
       <td></td> <!---->
       <td>14-15</td> <!---->
       <td>3-1</td> <!---->
