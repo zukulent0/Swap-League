@@ -71,8 +71,8 @@ title: (S) League Matchups
       <td>slayers_boner420 </td>
       <td></td> <!---->
       <td>0-15</td> <!---->
-      <td>15-5</td> <!---->
-      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a>, 15-2</td> <!---->
+      <td>15-5, 15-2</td> <!---->
+      <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">15-5</a>,</td> <!---->
       <td>3-1</td> <!---->
       <td>+18</td> <!---->
   </tr>
