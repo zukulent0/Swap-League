@@ -400,43 +400,35 @@ title: (B) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Chewy vs Aftermoon</td>
+      <td>Chewy vs Shard Nguyễn</td>
       <td></td>
     </tr>
     <tr>
-      <td>Modest_Tomato vs Fyzzl</td>
+      <td>Aftermoon vs Fyzzl</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
+      <td>Chewy vs Egguu</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
+      <td>Aftermoon vs Nameless</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
+      <td>Grass_ vs Leetroll</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>Fyzzl vs Grass_</td>
       <td></td>
     </tr>
     <tr>
+      <td>Nameless vs Shard Nguyễn</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Leetroll vs Modest_Tomato</td>
       <td></td>
     </tr>
   </tbody>
