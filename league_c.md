@@ -244,11 +244,11 @@ title: (C) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Cheep vs cnut</td>
+      <td>Cheep vs Cnut</td>
       <td></td>
     </tr>
     <tr>
-      <td>noobnot vs Skeeeth</td>
+      <td>Noobnot vs Skeeeth</td>
       <td></td>
     </tr>
     <tr>
@@ -256,11 +256,11 @@ title: (C) League Matchups
       <td></td>
     </tr>
     <tr>
-      <td>Skeeeth vs cnut</td>
+      <td>Skeeeth vs Cnut</td>
       <td></td>
     </tr>
     <tr>
-      <td>FlamingShuriken vs cnut</td>
+      <td>FlamingShuriken vs Cnut</td>
       <td></td>
     </tr>
     <tr>
