@@ -106,7 +106,7 @@ title: (A) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>(8) Fug_ebin_meme </td>
+      <td>(7) Fug_ebin_meme </td>
       <td></td> <!---->
       <td></td> <!---->
       <td>3-15</td> <!---->
@@ -119,7 +119,7 @@ title: (A) League Matchups
       <td>-40</td> <!---->
     </tr>
 	  <tr>
-      <td>(2) KirbyCombo</td>
+      <td>(4) KirbyCombo</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td>13-15</td> <!---->
@@ -132,7 +132,7 @@ title: (A) League Matchups
       <td>+18</td> <!---->
     </tr>
 	  <tr>
-      <td>(4) VgoldenV</td>
+      <td>(1) VgoldenV</td>
       <td>15-3</td> <!---->
       <td>15-13</td> <!---->
       <td></td> <!---->
@@ -145,7 +145,7 @@ title: (A) League Matchups
       <td>+20</td> <!---->
     </tr>
 	   <tr>
-      <td>(5) Mat1jaczyyy</td>
+      <td>(3) Mat1jaczyyy</td>
       <td></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -172,7 +172,7 @@ title: (A) League Matchups
       <td>-15</td> <!---->
     </tr>
 	  <tr>
-      <td>(3) RJ</td>
+      <td>(2) RJ</td>
       <td>15-2</td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -185,7 +185,7 @@ title: (A) League Matchups
       <td>+21</td> <!---->
     </tr>
 	  <tr>
-      <td>(1) Amie</td>
+      <td>(5) Amie</td>
       <td>15-0</td> <!---->
       <td></td> <!---->
       <td>12-15</td> <!---->
@@ -198,7 +198,7 @@ title: (A) League Matchups
       <td>+25</td> <!---->
     </tr>
       <tr>
-      <td>(7)Neko_Nyaa</td>
+      <td>(8)Neko_Nyaa</td>
       <td> </td> <!---->
       <td>5-15</td> <!---->
       <td></td> <!---->
