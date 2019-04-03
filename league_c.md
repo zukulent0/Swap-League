@@ -87,7 +87,7 @@ title: (C) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Cheep</td>
+      <td>)3) Cheep</td>
       <td></td> <!---->
       <td></td> <!---->
       <td>15-4</td> <!---->
@@ -98,7 +98,7 @@ title: (C) League Matchups
       <td>-1</td> <!---->
     </tr>
 	  <tr>
-      <td>Noobnot</td>
+      <td>(4) Noobnot</td>
       <td> </td> <!---->
       <td></td> <!---->
       <td>14-15</td> <!---->
@@ -109,7 +109,7 @@ title: (C) League Matchups
       <td>-8</td> <!---->
     </tr>
 	   <tr>
-      <td>Skeeeth</td>
+      <td>(5) Skeeeth</td>
       <td>4-15</td> <!---->
       <td>15-14</td> <!---->
       <td> </td> <!---->
@@ -120,7 +120,7 @@ title: (C) League Matchups
       <td>-21</td> <!---->
     </tr>
 	   <tr>
-      <td>FlamingShuriken</td>
+      <td>(1) FlamingShuriken</td>
       <td>15-5</td> <!---->
       <td></td> <!---->
       <td>15-4</td> <!---->
@@ -131,7 +131,7 @@ title: (C) League Matchups
       <td>+34</td> <!---->
     </tr>
 	  	   <tr>
-      <td>321MrHaatz</td>
+      <td>(6) 321MrHaatz</td>
       <td></td> <!---->
       <td>9-15</td> <!---->
       <td></td> <!---->
@@ -142,7 +142,7 @@ title: (C) League Matchups
       <td>-30</td> <!---->
     </tr>
 	   <tr>
-      <td>Ccnut</td>
+      <td>(2) Ccnut</td>
       <td>15-13</td> <!---->
       <td>15-2</td> <!---->
       <td> </td> <!---->
