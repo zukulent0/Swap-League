@@ -68,7 +68,7 @@ title: (S) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>slayers_boner420 </td>
+      <td>(2) slayers_boner420 </td>
       <td></td> <!---->
       <td>0-15</td> <!---->
       <td>15-5, 15-2</td> <!---->
@@ -77,7 +77,7 @@ title: (S) League Matchups
       <td>+18</td> <!---->
   </tr>
 	   <tr>
-      <td>Doremy </td>
+      <td>(1) Doremy </td>
       <td>15-0</td> <!---->
       <td></td> <!---->
       <td>15-1</td> <!---->
@@ -86,7 +86,7 @@ title: (S) League Matchups
       <td>+56</td> <!---->
     </tr>
 	  <tr>
-      <td>4twEpicYoshi </td>
+      <td>(3) 4twEpicYoshi </td>
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a>, 2-15</td> <!---->
       <td>1-15</td> <!---->
       <td></td> <!---->
@@ -95,7 +95,7 @@ title: (S) League Matchups
       <td>-32</td> <!---->
     </tr>
 	  <tr>
-      <td>Sadcolor </td>
+      <td>(4) Sadcolor </td>
       <td><a href="https://www.twitch.tv/videos/394013321?t=00h11m15s">5-15</a></td> <!---->
       <td>2-15, 1-15</td> <!---->
       <td>10-15</td> <!---->
