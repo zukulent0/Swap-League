@@ -87,7 +87,7 @@ title: (C) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>)3) Cheep</td>
+      <td>(3) Cheep</td>
       <td></td> <!---->
       <td></td> <!---->
       <td>15-4</td> <!---->
