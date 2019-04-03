@@ -222,6 +222,53 @@ title: (C) League Matchups
 
 ## (C) Week 3 Schedule ##
 
+<table>
+  <thead>
+    <tr>
+      <th>match</th>
+	    <th>Time and Date</th> 
+	</tr>
+  </thead>
+	
+<tbody>
+    <tr>
+      <td>Cheep vs Noobnot</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cheep vs 321MrHaatz</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Noobnot vs FlamingShuriken</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cheep vs cnut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>noobnot vs Skeeeth</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Skeeeth vs 321MrHaatz</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Skeeeth vs cnut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FlamingShuriken vs cnut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>FlamingShuriken vs 321MrHaatz</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## (C) Week 4 Schedule ##
 
