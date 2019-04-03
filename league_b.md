@@ -123,7 +123,7 @@ title: (B) League Matchups
   </thead>
   <tbody>
     <tr>
-      <td>Modest_Tomato</td>
+      <td>(8)Modest_Tomato</td>
       <td></td> <!---->
       <td>15-5</td> <!---->
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">9-15</a></td> <!---->
@@ -138,7 +138,7 @@ title: (B) League Matchups
       <td>-17</td> <!---->
     </tr>
 	  <tr>
-      <td>Chewy</td>
+      <td>(9)Chewy</td>
       <td>5-15</td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
@@ -153,7 +153,7 @@ title: (B) League Matchups
       <td>-40</td> <!---->
     </tr>
 	  <tr>
-      <td>Aftermoon</td>
+      <td>(3)Aftermoon</td>
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h34m49s">15-9</a></td> <!---->
       <td></td> <!---->
       <td> </td> <!---->
@@ -168,7 +168,7 @@ title: (B) League Matchups
       <td>+9</td> <!---->
     </tr>
 	  	  <tr>
-      <td>Grass_</td>
+      <td>(5)Grass_</td>
       <td><a href="https://www.twitch.tv/videos/399543346?t=03h18m38s">15-8</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
@@ -183,7 +183,7 @@ title: (B) League Matchups
       <td>-1</td> <!---->
     </tr>
 	   <tr>
-	  <td>Fyzzl</td>
+	  <td>(4)Fyzzl</td>
       <td></td> <!---->
       <td>15-0</td> <!---->
       <td> </td> <!---->
@@ -198,7 +198,7 @@ title: (B) League Matchups
       <td>+6</td> <!---->
     </tr>
 	   <tr>
-    <td>Nameless</td>
+    <td>(7)Nameless</td>
       <td></td> <!---->
       <td>15-6</td> <!---->
       <td> </td> <!---->
@@ -213,7 +213,7 @@ title: (B) League Matchups
       <td>-16</td> <!---->
     </tr>
 	   <tr>
-    <td>Egguu</td>
+    <td>(6)Egguu</td>
       <td></td> <!---->
       <td></td> <!---->
       <td>9-15, 13-15</td> <!---->
@@ -243,7 +243,7 @@ title: (B) League Matchups
       <td>x</td> <!---->
     </tr>
 	   <tr>
-    <td>Leetroll</td>
+    <td>(2)Leetroll</td>
       <td></td> <!---->
       <td>15-9</td> <!---->
       <td><a href="https://www.youtube.com/watch?v=401gJsKM5i8&feature=youtu.be">15-10</a></td> <!---->
@@ -258,7 +258,7 @@ title: (B) League Matchups
       <td>+24</td> <!---->
     </tr>
 	   <tr>
-    <td>Shard Nguyễn</td>
+    <td>(1)Shard Nguyễn</td>
       <td><a href="https://www.twitch.tv/videos/394107792?t=02h03m23s">15-1</a></td> <!---->
       <td></td> <!---->
       <td></td> <!---->
